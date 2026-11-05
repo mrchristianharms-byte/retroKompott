@@ -1,0 +1,64 @@
+---
+import '../styles/global.css';
+---
+
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f5f4ef" />
+    <meta
+      name="description"
+      content="RetroKompott — sorgfältig kuratierte Fundstücke aus der Vergangenheit."
+    />
+    <title>RetroKompott — Fundstücke mit Geschichte</title>
+  </head>
+  <body class="bg-[#f5f4ef] text-[#20231f] antialiased">
+    <main class="mx-auto flex min-h-screen max-w-6xl flex-col px-6 sm:px-10">
+      <header class="flex items-center justify-between border-b border-[#20231f]/15 py-6">
+        <a href="/retroKompott/" class="text-sm font-bold tracking-[0.18em] uppercase">
+          RetroKompott
+        </a>
+        <span class="text-xs tracking-wide text-[#66685f]">GUT GEFUNDEN. GUT BEWAHRT.</span>
+      </header>
+
+      <section class="grid flex-1 items-center gap-12 py-20 md:grid-cols-[1.2fr_0.8fr] md:py-28">
+        <div>
+          <p class="mb-6 text-xs font-semibold tracking-[0.22em] text-[#7b4b36] uppercase">
+            Dinge mit Vergangenheit
+          </p>
+          <h1 class="max-w-3xl text-6xl leading-[0.96] font-medium tracking-[-0.06em] sm:text-8xl">
+            Altes neu
+            <span class="font-serif font-normal italic text-[#7b4b36]">entdecken.</span>
+          </h1>
+          <p class="mt-8 max-w-md text-base leading-7 text-[#66685f] sm:text-lg">
+            Besondere Fundstücke, kleine Geschichten und zeitloses Design. Willkommen bei
+            RetroKompott.
+          </p>
+          <a
+            href="mailto:hallo@retrokompott.de"
+            class="mt-10 inline-flex items-center gap-3 rounded-full bg-[#20231f] px-6 py-3 text-sm text-white transition hover:bg-[#7b4b36]"
+          >
+            Kontakt aufnehmen <span aria-hidden="true">↗</span>
+          </a>
+        </div>
+
+        <div
+          class="relative flex aspect-[4/5] max-h-[34rem] items-end overflow-hidden rounded-[48%_48%_8px_8px] bg-[#d8d2c4] p-8 sm:p-10"
+          aria-label="Abstrakte Illustration in warmen Erdtönen"
+          role="img"
+        >
+          <div class="absolute inset-0 bg-[radial-gradient(ellipse_at_55%_35%,#f0e9d8_0%,#d8cbb1_38%,#a66e4f_100%)]"></div>
+          <div class="absolute top-[18%] left-[28%] h-[52%] w-[44%] rotate-[-12deg] rounded-[45%_45%_12%_12%] border border-[#f5f4ef]/60 bg-[#7b4b36]/85 shadow-[24px_28px_50px_#503b2d55]"></div>
+          <div class="absolute top-[27%] left-[38%] h-[37%] w-[24%] rotate-[7deg] rounded-[45%_45%_14%_14%] border border-[#f5f4ef]/50 bg-[#d9a475]"></div>
+          <p class="relative text-xs tracking-[0.2em] text-white/90 uppercase">Seit jeher besonders</p>
+        </div>
+      </section>
+
+      <footer class="flex flex-col justify-between gap-3 border-t border-[#20231f]/15 py-5 text-xs text-[#66685f] sm:flex-row">
+        <span>© {new Date().getFullYear()} RetroKompott</span>
+        <span>Mit Blick für das Beständige.</span>
+      </footer>
+    </main>
+  </body>
+</html>
