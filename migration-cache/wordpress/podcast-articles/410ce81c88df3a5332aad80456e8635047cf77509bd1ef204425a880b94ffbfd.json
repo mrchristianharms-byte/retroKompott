@@ -1,0 +1,19 @@
+{
+  "id": "410ce81c88df3a5332aad80456e8635047cf77509bd1ef204425a880b94ffbfd",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-12-12_retrokompott_stammtisch_098_11122020_preview.mp3",
+  "slug": "retrokompott-stammtisch-98-11-12-2020-preview-erste-stunde-410ce81c88",
+  "title": "Retrokompott Stammtisch 98 - 11.12.2020 (Preview erste Stunde)",
+  "summary": " Themen:  - Videostammtisch - Cyberpunk - Passwörter - Corona - Yolanda - Wer hat was gespielt - Game Awards - Rauchen ",
+  "published_at": "2020-12-12T11:19:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-12-12_retrokompott_stammtisch_098_11122020_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-12-12_retrokompott_stammtisch_098_11122020_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57931392,
+  "duration": "1:00:21",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "1ed8176df9f744ed0bd742afa3ba3038588fc3de9178e0468ae25496c60fcc72"
+}

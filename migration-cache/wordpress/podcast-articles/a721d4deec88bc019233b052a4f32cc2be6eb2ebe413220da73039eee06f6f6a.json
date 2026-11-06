@@ -1,0 +1,19 @@
+{
+  "id": "a721d4deec88bc019233b052a4f32cc2be6eb2ebe413220da73039eee06f6f6a",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-10-23_stammtisch_143_preview.mp3",
+  "slug": "retrokompott-stammtisch-143-preview-a721d4deec",
+  "title": "Retrokompott Stammtisch 143 (Preview)",
+  "summary": "Themen u.a.:  - XBox  - Podcasts hören  - ebay  - Sucht  - GTA  - Diablo 2  - Musik kopieren  - Deutung von Liedtexten  - Werbung  - Descent  - Wer hat was gespielt?  - Scripting in Sony Spielen  - Zustand in Videospielfirmen  - Christopher Lee ",
+  "published_at": "2021-10-23T15:59:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-10-23_stammtisch_143_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-10-23_stammtisch_143_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57700992,
+  "duration": "1:00:06",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "4db727b36a682dbccaf58f671858b7e04dc6c4f1e5c886891d9997dbf5a9c679"
+}

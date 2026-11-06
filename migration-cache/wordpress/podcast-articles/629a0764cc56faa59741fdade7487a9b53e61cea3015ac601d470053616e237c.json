@@ -1,0 +1,19 @@
+{
+  "id": "629a0764cc56faa59741fdade7487a9b53e61cea3015ac601d470053616e237c",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-12-10_retrokompott_stammtisch_202_09122022_preview.mp3",
+  "slug": "retrokompott-stammtisch-202-vom-9-12-2022-preview-629a0764cc",
+  "title": "Retrokompott Stammtisch 202 vom 9.12.2022 (Preview)",
+  "summary": "Die erste Stunde unseres Retrokompott Stammtisches.  Die komplette Folge (brutto über 7 Stunden!) gibt es fuer alle Unterstuetzer bei Steady und Patreon ab 1 Euro / Monat.",
+  "published_at": "2022-12-10T12:02:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-12-10_retrokompott_stammtisch_202_09122022_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2022-12-10_retrokompott_stammtisch_202_09122022_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58464768,
+  "duration": "1:00:54",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "893a40540a66746ba34af783f6c59029b530519065c63fcc1b42f996fac8e88c"
+}

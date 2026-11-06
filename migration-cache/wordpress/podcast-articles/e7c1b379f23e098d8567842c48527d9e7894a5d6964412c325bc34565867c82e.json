@@ -1,0 +1,19 @@
+{
+  "id": "e7c1b379f23e098d8567842c48527d9e7894a5d6964412c325bc34565867c82e",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-05-21_retrokompott_stammtisch_173_20052022_preview.mp3",
+  "slug": "retrokompott-stammtisch-173-preview-vom-20-05-2022-e7c1b379f2",
+  "title": "Retrokompott Stammtisch 173 (Preview) vom 20.05.2022",
+  "summary": "weitere Informationen werden zeitnah nachgereicht",
+  "published_at": "2022-05-21T07:28:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-05-21_retrokompott_stammtisch_173_20052022_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2022-05-21_retrokompott_stammtisch_173_20052022_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58384128,
+  "duration": "1:00:49",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "62ad4801bac7c4c6c0ebb602d6d734735d696bc1b70e431998168959ce751a9d"
+}

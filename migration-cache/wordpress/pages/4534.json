@@ -1,0 +1,32 @@
+{
+  "id": 4534,
+  "resource_type": "page",
+  "slug": "news-facebook",
+  "status": "publish",
+  "link": "https://blog.retrokompott.de/news-facebook/",
+  "date": "2020-04-22T15:35:17",
+  "date_gmt": "2020-04-22T15:35:17",
+  "modified": "2020-06-20T16:52:33",
+  "modified_gmt": "2020-06-20T16:52:33",
+  "title": {
+    "rendered": "News (Facebook)"
+  },
+  "content": {
+    "rendered": "[fts_facebook type=page id=793045087460758  posts=6 description=yes posts_displayed=page_only images_align=left]\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>[fts_facebook type=page id=793045087460758  posts=6 description=yes posts_displayed=page_only images_align=left]</p>\n",
+    "protected": false
+  },
+  "categories": [],
+  "tags": [],
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "sticky": false,
+  "guid": {
+    "rendered": "http://blog.retrokompott.de/?page_id=4534"
+  },
+  "source_hash": "9f13aa2c9d5592f0125be381264183fb01e68dfdec2c1083c930077ae6b93bf1"
+}

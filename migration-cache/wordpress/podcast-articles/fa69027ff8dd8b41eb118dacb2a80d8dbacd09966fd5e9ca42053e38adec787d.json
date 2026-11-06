@@ -1,0 +1,19 @@
+{
+  "id": "fa69027ff8dd8b41eb118dacb2a80d8dbacd09966fd5e9ca42053e38adec787d",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-02-05_retrokompott_stammtisch_158_04022022_preview.mp3",
+  "slug": "retrokompott-stammtisch-158-preview-vom-05-02-2022-fa69027ff8",
+  "title": "Retrokompott Stammtisch 158 (Preview) vom 05.02.2022",
+  "summary": "tba",
+  "published_at": "2022-02-05T12:43:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-02-05_retrokompott_stammtisch_158_04022022_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2022-02-05_retrokompott_stammtisch_158_04022022_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57766272,
+  "duration": "1:00:10",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "c7a820f215ec6285e91112969590b309218148271e72f86a1fd669a6477470be"
+}

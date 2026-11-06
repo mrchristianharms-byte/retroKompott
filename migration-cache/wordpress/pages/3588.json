@@ -1,0 +1,32 @@
+{
+  "id": 3588,
+  "resource_type": "page",
+  "slug": "00-echtzeitkompott",
+  "status": "publish",
+  "link": "https://blog.retrokompott.de/00-echtzeitkompott/",
+  "date": "2019-06-21T13:05:51",
+  "date_gmt": "2019-06-21T13:05:51",
+  "modified": "2021-05-23T16:02:24",
+  "modified_gmt": "2021-05-23T16:02:24",
+  "title": {
+    "rendered": "08 &#8211; Echtzeitkompott Free"
+  },
+  "content": {
+    "rendered": "<hr />\n<h4 id=\"retrokompott-classics--themen-\" style=\"text-align: center;\"><strong>Echtzeitkompott<br />\n</strong><strong>Wir spielen unter LIVE Bedingungen Spiele,<br />\n</strong><strong>keiner weiss wohin jede Folge fuehrt</strong></h4>\n<hr />\n<pre style=\"padding-left: 40px;\"><strong>Die Staffeln des Echtzeitkompotts gibt es fuer unsere <a href=\"https://blog.retrokompott.de/helft-uns/\">Unterstuetzer</a> ab SILBER \r\n</strong></pre>\n<hr />\n<pre style=\"padding-left: 40px;\"><strong>Wenn Euch das Projekt gefaellt unterstuetzt uns bitte <a href=\"https://blog.retrokompott.de/helft-uns/\">hier</a>, \r\ndenn nur so koennen wir viele der neuen Ideen verwirklichen!</strong></pre>\n<hr />\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Echtzeitkompott Wir spielen unter LIVE Bedingungen Spiele, keiner weiss wohin jede Folge fuehrt Die Staffeln des Echtzeitkompotts gibt es fuer unsere Unterstuetzer ab SILBER Wenn Euch das Projekt gefaellt unterstuetzt uns bitte hier, denn nur so koennen wir viele der neuen Ideen verwirklichen!</p>\n",
+    "protected": false
+  },
+  "categories": [],
+  "tags": [],
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "sticky": false,
+  "guid": {
+    "rendered": "http://blog.retrokompott.de/?page_id=3588"
+  },
+  "source_hash": "680c1d5a196ea472ed54e07cf53078333ef8a95c3524994c4dfd3d2940565bf4"
+}

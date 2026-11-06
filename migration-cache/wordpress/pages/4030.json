@@ -1,0 +1,32 @@
+{
+  "id": 4030,
+  "resource_type": "page",
+  "slug": "free",
+  "status": "publish",
+  "link": "https://blog.retrokompott.de/free/",
+  "date": "2019-09-15T22:45:54",
+  "date_gmt": "2019-09-15T22:45:54",
+  "modified": "2019-09-15T22:45:54",
+  "modified_gmt": "2019-09-15T22:45:54",
+  "title": {
+    "rendered": "Free"
+  },
+  "content": {
+    "rendered": "",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "",
+    "protected": false
+  },
+  "categories": [],
+  "tags": [],
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "sticky": false,
+  "guid": {
+    "rendered": "http://blog.retrokompott.de/?page_id=4030"
+  },
+  "source_hash": "af3149045f993dee2c8a1d54ff979d8cd89abc820025adc67197bf635c0cad9b"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "89378088937f5f135d7ba1ca71a98fc9fae0a42cdfac4c45c6d5a9fc2a44fd36",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-05-02_retrokompott_stammtisch_065_01052020_128kb.mp3",
+  "slug": "retrokompott-stammtisch-065-01-05-2020-komplett-8937808893",
+  "title": "RETROKOMPOTT STAMMTISCH - 065- 01.05.2020 (Komplett)",
+  "summary": "Der aktuelle Stammtisch (brutto knapp 6 Stunden...) wird auch dieses Mal über den normalen RSS Feed KOMPLETT für alle kostenfrei ausgestrahlt, wir möchten allen unseren Hörern die Möglichkeit geben, auch in schweren Zeiten abschalten zu können. ",
+  "published_at": "2020-05-02T11:02:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-05-02_retrokompott_stammtisch_065_01052020_128kb.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-05-02_retrokompott_stammtisch_065_01052020_128kb.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 295716096,
+  "duration": "5:08:02",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "45f8ef50b0e0f73bfffebdd207c9945f25ec10d21ab82db60bb504be54794d39"
+}

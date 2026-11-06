@@ -1,0 +1,19 @@
+{
+  "id": "a4596d94e0d6ef42a9f898915bf0110f3af0b1e8acfa6c08e02e657e451cff58",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-05-23_retrokompott_stammtisch_068_23052020_128kb.mp3",
+  "slug": "retrokompott-stammtisch-068-22-05-2020-komplett-a4596d94e0",
+  "title": "RETROKOMPOTT STAMMTISCH - 068- 22.05.2020 (Komplett)",
+  "summary": "Themen: -  Videostammtisch - Physikalische Spiele - Neuvorstellung Joschi - Sprachsynthese - Eingabegeräte - Stadia - Wer hat was gespielt? - Spiele mit 12 von 12 Punkte -",
+  "published_at": "2020-05-23T10:54:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-05-23_retrokompott_stammtisch_068_23052020_128kb.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-05-23_retrokompott_stammtisch_068_23052020_128kb.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 315933312,
+  "duration": "5:29:06",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "1c9b01568355f644bbbe96c47a1ea02db497e0207dc5db32d5560ee15049b242"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "488deb81436465ed853fbaa3fabba8dafee9d3c11e32cb0641330205502f1348",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-08-31_retrokompott_stammtisch_031_30082019_1h.mp3",
+  "slug": "retrokompott-stammtisch-031-30-08-2019-preview-488deb8143",
+  "title": "RETROKOMPOTT STAMMTISCH - 031 - 30.08.2019 PREVIEW",
+  "summary": "Die komplette Version für Unterstützer (ab 1$/1 Euro im Monat) ging dieses Mal brutto fast 5 Stunden (für alle Hörer gibt es natürlich auch wieder eine 1h Preview). Viele Hörer sind zum ersten Mal dabei gewesen, das macht einen Stammtisch aus.",
+  "published_at": "2019-08-31T08:43:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-08-31_retrokompott_stammtisch_031_30082019_1h.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2019-08-31_retrokompott_stammtisch_031_30082019_1h.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57519744,
+  "duration": "59:55",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "ffb611297743470584f404d52f78b19b6fd05d9dbdad6420be36b7795780c02b"
+}

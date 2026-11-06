@@ -1,0 +1,19 @@
+{
+  "id": "8dac89e6d09e537b0d79059ac87465f95246c5e55f86cd00196a50cd2262d2fb",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-08-01_retrokompott_stammtisch_078_31072020_1h_128kb.mp3",
+  "slug": "retrokompott-stammtisch-78-31-07-2020-preview-erste-stunde-8dac89e6d0",
+  "title": "Retrokompott Stammtisch 78 - 31.07.2020 (Preview erste Stunde)",
+  "summary": "Themen: - Videostammtisch - Mister - Streaming TV - Ransomware - Shadow PC - Amiga Reparatur - Wer hat was gespielt? - Nintendo Spiele und Hardware",
+  "published_at": "2020-08-01T11:29:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-08-01_retrokompott_stammtisch_078_31072020_1h_128kb.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-08-01_retrokompott_stammtisch_078_31072020_1h_128kb.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57765120,
+  "duration": "1:00:10",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "34d908fb6da5d16a2cf90cb8e7de8b155134f47b2b8f4adf7623bc2b68ca370a"
+}

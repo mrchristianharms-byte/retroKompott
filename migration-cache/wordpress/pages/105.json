@@ -1,0 +1,32 @@
+{
+  "id": 105,
+  "resource_type": "page",
+  "slug": "archive",
+  "status": "publish",
+  "link": "https://blog.retrokompott.de/archive/",
+  "date": "2015-09-11T22:13:05",
+  "date_gmt": "2015-09-11T22:13:05",
+  "modified": "2019-06-23T09:19:16",
+  "modified_gmt": "2019-06-23T09:19:16",
+  "title": {
+    "rendered": "19 &#8211; Archiv"
+  },
+  "content": {
+    "rendered": "<hr />\n<p style=\"text-align: center;\"><strong>unsere Info Seite<br />\n</strong>im monatlichen<br />\nUeberblick</p>\n<hr />\n<p style=\"padding-left: 40px;\">[smart_archives]<br />\n&nbsp;</p>\n<hr />\n<pre style=\"padding-left: 40px;\"><strong>Wenn Euch das Projekt gefaellt unterstuetzt uns bitte <a href=\"https://blog.retrokompott.de/helft-uns/\">hier</a>, \r\ndenn nur so koennen wir viele der neuen Ideen verwirklichen!</strong></pre>\n<hr />\n<p>&nbsp;</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>unsere Info Seite im monatlichen Ueberblick [smart_archives] &nbsp; Wenn Euch das Projekt gefaellt unterstuetzt uns bitte hier, denn nur so koennen wir viele der neuen Ideen verwirklichen! &nbsp;</p>\n",
+    "protected": false
+  },
+  "categories": [],
+  "tags": [],
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "sticky": false,
+  "guid": {
+    "rendered": "http://blog.retrokompott.de/?page_id=105"
+  },
+  "source_hash": "215b81cb7d07b5b4e257667a9e48395a51492995c79593424e0f7780aeecc8f1"
+}

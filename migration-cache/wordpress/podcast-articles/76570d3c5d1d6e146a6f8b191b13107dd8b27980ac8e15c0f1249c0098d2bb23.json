@@ -1,0 +1,19 @@
+{
+  "id": "76570d3c5d1d6e146a6f8b191b13107dd8b27980ac8e15c0f1249c0098d2bb23",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-10-03_retrokompott_stammtisch_088_02102020_128kb_1h.mp3",
+  "slug": "retrokompott-stammtisch-88-02-10-2020-preview-erste-stunde-76570d3c5d",
+  "title": "Retrokompott Stammtisch 88 - 02.10.2020 (Preview erste Stunde)",
+  "summary": "Themen:  - Playstation 5 / Xbox Series X - Vorstellung ErchsalErchsalis - Horizon Zero Dawn - Among us - Retro-TV-Computer Fernsehsendungen - Demoszene - Videostammtisch - Disney Spiele - Wer hat was gespielt? - Zeitschriften analog vs. digital",
+  "published_at": "2020-10-03T08:04:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-10-03_retrokompott_stammtisch_088_02102020_128kb_1h.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-10-03_retrokompott_stammtisch_088_02102020_128kb_1h.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57836544,
+  "duration": "1:00:15",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "94050e294e25e2ff81377874dd3f3efb9d414d4a643d89b6b6124d145a726dbf"
+}

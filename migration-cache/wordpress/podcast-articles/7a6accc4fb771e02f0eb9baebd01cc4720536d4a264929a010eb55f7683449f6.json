@@ -1,0 +1,19 @@
+{
+  "id": "7a6accc4fb771e02f0eb9baebd01cc4720536d4a264929a010eb55f7683449f6",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-10-24_retrokompott_stammtisch_091_23102020_preview_128kb.mp3",
+  "slug": "retrokompott-stammtisch-91-23-10-2020-preview-erste-stunde-7a6accc4fb",
+  "title": "Retrokompott Stammtisch 91 - 23.10.2020 (Preview erste Stunde)",
+  "summary": " Themen:  - Videostammtisch - Handheld Konsolen - Filme und TV-Serien aus den 80er/90er - Flugsimulator 2020 - Wer hat was gespielt? - Waffen - Politik - Tactical Shooter - Gewalt in Spielen - Schadenfreude und Zerstörungswut u.v.m.",
+  "published_at": "2020-10-24T12:04:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-10-24_retrokompott_stammtisch_091_23102020_preview_128kb.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-10-24_retrokompott_stammtisch_091_23102020_preview_128kb.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57750912,
+  "duration": "1:00:09",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "4fd982ef64f735f07b7d0f411415d1ee1b6cb0fc82764a2f62735e74c7de2338"
+}

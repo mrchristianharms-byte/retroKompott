@@ -1,0 +1,19 @@
+{
+  "id": "0bd5dc9f7b7c030e49e8cb0faa35ee995a9503edeb91423e26d9af399dd2ac5d",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2025-12-13_retrokompott_stammtisch_359_12122025_preview.mp3",
+  "slug": "retrokompott-stammtisch-359-vom-12-12-2025-preview-0bd5dc9f7b",
+  "title": "Retrokompott Stammtisch 359 vom 12.12.2025 (Preview)",
+  "summary": "Dies ist die erste Stunde des Stammtisches für alle Hörer unseres Kanals, die komplette Folge gibt es fuer alle Unterstuetzer bei Steady und Patreon ab 1 Euro / Monat.  https://www.patreon.com/retrokompott oder https://steadyhq.com/retrokompott",
+  "published_at": "2025-12-13T09:42:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2025-12-13_retrokompott_stammtisch_359_12122025_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2025-12-13_retrokompott_stammtisch_359_12122025_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58295808,
+  "duration": "1:00:43",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "ed0838897ce7f571085b0183909bb9897a12cb581ffa0282b5f596cbf54b3d0b"
+}

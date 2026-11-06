@@ -1,0 +1,19 @@
+{
+  "id": "f498987c36b93321dc68ce0dee530961d1ac76325eff92d7c6af55fd1e8fdb59",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-08-29_retrokompott_stammtisch_082_gamescom_special_01_28082020_128kb.mp3",
+  "slug": "retrokompott-stammtisch-082-gamescom-special-01-28082020-f498987c36",
+  "title": "Retrokompott Stammtisch 082 - GAMESCOM SPECIAL 01 - 28082020",
+  "summary": "Retrokompott Live Talk 28 08 2020 Gamescom Retro Area",
+  "published_at": "2020-08-29T10:55:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-08-29_retrokompott_stammtisch_082_gamescom_special_01_28082020_128kb.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-08-29_retrokompott_stammtisch_082_gamescom_special_01_28082020_128kb.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 209048136,
+  "duration": "3:37:45",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "0c95ab64ed070a950e53896148057fb011a34a3f7c12540584fcd8a42e27d272"
+}

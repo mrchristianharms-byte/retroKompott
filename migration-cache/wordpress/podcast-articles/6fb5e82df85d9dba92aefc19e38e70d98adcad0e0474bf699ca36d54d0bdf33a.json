@@ -1,0 +1,19 @@
+{
+  "id": "6fb5e82df85d9dba92aefc19e38e70d98adcad0e0474bf699ca36d54d0bdf33a",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-04-24_retrokompott_stammtisch_117_23042021_preview.mp3",
+  "slug": "retrokompott-stammtisch-117-23-04-2021-preview-6fb5e82df8",
+  "title": "Retrokompott Stammtisch 117 - 23.04.2021 (Preview)",
+  "summary": "Themen u.a - Blindenschrift - XBox Gamepass - Family Sharing - Wer hat was gespielt? - Microsoft / Apple-Support - Switch Homebrew - Lichtfarben, Hirn und Hormone - TV-Serien und Unterhaltung - Bücher - Filme zum Fremdschämen - Radio - XBox - Ray-Tracing",
+  "published_at": "2021-04-24T07:49:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-04-24_retrokompott_stammtisch_117_23042021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-04-24_retrokompott_stammtisch_117_23042021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 46678098,
+  "duration": "48:37",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "565cb0130466f3e8aff3450ffc931817f2ae0cb68917e3dfb59c07e5d023a6df"
+}

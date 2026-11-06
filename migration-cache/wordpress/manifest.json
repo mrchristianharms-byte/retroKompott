@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "source": "https://blog.retrokompott.de",
+  "podcast_feed_url": "http://www.medienpublikation.de/retrocompod/podcastgen/feed.xml",
+  "exported_at": "2026-11-06T22:06:57.962Z",
+  "mode": "delta",
+  "resources": {
+    "posts": {
+      "published_count": 293,
+      "fetched_count": 1,
+      "changed_count": 0,
+      "last_modified_gmt": "2026-11-02T13:40:42",
+      "delta_overlap_minutes": 2
+    },
+    "pages": {
+      "published_count": 38,
+      "fetched_count": 2,
+      "changed_count": 0,
+      "last_modified_gmt": "2026-11-04T20:31:30",
+      "delta_overlap_minutes": 2
+    }
+  },
+  "podcast_feed": {
+    "item_count": 716,
+    "matched_item_count": 269,
+    "rss_only_article_count": 403,
+    "ignored_item_count": 44,
+    "ignored_oldest_entry_count": 18,
+    "ignored_cachekompott_count": 18,
+    "unresolved_item_count": 0,
+    "ambiguous_item_count": 0,
+    "snapshot": "podcast-feed.json",
+    "rss_only_articles": "podcast-articles/",
+    "ignored_selected_exception_count": 8
+  },
+  "assets": {
+    "count": 949,
+    "attachment_metadata_missing": 0,
+    "manifest": "assets/manifest.json",
+    "binary_files_downloaded": 0
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "b6795f4d35f9b2d1708985555986422c8c840ab5e46d643ecb0d2508383da748",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-07-25_retrokompott_stammtisch_077_24072020_1h.mp3",
+  "slug": "retrokompott-stammtisch-77-24-07-2020-preview-erste-stunde-b6795f4d35",
+  "title": "Retrokompott Stammtisch 77 - 24.07.2020 (Preview erste Stunde)",
+  "summary": "Themen: Videostammtisch,  Nintendo New 3DS XL, Grinden, Konsolenhacks, Audiosetup, A1200, Pixel-Scrolling, MiSter DOS-Core,  ASM, Mirofontechnik, Top3-Talk, Alt vs Jung u.v.m.",
+  "published_at": "2020-07-25T11:53:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-07-25_retrokompott_stammtisch_077_24072020_1h.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-07-25_retrokompott_stammtisch_077_24072020_1h.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58128508,
+  "duration": "1:00:33",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "66b901f10307bd49bbbd9cccd716c1cd4d74bb7393bb864284e5017148450a48"
+}

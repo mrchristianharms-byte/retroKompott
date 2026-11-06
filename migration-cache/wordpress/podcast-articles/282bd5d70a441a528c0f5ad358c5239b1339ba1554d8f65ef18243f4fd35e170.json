@@ -1,0 +1,19 @@
+{
+  "id": "282bd5d70a441a528c0f5ad358c5239b1339ba1554d8f65ef18243f4fd35e170",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-08-20_retrokompott_stammtisch_186_19082022_preview.mp3",
+  "slug": "retrokompott-stammtisch-186-vom-19-08-2022-preview-282bd5d70a",
+  "title": "Retrokompott Stammtisch 186 vom 19.08.2022 (Preview)",
+  "summary": "Die komplette Folge (brutto über 5.5 Stunden) gibt es fuer alle Unterstuetzer bei Steady und Patreon ab 1 Euro / Monat.  https://steadyhq.com/retrokompott oder https://www.patreon.com/retrokompott",
+  "published_at": "2022-08-20T07:45:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-08-20_retrokompott_stammtisch_186_19082022_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2022-08-20_retrokompott_stammtisch_186_19082022_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58454784,
+  "duration": "1:00:53",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "4b9a322b9bf0c94799c77367ed7d629175d39dfa9ba04f769142cac80b1d3031"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "b247f8be9048d85399ab99dca2004bb8ef0104f66ec7bc1042abc55b936634db",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-07-13_retrokompott_stammtisch_024_13072019_1h.mp3",
+  "slug": "retrokompott-stammtisch-024-12-07-2019-preview-b247f8be90",
+  "title": "RETROKOMPOTT STAMMTISCH - 024 - 12.07.2019 PREVIEW",
+  "summary": "Podcast EpisodeRetrokompott-Stammtisch 024",
+  "published_at": "2019-07-12T23:05:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-07-13_retrokompott_stammtisch_024_13072019_1h.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2019-07-13_retrokompott_stammtisch_024_13072019_1h.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58503168,
+  "duration": "1:00:56",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "67514bfaa43df83a31cab838559b76a92bb582ac7068720be605492f172da11c"
+}

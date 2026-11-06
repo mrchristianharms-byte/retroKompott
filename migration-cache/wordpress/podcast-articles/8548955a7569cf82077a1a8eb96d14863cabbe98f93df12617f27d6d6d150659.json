@@ -1,0 +1,19 @@
+{
+  "id": "8548955a7569cf82077a1a8eb96d14863cabbe98f93df12617f27d6d6d150659",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-08-28_retrokompott_stammtisch_135_27082021_preview.mp3",
+  "slug": "retrokompott-stammtisch-135-27-08-2021-preview-8548955a75",
+  "title": "Retrokompott Stammtisch 135 - 27.08.2021 (Preview)",
+  "summary": "Themen u.a.: Rätselspiele - Rogue like Spiele - Wissen - Soundkanäle Amiga / Stereo - Sequenzer - Flugsimulator - Bundeswehr - Wer hat was gespielt - Moviekompott - Serienkompott - Konsolengenerationen - Sonic in 3D - Lüfter - Zelda Lore ",
+  "published_at": "2021-08-28T10:04:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-08-28_retrokompott_stammtisch_135_27082021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-08-28_retrokompott_stammtisch_135_27082021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58082304,
+  "duration": "1:00:30",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "95ec2450e79e92dc8cc8ce7e80e7beeb3d2c152ecdd33bbfaf559599454c7b88"
+}

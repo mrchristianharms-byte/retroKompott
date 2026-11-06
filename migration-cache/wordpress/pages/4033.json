@@ -1,0 +1,32 @@
+{
+  "id": 4033,
+  "resource_type": "page",
+  "slug": "bronze",
+  "status": "publish",
+  "link": "https://blog.retrokompott.de/bronze/",
+  "date": "2019-09-15T22:46:34",
+  "date_gmt": "2019-09-15T22:46:34",
+  "modified": "2019-09-15T22:46:34",
+  "modified_gmt": "2019-09-15T22:46:34",
+  "title": {
+    "rendered": "Bronze"
+  },
+  "content": {
+    "rendered": "",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "",
+    "protected": false
+  },
+  "categories": [],
+  "tags": [],
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "sticky": false,
+  "guid": {
+    "rendered": "http://blog.retrokompott.de/?page_id=4033"
+  },
+  "source_hash": "53dd6a3b0623189869336a22e7e47cc212eb892f56c1e7ef30038cbf8d51ed33"
+}

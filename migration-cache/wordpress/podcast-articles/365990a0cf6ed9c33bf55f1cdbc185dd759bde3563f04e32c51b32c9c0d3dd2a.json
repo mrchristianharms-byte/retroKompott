@@ -1,0 +1,19 @@
+{
+  "id": "365990a0cf6ed9c33bf55f1cdbc185dd759bde3563f04e32c51b32c9c0d3dd2a",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-11-13_retrokompott_stammtisch_146_12112021preview.mp3",
+  "slug": "retrokompott-stammtisch-146-preview-365990a0cf",
+  "title": "Retrokompott Stammtisch 146 (Preview)",
+  "summary": "Themen u.a.: - Vornamen - Wer hat was gespielt? - Spielautomaten - Docking Station - Monitore - Controller - Aluminium - \"Das Rad\" - Playstation - Rennspiele",
+  "published_at": "2021-11-13T10:02:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-11-13_retrokompott_stammtisch_146_12112021preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-11-13_retrokompott_stammtisch_146_12112021preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57909888,
+  "duration": "1:00:19",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "5fac959c34913f2396be408a427790bbffcd12e3bd3b6499198ad12396dcc59d"
+}

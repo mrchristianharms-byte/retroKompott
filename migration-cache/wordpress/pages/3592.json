@@ -1,0 +1,32 @@
+{
+  "id": 3592,
+  "resource_type": "page",
+  "slug": "00-zockerkompott",
+  "status": "publish",
+  "link": "https://blog.retrokompott.de/00-zockerkompott/",
+  "date": "2019-06-21T22:14:14",
+  "date_gmt": "2019-06-21T22:14:14",
+  "modified": "2021-05-23T16:03:09",
+  "modified_gmt": "2021-05-23T16:03:09",
+  "title": {
+    "rendered": "09 &#8211; Zockerkompott"
+  },
+  "content": {
+    "rendered": "<hr />\n<h4 id=\"retrokompott-classics--themen-\" style=\"text-align: center;\"><strong>Zockerkompott<br />\n</strong>Neues altes oder wirklich Neues<br />\naus der Welt der Spiele &amp; Technik</h4>\n<hr />\n<pre style=\"padding-left: 40px;\"><strong>Die Folgen stehen fuer unsere Unterstuetzer auf Patreon und Steady bereit.\r\n\r\nWenn Euch das Projekt gefaellt unterstuetzt uns bitte <a href=\"https://blog.retrokompott.de/helft-uns/\">hier</a>,\r\ndenn nur so koennen wir viele der neuen Ideen verwirklichen!</strong></pre>\n<hr />\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Zockerkompott Neues altes oder wirklich Neues aus der Welt der Spiele &amp; Technik Die Folgen stehen fuer unsere Unterstuetzer auf Patreon und Steady bereit. Wenn Euch das Projekt gefaellt unterstuetzt uns bitte hier, denn nur so koennen wir viele der neuen Ideen verwirklichen!</p>\n",
+    "protected": false
+  },
+  "categories": [],
+  "tags": [],
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "sticky": false,
+  "guid": {
+    "rendered": "http://blog.retrokompott.de/?page_id=3592"
+  },
+  "source_hash": "54ab65e8423b021bc61801519f93a5af54ffe83a9d41f71b17b95ef3851c0a22"
+}

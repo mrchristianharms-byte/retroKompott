@@ -1,0 +1,19 @@
+{
+  "id": "6498ca2f07ea71ccece6e0ecf59c8a67faf092f4ebdd6c5155853fed3379aaa4",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-03-07_retrokompott_stammtisch_057_07032020_preview.mp3",
+  "slug": "retrokompott-stammtisch-057-06-03-2020-preview-6498ca2f07",
+  "title": "RETROKOMPOTT STAMMTISCH - 057 - 06.03.2020 (Preview)",
+  "summary": "Podcast Episode",
+  "published_at": "2020-03-07T14:11:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-03-07_retrokompott_stammtisch_057_07032020_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-03-07_retrokompott_stammtisch_057_07032020_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57722252,
+  "duration": "1:00:08",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "981a27f8c641c779976beda6fe7819ca3b6f9ca9deaf493fa7ce549e9f51739b"
+}

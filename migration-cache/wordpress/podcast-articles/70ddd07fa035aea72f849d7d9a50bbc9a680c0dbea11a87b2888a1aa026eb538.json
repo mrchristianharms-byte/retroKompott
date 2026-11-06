@@ -1,0 +1,19 @@
+{
+  "id": "70ddd07fa035aea72f849d7d9a50bbc9a680c0dbea11a87b2888a1aa026eb538",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-02-15_retrokompott_stammtisch_054_14022020_preview.mp3",
+  "slug": "stammtisch-54-vom-14-02-2020-preview-70ddd07fa0",
+  "title": "Stammtisch 54 vom 14.02.2020 (Preview)",
+  "summary": "1h Preview des neusten Stammtisches. Die komplette Version(ueber 5 Stunden!) gibt es für alle Unterstützer bei Patreon und Steady!",
+  "published_at": "2020-02-15T12:13:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-02-15_retrokompott_stammtisch_054_14022020_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-02-15_retrokompott_stammtisch_054_14022020_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57370752,
+  "duration": "59:46",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "265e2bc0e21ba5b93c5922eed7eb82e180f13c86bc6062a51c255d05f13847b9"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "51cf46aeee3d3fbd513c4e3e212e8592104c82ff8446817b87bc6d8c58c2d580",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-07-24_retrokompott_stammtisch_130_23072021_preview.mp3",
+  "slug": "retrokompott-stammtisch-130-23-07-2021-preview-51cf46aeee",
+  "title": "Retrokompott Stammtisch 130 - 23.07.2021 (Preview)",
+  "summary": "Themen u.a. : - Olympiade mit Videospielmusik  - Gesellschaftliche Akzeptanz von Spielen - Textnachrichten vs. Anrufe - Verschwundene Dienste: Vine etc. - Zukünftige Gala - Top 3 Talks - Auf Klo gehen im Stammtisch - G64 Format fuer C64 Spiele ",
+  "published_at": "2021-07-24T10:08:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-07-24_retrokompott_stammtisch_130_23072021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-07-24_retrokompott_stammtisch_130_23072021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58374144,
+  "duration": "1:00:48",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "ff2bedb0234a438998c2bfa524443607733f41c6336d2a951d4470f68b1f2fb7"
+}

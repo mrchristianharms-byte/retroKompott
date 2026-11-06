@@ -1,0 +1,19 @@
+{
+  "id": "313feb819dcd1d2374d8f519dcbcc03145ce95a2a92e4468117024e8651a031e",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-02-06_retrokompott_stammtisch_106_05022021_preview.mp3",
+  "slug": "retrokompott-stammtisch-106-05-02-2021-preview-313feb819d",
+  "title": "Retrokompott Stammtisch 106 - 05.02.2021 (Preview)",
+  "summary": "Themen u.a.: Retrokompott - Wer hat was gespielt? - Turrican - DLCs sinnvoll?   - Telekom und Vodafone / Kabel   - Wenn eine Fritzbox   - Wäsche waschen   - Entkalkungsanlagen   - Mister   - Dateisysteme   - Cloud Speicher   - Cloud Backup ",
+  "published_at": "2021-02-06T11:28:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-02-06_retrokompott_stammtisch_106_05022021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-02-06_retrokompott_stammtisch_106_05022021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58271232,
+  "duration": "1:00:42",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "161534120b0230e1dbc7ccdcda1e18c7ef2fe382d8f3bdb7c0119632826f16e4"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "8c176e815520aad8c47461d76db3f992c1d85a8856d6dcec53bc1e959d4ca466",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-06-06_retrokompott_stammtisch_070_05062020_1h.mp3",
+  "slug": "retrokompott-stammtisch-70-05-06-2020-erste-stunde-8c176e8155",
+  "title": "Retrokompott Stammtisch 70 - 05.06.2020 (erste Stunde)",
+  "summary": "Themen:  - Videostammtisch \"Apidya\" & \"Mayhem\" - Wer hat was gespielt - Explosionen - Super Mario World und Nachfolger - Donkey Kong Arcade - Hygiene - Elektronische Zahlungsweisen - Geld - Mäbel - Drogen - K-Pop - Turrican - Spontane Spieleerinnerungen",
+  "published_at": "2020-06-06T15:42:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-06-06_retrokompott_stammtisch_070_05062020_1h.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-06-06_retrokompott_stammtisch_070_05062020_1h.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58005504,
+  "duration": "1:00:25",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "88dbc9b7b15f2dc9d2240a9c5879b72fbc736433eb1b23edf165564e68417f9d"
+}

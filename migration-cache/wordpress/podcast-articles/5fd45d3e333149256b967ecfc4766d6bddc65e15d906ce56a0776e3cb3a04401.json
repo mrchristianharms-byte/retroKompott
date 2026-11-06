@@ -1,0 +1,19 @@
+{
+  "id": "5fd45d3e333149256b967ecfc4766d6bddc65e15d906ce56a0776e3cb3a04401",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-10-05_retrokompott_stammtisch_035_04102019_1h_review.mp3",
+  "slug": "retrokompott-stammtisch-035-04-10-2019-preview-5fd45d3e33",
+  "title": "RETROKOMPOTT STAMMTISCH - 035 - 04.10.2019 PREVIEW",
+  "summary": "Die \"Vollversion\" dauert dieses mal wieder fast 3.5 Stunden, obwohl fab wieder mit dabei ist :)",
+  "published_at": "2019-10-05T00:56:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-10-05_retrokompott_stammtisch_035_04102019_1h_review.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2019-10-05_retrokompott_stammtisch_035_04102019_1h_review.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58101504,
+  "duration": "1:00:31",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "6c7250e610b679bb908b7c4f03a75135ac846db4b530571bf898bf686de609e4"
+}

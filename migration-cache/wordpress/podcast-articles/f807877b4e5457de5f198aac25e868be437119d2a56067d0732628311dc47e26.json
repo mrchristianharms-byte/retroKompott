@@ -1,0 +1,19 @@
+{
+  "id": "f807877b4e5457de5f198aac25e868be437119d2a56067d0732628311dc47e26",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-04-23_retrokompott_stammtisch_169_22042022preview.mp3",
+  "slug": "retrokompott-stammtisch-169-preview-vom-22-04-2022-f807877b4e",
+  "title": "Retrokompott Stammtisch 169 (Preview) vom 22.04.2022",
+  "summary": "Themen u.a.: Steam Deck, Mister,\tFPGA SID, Amiga Mini, Emulatoren, Harte und weiche „Dinge“, Werkzeug, Heimkino und Bass",
+  "published_at": "2022-04-23T06:37:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-04-23_retrokompott_stammtisch_169_22042022preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2022-04-23_retrokompott_stammtisch_169_22042022preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58452864,
+  "duration": "1:00:53",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "19f3ba2508934bf3e9e0005eafb8b68a10556037becdc7fbc7282d31e96ffd89"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "3b5c62898690af64acfbcd4956d443c9d8662487a1393e160a0067d9d1514b73",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-07-17_retrokompott_stammtisch_129_16072021_preview.mp3",
+  "slug": "retrokompott-stammtisch-129-16-07-2021-preview-3b5c628986",
+  "title": "Retrokompott Stammtisch 129 - 16.07.2021 (Preview)",
+  "summary": "Themen:  - Steam Deck  - OLED  - Mini Atem Pro Extreme Iso  - Handhelds  - VC 20 Bag  - Namensgebungen bei Computern / Konsolen  - Mediaplayer  - Sony Walkman  - Nochmal Mini Atem Pro Extreme Iso (es wird immer besser!!!)  - Video Captureing  u.a.",
+  "published_at": "2021-07-17T11:22:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-07-17_retrokompott_stammtisch_129_16072021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-07-17_retrokompott_stammtisch_129_16072021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58625043,
+  "duration": "1:01:04",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "88a474f6304dcd96ae7d1abd22730e614b416e0c8e09f3b80a8cf8174ddc05d9"
+}

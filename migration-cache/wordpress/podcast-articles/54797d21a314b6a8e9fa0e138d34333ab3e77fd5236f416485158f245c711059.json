@@ -1,0 +1,19 @@
+{
+  "id": "54797d21a314b6a8e9fa0e138d34333ab3e77fd5236f416485158f245c711059",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-08-17_retrokompott_stammtisch_029_16082019_1h.mp3",
+  "slug": "retrokompott-stammtisch-029-16-08-2019-preview-54797d21a3",
+  "title": "RETROKOMPOTT STAMMTISCH - 029 - 16.08.2019 PREVIEW",
+  "summary": "... hier wieder die 1h Preview von insgesamt ÜBER 3 Stunden!",
+  "published_at": "2019-08-17T01:00:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-08-17_retrokompott_stammtisch_029_16082019_1h.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2019-08-17_retrokompott_stammtisch_029_16082019_1h.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58555392,
+  "duration": "1:01:00",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "7aeabf7d2f73c014a14ffe24da207e6a4f4134aeb1b5f9f04d235d1d60eba665"
+}

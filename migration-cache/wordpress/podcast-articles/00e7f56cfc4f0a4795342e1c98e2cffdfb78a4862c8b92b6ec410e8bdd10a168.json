@@ -1,0 +1,19 @@
+{
+  "id": "00e7f56cfc4f0a4795342e1c98e2cffdfb78a4862c8b92b6ec410e8bdd10a168",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-08-08_retrokompott_stammtisch_079_070820201h_128kb.mp3",
+  "slug": "retrokompott-stammtisch-79-07-08-2020-preview-erste-stunde-00e7f56cfc",
+  "title": "Retrokompott Stammtisch 79 - 07.08.2020 (Preview erste Stunde)",
+  "summary": "Themen:  - Videostammtisch  - Gamescom  - Wer hat was gespielt  - God of War  - Witcher 3  - MS-DOS  - Alkohol - Jugendgeständnisse  - Retrodemenz, -Rendersequenzen, - alte Fotos, -moderne, alte Spiele",
+  "published_at": "2020-08-08T11:56:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-08-08_retrokompott_stammtisch_079_070820201h_128kb.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-08-08_retrokompott_stammtisch_079_070820201h_128kb.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57610368,
+  "duration": "1:00:01",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "ce37298d86dbccb4b3d03a6787a80ddee877948e407253fcab86e54e2b44b97c"
+}

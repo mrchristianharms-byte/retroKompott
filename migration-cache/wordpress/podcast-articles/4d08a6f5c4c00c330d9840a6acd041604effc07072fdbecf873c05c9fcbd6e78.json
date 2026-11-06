@@ -1,0 +1,19 @@
+{
+  "id": "4d08a6f5c4c00c330d9840a6acd041604effc07072fdbecf873c05c9fcbd6e78",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2026-05-09_retrokompott_stammtisch_380_08052026_preview.mp3",
+  "slug": "retrokompott-stammtisch-380-vom-08-05-2026-preview-4d08a6f5c4",
+  "title": "Retrokompott Stammtisch 380 vom 08.05.2026 (Preview)",
+  "summary": "Podcast-Episode",
+  "published_at": "2026-05-09T05:18:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2026-05-09_retrokompott_stammtisch_380_08052026_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2026-05-09_retrokompott_stammtisch_380_08052026_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57987456,
+  "duration": "1:00:24",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "c3e001c4df1cbda8d956f782786c28ab6798ef95362e0eefe7e2df15be50ab40"
+}

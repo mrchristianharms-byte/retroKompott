@@ -1,0 +1,19 @@
+{
+  "id": "de88285b3795aa47faac6f60779b7d02ec31e01818601cb803961e56cbad254d",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-02-27_retrokompott_stammtisch_109_26022021_preview.mp3",
+  "slug": "retrokompott-stammtisch-109-26-02-2021-preview-de88285b37",
+  "title": "Retrokompott Stammtisch 109 - 26.02.2021 (Preview)",
+  "summary": "Themen:  - \"Steckbausteine\" - El Fish - Cyrix, Athlon, Sockel und Kühlkörper - Oliver beim Pixeln - Wer hat was gespielt? - XBox Series S/X FPS Boost - Streamen mit OBS - Video Encoding und Video Grabber - Tiefkühlschränke mit WLAN u.a.",
+  "published_at": "2021-02-27T13:21:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-02-27_retrokompott_stammtisch_109_26022021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-02-27_retrokompott_stammtisch_109_26022021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58156800,
+  "duration": "1:00:35",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "99e71145fccdac1452d24782bb859b04f67625740885fe0721eaf306a4206fe1"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ba3ce147e543f979468a8e9c7bd4d7d50b1ce54b911f2e8c46753e2fd77dcb41",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-01-09_retrokompott_stammtisch_102_08012021_preview.mp3",
+  "slug": "retrokompott-stammtisch-102-08-01-2021-preview-ba3ce147e5",
+  "title": "Retrokompott Stammtisch 102 - 08.01.2021 (Preview)",
+  "summary": "Themen: - Gala - Videostammtisch  - Wer hat was gespielt?  - Retroarch  - Oliver berichtet aus der Demoszene und Spieleentwicklung  - Und noch mehr Demos aus der Demoszene  - Mini-Konsolen und Handhelds  - Tutti Frutti  - Krankenschwesternspiele  u.v.a",
+  "published_at": "2021-01-09T11:16:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-01-09_retrokompott_stammtisch_102_08012021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-01-09_retrokompott_stammtisch_102_08012021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58268544,
+  "duration": "1:00:42",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "f9637adfd50527e77b4c15c98b45da649f1085de8fc83dd342cfe1bd2a08a959"
+}

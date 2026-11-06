@@ -1,0 +1,32 @@
+{
+  "id": 4530,
+  "resource_type": "page",
+  "slug": "live-auf-twitch",
+  "status": "publish",
+  "link": "https://blog.retrokompott.de/live-auf-twitch/",
+  "date": "2020-04-22T14:18:49",
+  "date_gmt": "2020-04-22T14:18:49",
+  "modified": "2020-06-23T10:13:10",
+  "modified_gmt": "2020-06-23T10:13:10",
+  "title": {
+    "rendered": "LIVE AUF TWITCH"
+  },
+  "content": {
+    "rendered": "<p id=\"hier-der-link-zu-twitch\" style=\"text-align: left;\">\n<hr />\n<h2 id=\"live-video-kanal-von-retro_kom\"><a style=\"padding: 2px 0px 4px; display: block; width: 345px; font-weight: normal; font-size: 10px; text-decoration: underline;\" href=\"https://www.twitch.tv/retro_kompott?tt_content=text_link&amp;tt_medium=live_embed\">Live-Video Kanal von Retro_Kompott auf www.twitch.tv ansehen</a></h2>\n<hr />\n<h3 id=\"wenn-euch-das-projekt-gefaellt\" class=\"text_exposed_show\" style=\"padding-left: 40px; text-align: center;\"><span style=\"color: #ffffff;\"><strong>Wenn Euch das Projekt gefaellt unterstuetzt uns bitte <a style=\"color: #ffffff;\" href=\"https://blog.retrokompott.de/helft-uns/\">hier</a>, </strong></span> <span style=\"color: #ffffff;\"><strong>denn nur so koennen wir viele der neuen Ideen verwirklichen!</strong></span></h3>\n<hr />\n<p>&nbsp;</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Live-Video Kanal von Retro_Kompott auf www.twitch.tv ansehen Wenn Euch das Projekt gefaellt unterstuetzt uns bitte hier, denn nur so koennen wir viele der neuen Ideen verwirklichen! &nbsp;</p>\n",
+    "protected": false
+  },
+  "categories": [],
+  "tags": [],
+  "featured_media": 4772,
+  "parent": 0,
+  "menu_order": 0,
+  "sticky": false,
+  "guid": {
+    "rendered": "http://blog.retrokompott.de/?page_id=4530"
+  },
+  "source_hash": "8587e0b86afbce38c3bb71805560a97e25c3bc504d5202e98260beb6e2d55690"
+}

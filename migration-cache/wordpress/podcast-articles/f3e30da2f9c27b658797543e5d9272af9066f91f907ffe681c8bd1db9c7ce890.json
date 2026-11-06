@@ -1,0 +1,19 @@
+{
+  "id": "f3e30da2f9c27b658797543e5d9272af9066f91f907ffe681c8bd1db9c7ce890",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-04-02_retrokompott_stammtisch_166_01042022_preview.mp3",
+  "slug": "retrokompott-stammtisch-166-preview-vom-01-04-2022-f3e30da2f9",
+  "title": "Retrokompott Stammtisch 166 (Preview) vom 01.04.2022",
+  "summary": "Die komplette Folge (brutto knapp 3 Stunden) gibt es fuer alle Unterstuetzer bei Steady und Patreon.  https://steadyhq.com/retrokompott oder https://www.patreon.com/retrokompott",
+  "published_at": "2022-04-02T08:43:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-04-02_retrokompott_stammtisch_166_01042022_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2022-04-02_retrokompott_stammtisch_166_01042022_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58492416,
+  "duration": "1:00:56",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "817e0e3863d5dc120308b5652cff9ed6104da3eb06d4dd4f70695189868e7a10"
+}

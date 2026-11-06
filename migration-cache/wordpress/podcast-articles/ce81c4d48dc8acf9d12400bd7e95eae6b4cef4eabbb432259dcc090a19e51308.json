@@ -1,0 +1,19 @@
+{
+  "id": "ce81c4d48dc8acf9d12400bd7e95eae6b4cef4eabbb432259dcc090a19e51308",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-04-18_retrokompott_stammtisch_063_10042020_128kb.mp3",
+  "slug": "retrokompott-stammtisch-063-17-04-2020-erste-stunde-ce81c4d48d",
+  "title": "RETROKOMPOTT STAMMTISCH - 063- 17.04.2020 (erste Stunde)",
+  "summary": "Der aktuelle Stammtisch (brutto über 6 Stunden) wird auch dieses Mal über den normalen RSS Feed KOMPLETT für alle kostenfrei ausgestrahlt, wir möchten allen unseren Hörern die Möglichkeit geben, auch in schweren Zeiten abschalten zu können. ",
+  "published_at": "2020-04-18T13:18:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-04-18_retrokompott_stammtisch_063_10042020_128kb.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-04-18_retrokompott_stammtisch_063_10042020_128kb.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 343920384,
+  "duration": "5:58:15",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "e485679216f1b61a9a23f6c73e489852045d8ed9587069153521f40cdbd82276"
+}

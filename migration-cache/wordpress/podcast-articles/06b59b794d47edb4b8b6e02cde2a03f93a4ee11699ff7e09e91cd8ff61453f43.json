@@ -1,0 +1,19 @@
+{
+  "id": "06b59b794d47edb4b8b6e02cde2a03f93a4ee11699ff7e09e91cd8ff61453f43",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2023-02-18_retrokompott_stammtisch_212_17022023_preview.mp3",
+  "slug": "retrokompott-stammtisch-212-vom-17-02-2023-preview-06b59b794d",
+  "title": "Retrokompott Stammtisch 212 vom 17.02.2023 (Preview)",
+  "summary": "Die erste Stunde unseres Retrokompott Stammtisches. Aufgrund eines Teamspeak Server Problems fehlen innerhalb der Folge einige Minuten.  Die komplette Folge (brutto ueber 5 Stunden!) gibt es fuer alle Unterstuetzer bei Steady und Patreon ab 1 Euro / Monat",
+  "published_at": "2023-02-18T12:07:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2023-02-18_retrokompott_stammtisch_212_17022023_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2023-02-18_retrokompott_stammtisch_212_17022023_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58711680,
+  "duration": "1:01:09",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "bf2650b9b27c45fe68cb9168bee73b3b5856bdbf3513cff03856175b1607a645"
+}

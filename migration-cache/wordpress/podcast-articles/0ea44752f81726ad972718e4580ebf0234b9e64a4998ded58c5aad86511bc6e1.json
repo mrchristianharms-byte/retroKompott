@@ -1,0 +1,19 @@
+{
+  "id": "0ea44752f81726ad972718e4580ebf0234b9e64a4998ded58c5aad86511bc6e1",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-10-09_retrokompott_stammtisch_141_08102021_preview.mp3",
+  "slug": "retrokompott-stammtisch-141-preview-0ea44752f8",
+  "title": "Retrokompott Stammtisch 141 (Preview)",
+  "summary": "Themen u.a.: • Castlevania • Wer hat was gespielt? • Videostreaming mit System-Kameras • Autos • Tastaturen • Audio Equipment • NAS • Apple Kompott • Lustige Geschichten • Sex • Verhütung • Schulgeschichten • Orientierungsstufe • Phreaking und Datex/J",
+  "published_at": "2021-10-09T11:20:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-10-09_retrokompott_stammtisch_141_08102021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-10-09_retrokompott_stammtisch_141_08102021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58352256,
+  "duration": "1:00:47",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "2028dfae7da630523fefd0c67c8cea6e962f811f14a3bd2da2ce10f9fb88fadb"
+}

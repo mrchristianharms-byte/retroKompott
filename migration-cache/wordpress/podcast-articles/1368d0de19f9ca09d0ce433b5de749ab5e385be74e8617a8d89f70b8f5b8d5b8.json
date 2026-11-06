@@ -1,0 +1,19 @@
+{
+  "id": "1368d0de19f9ca09d0ce433b5de749ab5e385be74e8617a8d89f70b8f5b8d5b8",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-11-20_retrokompott_stammtisch_147_19112021_preview.mp3",
+  "slug": "retrokompott-stammtisch-147-preview-vom-19-11-2021-1368d0de19",
+  "title": "Retrokompott Stammtisch 147 (Preview) vom 19.11.2021",
+  "summary": "Themen u.a.:  Erinnerungen Wer hat was gespielt? XBox Gamepass Projektoren Monitore Zeitschriften und Nachrichten Floating Point Betriebssysteme Updates von Betriebssystemen C64 Erweiterungen GeckOS, C64OS, Acheron VM Bad Apple (Touhou) EBM Musik ",
+  "published_at": "2021-11-20T12:14:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-11-20_retrokompott_stammtisch_147_19112021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-11-20_retrokompott_stammtisch_147_19112021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58353792,
+  "duration": "1:00:47",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "a1fa7f721088dcd82b783587fd17b36e961ce278e046160bf521dd109153857d"
+}

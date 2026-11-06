@@ -1,0 +1,32 @@
+{
+  "id": 4069,
+  "resource_type": "page",
+  "slug": "podcastkompott",
+  "status": "publish",
+  "link": "https://blog.retrokompott.de/podcastkompott/",
+  "date": "2019-09-15T23:11:30",
+  "date_gmt": "2019-09-15T23:11:30",
+  "modified": "2019-09-15T23:11:30",
+  "modified_gmt": "2019-09-15T23:11:30",
+  "title": {
+    "rendered": "Podcastkompott"
+  },
+  "content": {
+    "rendered": "",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "",
+    "protected": false
+  },
+  "categories": [],
+  "tags": [],
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "sticky": false,
+  "guid": {
+    "rendered": "http://blog.retrokompott.de/?page_id=4069"
+  },
+  "source_hash": "c8826243d07b6f2486df64d49024e0a891431cf952916815237238c13b044996"
+}

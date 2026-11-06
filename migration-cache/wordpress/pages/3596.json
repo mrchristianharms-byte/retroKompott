@@ -1,0 +1,32 @@
+{
+  "id": 3596,
+  "resource_type": "page",
+  "slug": "90-musikkompott",
+  "status": "publish",
+  "link": "https://blog.retrokompott.de/90-musikkompott/",
+  "date": "2019-06-21T13:16:58",
+  "date_gmt": "2019-06-21T13:16:58",
+  "modified": "2021-05-23T16:05:41",
+  "modified_gmt": "2021-05-23T16:05:41",
+  "title": {
+    "rendered": "11 &#8211; Musikkompott"
+  },
+  "content": {
+    "rendered": "<hr />\n<h4 id=\"retrokompott-classics--themen-\" style=\"text-align: center;\"><strong>Musikkompott<br />\n</strong><strong>Von Klassik bis POP, von Schlager bis Oper,<br />\n</strong><strong>hier geht es immer um MUSIK</strong></h4>\n<hr />\n<pre style=\"padding-left: 40px;\"><strong>Aktuelle Folgen ab Folge 23 sind kostenlos abrufbar ueber Patreon / Steady,\r\noder stehen fuer unsere Unterstuetzer ab SILBER bereit.\r\n</strong></pre>\n<hr />\n<p style=\"text-align: left;\"><strong>Wenn Euch das Projekt gefaellt unterstuetzt uns bitte <a href=\"https://blog.retrokompott.de/helft-uns/\">hier</a>, denn nur so koennen wir viele der neuen Ideen verwirklichen!</strong></p>\n<hr />\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Musikkompott Von Klassik bis POP, von Schlager bis Oper, hier geht es immer um MUSIK Aktuelle Folgen ab Folge 23 sind kostenlos abrufbar ueber Patreon / Steady, oder stehen fuer unsere Unterstuetzer ab SILBER bereit. Wenn Euch das Projekt gefaellt unterstuetzt uns bitte hier, denn nur so koennen wir viele der neuen Ideen verwirklichen!</p>\n",
+    "protected": false
+  },
+  "categories": [],
+  "tags": [],
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "sticky": false,
+  "guid": {
+    "rendered": "http://blog.retrokompott.de/?page_id=3596"
+  },
+  "source_hash": "71d0154b313dc9a3639db533929de2fa63b7229001795bee7452313af7d7938f"
+}

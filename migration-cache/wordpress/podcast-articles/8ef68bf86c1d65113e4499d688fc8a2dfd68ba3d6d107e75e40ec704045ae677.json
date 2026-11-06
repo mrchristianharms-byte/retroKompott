@@ -1,0 +1,19 @@
+{
+  "id": "8ef68bf86c1d65113e4499d688fc8a2dfd68ba3d6d107e75e40ec704045ae677",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-09-11_retrokompott_stammtisch_136_03092021_preview.mp3",
+  "slug": "retrokompott-stammtisch-137-10-09-2021-preview-8ef68bf86c",
+  "title": "Retrokompott Stammtisch 137 - 10.09.2021 (Preview)",
+  "summary": "Themen  - Polizeikontrolle  - Hardwaregeschichten  - NextGen Konsolen  - Wer hat was gespielt?  - Yakuza Special  - Mister PS1 Core  - Videostammtisch  Episode",
+  "published_at": "2021-09-10T23:30:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-09-11_retrokompott_stammtisch_136_03092021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-09-11_retrokompott_stammtisch_136_03092021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58247808,
+  "duration": "1:00:40",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "0a8ba55fbcae8fcaef793d684218d7f55ecee91fbc44f2e0b76938276eb8aec4"
+}

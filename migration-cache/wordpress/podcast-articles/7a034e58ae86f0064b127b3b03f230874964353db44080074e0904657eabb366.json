@@ -1,0 +1,19 @@
+{
+  "id": "7a034e58ae86f0064b127b3b03f230874964353db44080074e0904657eabb366",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-02-20_retrokompott_stammtisch_108_19022021_preview.mp3",
+  "slug": "retrokompott-stammtisch-108-19-02-2021-preview-7a034e58ae",
+  "title": "Retrokompott Stammtisch 108 - 19.02.2021 (Preview)",
+  "summary": "Themen:  - Wer hat was gespielt? - Danny's Nähkästchen - Scanner - Scharfe Kanten bei PCs - Windows 95 Erinnerungen - Treiber - DFÜ - VIC20 - Ghosts 'n Goblins Resurrection - Joy Con Drift - Xbox / Playstation Patches und Firmware Updates u.a.",
+  "published_at": "2021-02-20T13:29:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-02-20_retrokompott_stammtisch_108_19022021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-02-20_retrokompott_stammtisch_108_19022021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58183680,
+  "duration": "1:00:36",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "b953ac8d7182e45c4d9d3f93d5123842452b73b0cf651c9eecb180a1c7a33e13"
+}

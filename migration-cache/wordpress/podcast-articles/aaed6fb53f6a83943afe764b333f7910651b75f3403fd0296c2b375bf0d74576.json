@@ -1,0 +1,19 @@
+{
+  "id": "aaed6fb53f6a83943afe764b333f7910651b75f3403fd0296c2b375bf0d74576",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2023-11-18_retrokompott_stammtisch_251_17112023_preview.mp3",
+  "slug": "retrokompott-stammtisch-251-vom-17-11-2023-preview-aaed6fb53f",
+  "title": "Retrokompott Stammtisch 251 vom 17.11.2023 (Preview)",
+  "summary": "Die komplette Folge gibt es fuer alle Unterstuetzer bei Steady und Patreon ab 1 Euro / Monat.  https://www.patreon.com/retrokompott oder https://steadyhq.com/retrokompott",
+  "published_at": "2023-11-18T08:51:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2023-11-18_retrokompott_stammtisch_251_17112023_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2023-11-18_retrokompott_stammtisch_251_17112023_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58265181,
+  "duration": "1:00:42",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "7b3e8d09c0c6ac92582de039f252326ea708136cc988be25c32743a558380f55"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "c4d2edc9056826bfed30907c401b01d1efa352b5b24055cc7a1f809c983cb3be",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-12-05_retrokompott_stammtisch_097_04122020_1h.mp3",
+  "slug": "retrokompott-stammtisch-97-04-12-2020-preview-erste-stunde-c4d2edc905",
+  "title": "Retrokompott Stammtisch 97 - 04.12.2020 (Preview erste Stunde)",
+  "summary": "Themen:  - Videostammtisch - Nachtrag Stats bei Rollenspielen - \"Schlauchspielen\" und Open World - Schwule in der Medienlandschaft - Blinde Bösewichte - Papier - So ne Scheiße - Atari ST - Coffin OS - Amazon Prime Gaming u.a. ",
+  "published_at": "2020-12-05T07:41:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-12-05_retrokompott_stammtisch_097_04122020_1h.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-12-05_retrokompott_stammtisch_097_04122020_1h.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57993216,
+  "duration": "1:00:25",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "13e6c30119a392d9ecfa6f7c3feaa2e60eeeafc117855dc48f30a625008abcfe"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ef883a0f5483a298aa1ff99f579ec1cb72335732f6f574cc34e6729b84eba71b",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-07-03_retrokompott_stammtisch_127_01072021_preview.mp3",
+  "slug": "retrokompott-stammtisch-127-02-07-2021-preview-ef883a0f54",
+  "title": "Retrokompott Stammtisch 127 - 02.07.2021 (Preview)",
+  "summary": "Themen:  - Zocken zu bestimmten Tageszeiten  - Monitore und TVs  - Kühlschränke  - Bewertungen bei Amazon  - Maskottchen  - Personal Computer vs. Home Computer  - Bürocomputer und Performance  - Browser  - PS5 vs. Xbox Series X  - Gamecontroller  u.a.",
+  "published_at": "2021-07-03T08:46:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-07-03_retrokompott_stammtisch_127_01072021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-07-03_retrokompott_stammtisch_127_01072021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58724352,
+  "duration": "1:01:10",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "9167410557d52a58b24a8c8ae41e6660fb5fcbc29075715c1f4e7d44f7942aec"
+}

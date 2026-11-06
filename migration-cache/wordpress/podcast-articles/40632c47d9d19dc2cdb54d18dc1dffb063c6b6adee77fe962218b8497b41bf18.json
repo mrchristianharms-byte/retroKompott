@@ -1,0 +1,19 @@
+{
+  "id": "40632c47d9d19dc2cdb54d18dc1dffb063c6b6adee77fe962218b8497b41bf18",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-08-14_retrokompott_stammtisch_133_13082021_preview.mp3",
+  "slug": "retrokompott-stammtisch-133-13-08-2021-preview-40632c47d9",
+  "title": "Retrokompott Stammtisch 133 - 13.08.2021 (Preview)",
+  "summary": "Themen u.a:- Uservorstellung: Korbet  - Retrokompott  - Wer hat was gespielt?  - Drogen und Hackerszene  - Suchtverhalten bei Spielen  - Messen  - Gamescom  - Retrokompott Inhalte und Community  - Gruselfilme  - He-Man  - Star Trek vs. Star Wars  - Movies",
+  "published_at": "2021-08-14T09:59:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-08-14_retrokompott_stammtisch_133_13082021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-08-14_retrokompott_stammtisch_133_13082021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58131840,
+  "duration": "1:00:33",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "80f0f05891a8f01ccc2a1e3a15754065f1f846098118b8027f6ce2e56b19eb79"
+}

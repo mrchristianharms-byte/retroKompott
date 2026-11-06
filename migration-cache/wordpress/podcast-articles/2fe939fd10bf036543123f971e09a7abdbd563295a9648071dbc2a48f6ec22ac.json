@@ -1,0 +1,19 @@
+{
+  "id": "2fe939fd10bf036543123f971e09a7abdbd563295a9648071dbc2a48f6ec22ac",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-02-26_retrokompott_stammtisch_161_25022022_preview.mp3",
+  "slug": "retrokompott-stammtisch-161-preview-vom-25-02-2022-2fe939fd10",
+  "title": "Retrokompott Stammtisch 161 (Preview) vom 25.02.2022",
+  "summary": "Themen u.a.: - Alexa - Wer hat was gespielt? - Urlaub in Spielen - Börse - Altersvorsorge - Leider ist das Leben endlich. - Grenzen - Vorlieben Videostammtisch - File Manager - Firewall / Port Scans - Smart Home - Firewalls - Was habt Ihr gespielt ",
+  "published_at": "2022-02-26T10:01:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-02-26_retrokompott_stammtisch_161_25022022_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2022-02-26_retrokompott_stammtisch_161_25022022_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58279296,
+  "duration": "1:00:42",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "c4857c491ba7991de8628fd9de7133492af4f51925d25e9c0e267313971313c6"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 4036,
+  "resource_type": "page",
+  "slug": "silber",
+  "status": "publish",
+  "link": "https://blog.retrokompott.de/silber/",
+  "date": "2019-09-15T22:46:34",
+  "date_gmt": "2019-09-15T22:46:34",
+  "modified": "2019-09-15T22:46:34",
+  "modified_gmt": "2019-09-15T22:46:34",
+  "title": {
+    "rendered": "Silber"
+  },
+  "content": {
+    "rendered": "",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "",
+    "protected": false
+  },
+  "categories": [],
+  "tags": [],
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "sticky": false,
+  "guid": {
+    "rendered": "http://blog.retrokompott.de/?page_id=4036"
+  },
+  "source_hash": "22c47eb2e6994e4bb4ba1595f061f5a9e1dff98a21d668e75de3859409c7af86"
+}

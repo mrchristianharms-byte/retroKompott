@@ -1,0 +1,19 @@
+{
+  "id": "b7426b2594d882321d868daaa20fb9a9f354f0488fb440e51f13ba381fab61fb",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-03-26_retrokompott_stammtisch_165_25032022_preview.mp3",
+  "slug": "retrokompott-audiostammtisch-165-preview-b7426b2594",
+  "title": "Retrokompott Audiostammtisch 165 (Preview)",
+  "summary": "Themen u.a. Amiga Emulation, Mister, Parsec, Joysticks und „Rütteltechniken“, Wer hat was gespielt?",
+  "published_at": "2022-03-26T10:02:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-03-26_retrokompott_stammtisch_165_25032022_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2022-03-26_retrokompott_stammtisch_165_25032022_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58062336,
+  "duration": "1:00:29",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "5f3326d42891ac6a4ac677c2d8146151808c5d4d2ed30e0d43ad9b41b1346f63"
+}

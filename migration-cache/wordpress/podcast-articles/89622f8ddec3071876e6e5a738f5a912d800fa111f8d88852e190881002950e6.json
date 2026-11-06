@@ -1,0 +1,19 @@
+{
+  "id": "89622f8ddec3071876e6e5a738f5a912d800fa111f8d88852e190881002950e6",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2018-12-15_retrokompott_stammtisch_008_14122018.mp3",
+  "slug": "retrokompott-stammtisch-008-14-12-2018-89622f8dde",
+  "title": "RETROKOMPOTT STAMMTISCH - 008 - 14.12.2018",
+  "summary": "Retrokompott-Stammtisch 008",
+  "published_at": "2018-12-15T00:34:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2018-12-15_retrokompott_stammtisch_008_14122018.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2018-12-15_retrokompott_stammtisch_008_14122018.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 149300794,
+  "duration": "2:35:31",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "c8183f6491516d91c7120e7305b4b97a9e6585137fd228446901fe873cb1f2cc"
+}

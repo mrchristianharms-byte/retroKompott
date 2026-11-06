@@ -1,0 +1,19 @@
+{
+  "id": "c7ee797b0ee4d2a6cc215009eab4891838115b4bcdd79edb4f3b0d4126653ea7",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-01-02_retrokompott_stammtisch_101_01012021_preview.mp3",
+  "slug": "retrokompott-stammtisch-101-01-01-2021-preview-c7ee797b0e",
+  "title": "Retrokompott Stammtisch 101 - 01.01.2021 (Preview)",
+  "summary": "Themen: - Videostammtisch - Lemmings - Karaoke und Lizenzgebühr - Uservorstellung: \"Carsten\" - Mister - Wer hat was gespielt - Cyberpunk - Corona - Virenkiller - Windows Lizenzen - Microsoft Reward - Early Access Spiele",
+  "published_at": "2021-01-02T01:18:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-01-02_retrokompott_stammtisch_101_01012021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-01-02_retrokompott_stammtisch_101_01012021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58441141,
+  "duration": "1:00:53",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "a226c609a53d0255e62a73848a34b7bdd55d2368fe19775b93d7e22beb16c078"
+}

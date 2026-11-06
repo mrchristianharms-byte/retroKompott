@@ -1,0 +1,19 @@
+{
+  "id": "4835b5021d4d501a382360ab15ec8725a410d47d21461a93a880dbee91a299b1",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-04-30_retrokompott_stammtisch_170_29042022_preview.mp3",
+  "slug": "retrokompott-stammtisch-170-preview-vom-29-04-2022-4835b5021d",
+  "title": "Retrokompott Stammtisch 170 (Preview) vom 29.04.2022",
+  "summary": "Themen u.a.: Programmieren in jungen Jahren Moviekompott Star Trek Steam Deck Atomuhren Bildschirmschoner USB-C Hubs Wer hat was gespielt?",
+  "published_at": "2022-04-30T02:20:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-04-30_retrokompott_stammtisch_170_29042022_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2022-04-30_retrokompott_stammtisch_170_29042022_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58312704,
+  "duration": "1:00:45",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "1a344686160178fe22bd22bdd2188dc30846377f2cb31117ddc9fe944af1c0f4"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 660,
+  "resource_type": "post",
+  "slug": "naechste-live-sendung",
+  "status": "publish",
+  "link": "https://blog.retrokompott.de/naechste-live-sendung/",
+  "date": "2016-06-04T13:30:41",
+  "date_gmt": "2016-06-04T13:30:41",
+  "modified": "2017-07-30T15:19:52",
+  "modified_gmt": "2017-07-30T15:19:52",
+  "title": {
+    "rendered": "nächste LIVE Sendung"
+  },
+  "content": {
+    "rendered": "<p style=\"text-align: center;\">die naechste</p>\n<h1 style=\"text-align: center;\"><strong><span style=\"text-decoration: underline;\">LIVE SENDUNG</span></strong></h1>\n<p style=\"text-align: center;\">findet am</p>\n<h1 style=\"text-align: center;\"><strong>Freitag, d. 05.08.2016</strong></h1>\n<p style=\"text-align: center;\">ab  22:00 Uhr statt</p>\n<p style=\"text-align: center;\">Hatti kann uns leider aus zeitlichen Gruenden<br />\nnicht mehr in diesem Projekt unterstuetzen,<br />\nist aber natuerlich auch zukuenftig<br />\njederzeit als Gast herzlich willkommen.</p>\n<p style=\"text-align: center;\">Zukuenftig senden wir dann immer<br />\nJEDEN ZWEITEN FREITAG ab 22:00 Uhr<br />\nmit wechselnden Gaesten</p>\n<p style=\"text-align: center;\"><a href=\"http://mixlr.com/retrokompott/\" target=\"_blank\" rel=\"noopener\">Live</a> hoeren kann man uns hier:<br />\nhttp://mixlr.com/retrokompott/</p>\n<p style=\"text-align: center;\">Der <a href=\"https://blog.retrokompott.de/chat/\" target=\"_blank\" rel=\"noopener\">Live Chat</a> findet hier statt:<br />\nhttps://blog.retrokompott.de/chat/</p>\n<p style=\"text-align: center;\">&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;</p>\n<p style=\"text-align: center;\">Unser Podcast lebt von der Interaktion mit den Hoerern,<br />\ndeshalb freuen wir uns immer ueber</p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>AUDIOKOMMENTARE</strong> </span><br />\nmit Euren Geschichten aus der Anfangszeit von C64 &amp; CO</p>\n<p style=\"text-align: center;\"><strong><span style=\"text-decoration: underline;\">AUDIOKOMMENTARE</span> </strong><br />\nzu unseren vergangenen oder kommenden Themen<br />\nnaechste Folge: skurille Retro Hardware</p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>QUIZ</strong></span><br />\nFuer unsere neue Quiz Rubrik suchen wir immer Mitspieler die im Spieleraten gegen Robin antreten moechten.<br />\nWer gegen ihn gewinnt, bekommt eine nette Ueberraschung.<br />\nTraut Euch !<br />\n(Dieser Teil der Sendung kann jederzeit ausserhalb der offiziellen Termine nach Absprache voraufgezeichnet werden)</p>\n<p style=\"text-align: center;\">Erreichen koennt ihr uns per Mail unter<br />\n<a href=\"mailto:mail@retrokompott.de\">mail@retrokompott.de</a></p>\n<p style=\"text-align: center;\">Euer Retrokompott Team</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>die naechste LIVE SENDUNG findet am Freitag, d. 05.08.2016 ab  22:00 Uhr statt Hatti kann uns leider aus zeitlichen Gruenden nicht mehr in diesem Projekt unterstuetzen, ist aber natuerlich auch zukuenftig jederzeit als Gast herzlich willkommen. Zukuenftig senden wir dann immer JEDEN ZWEITEN FREITAG ab 22:00 Uhr mit wechselnden Gaesten Live hoeren kann man uns [&hellip;]</p>\n",
+    "protected": false
+  },
+  "categories": [
+    1
+  ],
+  "tags": [],
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "format": "standard",
+  "sticky": false,
+  "guid": {
+    "rendered": "http://blog.retrokompott.de/?p=660"
+  },
+  "source_hash": "d376365443d5da2025326ce7f46e4e853507731991eb4b04160cba1c317f9e58",
+  "podcast_feed": [],
+  "podcast_feed_hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "a3abae9f452d703ac2100b428f5088f89d15748e9d8182af75f32fe1b08bef8e",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-01-08_retrokompott_stammtisch_154_07012022_preview.mp3",
+  "slug": "retrokompott-stammtisch-154-preview-07-01-2022-a3abae9f45",
+  "title": "Retrokompott Stammtisch 154 (Preview) 07.01.2022",
+  "summary": "Themen u.a.: -Brummschleifen -VR -M1 Max -VFR -Sync von Grafikkarten und Monitor -Capture Karten -Serien -Open World Spiele -Wer spielt was? -SciFi in Deutschland -Yakuza -Shi’nen -Unknown Realm -Nox Archaist -Lawless Legends -C64 und Pico-8 Farben",
+  "published_at": "2022-01-08T09:26:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-01-08_retrokompott_stammtisch_154_07012022_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2022-01-08_retrokompott_stammtisch_154_07012022_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58576512,
+  "duration": "1:01:01",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "83262408bb9ee8edce77fe5c8b170a089192cc95279d7d9f1b8e4228ec4b84e0"
+}

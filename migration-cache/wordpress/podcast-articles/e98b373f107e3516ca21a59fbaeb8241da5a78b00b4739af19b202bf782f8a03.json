@@ -1,0 +1,19 @@
+{
+  "id": "e98b373f107e3516ca21a59fbaeb8241da5a78b00b4739af19b202bf782f8a03",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-11-14_retrokompott_stammtisch_094_13112020_1h.mp3",
+  "slug": "retrokompott-stammtisch-94-13-11-2020-preview-erste-stunde-e98b373f10",
+  "title": "Retrokompott Stammtisch 94 - 13.11.2020 (Preview erste Stunde)",
+  "summary": "Themen:  - Wer hat was gespielt - Dystopien - Netflix und Prime, personalisierte Startseiten - Savestates, Cheaten und Speichern in Spielen - linerares Fernsehen - Der zerbrochene Lurch - Videostammtisch - Flight Simulator - Handhelds u.a.",
+  "published_at": "2020-11-14T12:25:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-11-14_retrokompott_stammtisch_094_13112020_1h.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-11-14_retrokompott_stammtisch_094_13112020_1h.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57770880,
+  "duration": "1:00:11",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "531093dd055ea379e7d8af7c852de5f1273e3779d03d5931d8f019ce620cb42c"
+}

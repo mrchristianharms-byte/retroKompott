@@ -1,0 +1,19 @@
+{
+  "id": "896a86b9a0fffe7207299143b2a36d6229ce90fe2abdf38892020e2f959bdd31",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-03-13_retrokompott_stammtisch_111_12032021_preview.mp3",
+  "slug": "retrokompott-stammtisch-111-12-03-2021-preview-896a86b9a0",
+  "title": "Retrokompott Stammtisch 111 - 12.03.2021 (Preview)",
+  "summary": "Themen: - Wer hat was gespielt? - MT32 pi - Competition Pro - Technikläden - Microsoft und Intel & ARM - Apple M1 - GOG und Steam",
+  "published_at": "2021-03-13T14:19:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-03-13_retrokompott_stammtisch_111_12032021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-03-13_retrokompott_stammtisch_111_12032021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58763904,
+  "duration": "1:01:13",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "3590f0705e665aed1392e46b75994a3d3dc8847058141645d52e21ed9623fa56"
+}

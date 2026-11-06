@@ -1,0 +1,19 @@
+{
+  "id": "17f17f3e7ff0148738b79d73bfc43681ef13dc718630a50cd69c9c7bd3110e6d",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-06-27_retrokompott_stammtisch_073_26062020_1h.mp3",
+  "slug": "retrokompott-stammtisch-73-26-06-2020-preview-erste-stunde-17f17f3e7f",
+  "title": "Retrokompott Stammtisch 73 - 26.06.2020 (Preview erste Stunde)",
+  "summary": "Themen: Last of Us 2 - Spiepreise - Wer hat was gespielt - Apple Rollen - Alte Geräte - Location - Spreadshirt - Abos - Latenzen - PC Engine Mini - Castlevania: Rondo - PSP Spiele - Gameboy vs C64 - Amiga Animationen - Lethal Xcess - karen 2",
+  "published_at": "2020-06-27T14:11:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-06-27_retrokompott_stammtisch_073_26062020_1h.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-06-27_retrokompott_stammtisch_073_26062020_1h.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58066944,
+  "duration": "1:00:29",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "776c93851f3e0a95c635c8079cb68ee8b9b8b4d5260cd5a5ed3558c948caa2ae"
+}

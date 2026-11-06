@@ -1,0 +1,19 @@
+{
+  "id": "b30ecf0cd799d9ffd9ea831477120429d4e8ce3950e9889ad0d47e2884c65a79",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-04-10_retrokompott_stammtisch_115_09042021_preview.mp3",
+  "slug": "retrokompott-stammtisch-115-09-04-2021-preview-b30ecf0cd7",
+  "title": "Retrokompott Stammtisch 115 - 09.04.2021 (Preview)",
+  "summary": "Themen u.a.: - Christian spricht über seinen neuen Gaming-PC - \"rauf- und runterfahren\" - \"abrauchen\" - Ebay und Betrug - Blind Videos drehen - Tastaturen und Switches - Wir erinnern uns an den \"Top3 Snack\" Talk - Billige Handhelds - Wer hat was gespielt ",
+  "published_at": "2021-04-10T00:45:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-04-10_retrokompott_stammtisch_115_09042021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-04-10_retrokompott_stammtisch_115_09042021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58518912,
+  "duration": "1:00:57",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "40394b55885ccbbb9b6c9138456374bb878041bb018c3216024febe1d91beeaa"
+}

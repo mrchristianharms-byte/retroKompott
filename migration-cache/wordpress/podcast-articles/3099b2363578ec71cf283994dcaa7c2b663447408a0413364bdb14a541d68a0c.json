@@ -1,0 +1,19 @@
+{
+  "id": "3099b2363578ec71cf283994dcaa7c2b663447408a0413364bdb14a541d68a0c",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-10-17_retrokompott_stammtisch_090_161020201h_128kb.mp3",
+  "slug": "retrokompott-stammtisch-90-16-10-2020-preview-erste-stunde-3099b23635",
+  "title": "Retrokompott Stammtisch 90 - 16.10.2020 (Preview erste Stunde)",
+  "summary": "Themen: - Vorstellung Mirimoshpit - Wer hat was gespielt? - Beim Spielen eingeschlafen - Competition Pros - Heavy Metal - Adventures - Spiele früher und heute - Flugsimulator 2020 - Einstellungen bei Spielen - Kommunikation - Menschen und Technik u.v.m.",
+  "published_at": "2020-10-17T09:28:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-10-17_retrokompott_stammtisch_090_161020201h_128kb.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-10-17_retrokompott_stammtisch_090_161020201h_128kb.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57705600,
+  "duration": "1:00:07",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "fc82832de26587c4f6a60fb0e13b689b95f4f5f3a85617cff8b34238c4f25c4a"
+}

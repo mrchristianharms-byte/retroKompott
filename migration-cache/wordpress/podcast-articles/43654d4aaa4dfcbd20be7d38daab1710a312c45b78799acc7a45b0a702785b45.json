@@ -1,0 +1,19 @@
+{
+  "id": "43654d4aaa4dfcbd20be7d38daab1710a312c45b78799acc7a45b0a702785b45",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-04-16_retrokompott_stammtisch_168_15042022_preview.mp3",
+  "slug": "retrokompott-stammtisch-168-preview-vom-15-04-2022-43654d4aaa",
+  "title": "Retrokompott Stammtisch 168 (Preview) vom 15.04.2022",
+  "summary": "Themen u.a.:  Mister SD-Karten, Festplatten Amiga Mini NAND Speicher Mac Studio M1 Max Arbeitsspeicher Grafikkarten und Stromverbrauch Kirche und Religionen Kirchenaustritt Beerdigung Neues Genderkonzept",
+  "published_at": "2022-04-15T22:48:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-04-16_retrokompott_stammtisch_168_15042022_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2022-04-16_retrokompott_stammtisch_168_15042022_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 60586108,
+  "duration": "1:03:07",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "982117377bd694178eb0904531d4395d40c649eda90461b01c13bcec6971b749"
+}

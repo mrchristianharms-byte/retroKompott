@@ -1,0 +1,19 @@
+{
+  "id": "55c3dff220d3e53c7c3788d051ed5d56f403b65f38a12543cbf24fca48f24207",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-08-07_retrokompott_stammtisch_132_06082021_preview.mp3",
+  "slug": "retrokompott-stammtisch-132-06-08-2021-preview-55c3dff220",
+  "title": "Retrokompott Stammtisch 132 - 06.08.2021 (Preview)",
+  "summary": "Themen u.a.: - C64& Amiga-Hauptthema - VC20 - Computerinteresse - Sammler - Journalismus im Retrobereich - Retro Bücher - Atari VCS - Wer hat was gespielt?",
+  "published_at": "2021-08-07T07:42:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-08-07_retrokompott_stammtisch_132_06082021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-08-07_retrokompott_stammtisch_132_06082021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58743168,
+  "duration": "1:01:11",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "305604cdf5f5bc9cb0164152056d80d163836390db1b553fde64ca14944a0c60"
+}

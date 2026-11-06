@@ -1,0 +1,19 @@
+{
+  "id": "33008743bf52a2068a3e12084c0774020fa3b8843b8239cd982bed50fb58e22a",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-06-12_retrokompott_stammtisch_124_11062021_preview.mp3",
+  "slug": "retrokompott-stammtisch-124-11-06-2021-preview-33008743bf",
+  "title": "Retrokompott Stammtisch 124 - 11.06.2021 (Preview)",
+  "summary": "PodThemen: - Fußpedal - Trash Spiele - Moral bei Computerspielen - Spiele zum fremd­schä­men - Fresskompott - Mister - Ständer - Rollen - Doctor Who - Alte Serien - Wer hat was gespielt? - Jiffydos - Amiga Kompatibilitätcast Episode",
+  "published_at": "2021-06-12T10:05:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-06-12_retrokompott_stammtisch_124_11062021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-06-12_retrokompott_stammtisch_124_11062021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58336128,
+  "duration": "1:00:46",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "1444ff834753377175c546327ac417c046d8cf629f2270642573a7928905dce9"
+}

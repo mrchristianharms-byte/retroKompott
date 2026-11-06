@@ -1,0 +1,19 @@
+{
+  "id": "350126b680567882316538965b58d979a5db2e085a0a8564d251e56b4825ae95",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-06-05_retrokompott_stammtisch_123_04062021preview.mp3",
+  "slug": "retrokompott-stammtisch-123-04-06-2021-preview-350126b680",
+  "title": "Retrokompott Stammtisch 123 - 04.06.2021 (Preview)",
+  "summary": "Die erste Stunde unseres Retrokompott Stammtisches vom 04.06.2021. Die komplette Folge (brutto fast 6 Stunden) gibt es für alle Unterstuetzer bei Steady und Patreon. https://steadyhq.com/retrokompott oder https://www.patreon.com/retrokompott",
+  "published_at": "2021-06-05T12:19:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-06-05_retrokompott_stammtisch_123_04062021preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-06-05_retrokompott_stammtisch_123_04062021preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58545213,
+  "duration": "1:00:59",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "6b13580acd83fb9c48219c7655f0ee8c4272bc1fb365e44a0f6cc6b808a18045"
+}

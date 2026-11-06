@@ -1,0 +1,19 @@
+{
+  "id": "a5bf1f652e11b4a7fdc452bfb2ac43db04e4b6ebc8e3471bda6649a17be7794e",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-04-17_retrokompott_stammtisch_116_16042021_preview.mp3",
+  "slug": "retrokompott-stammtisch-116-16-04-2021-preview-a5bf1f652e",
+  "title": "Retrokompott Stammtisch 116 - 16.04.2021 (Preview)",
+  "summary": "Themen u.a: - Wer hat was gespielt - Rennspiele - XBox - Kabelsalat und Katzen - Tastenswitches - Revision 2021 - FPS Shooter - Amiga Geheimtipps - Spiele von Anthony Crowther - Heimvorteil bei Spieletests - Knightmare TV Show - Rainbow Arts ",
+  "published_at": "2021-04-17T11:47:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-04-17_retrokompott_stammtisch_116_16042021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-04-17_retrokompott_stammtisch_116_16042021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58599168,
+  "duration": "1:01:02",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "7063c2272d309e39ba6e8b95933bb07c4132504364fd8448997a7beb2ecf47cb"
+}

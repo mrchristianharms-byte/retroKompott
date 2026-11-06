@@ -1,0 +1,19 @@
+{
+  "id": "9b7067a7ffd5ce4d23a5f0145fa0373eb4253a4571ed54adc7a3966fb0dfcafc",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-08-21_retrokompott_stammtisch_134_20082021_preview.mp3",
+  "slug": "retrokompott-stammtisch-134-20-08-2021-preview-9b7067a7ff",
+  "title": "Retrokompott Stammtisch 134 - 20.08.2021 (Preview)",
+  "summary": "Themen u.a.:  - Vibratoren - Akkus - Fußschalter - Wer hat was gespielt? - Rollenspiele - Steuerung - Filmstudios - Software Publisher - The Elder Scrolls - Microsoft und Bethesda - Sony und Insomniac - Was haben wir gespielt - Metal Warrior SNES ",
+  "published_at": "2021-08-21T03:04:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-08-21_retrokompott_stammtisch_134_20082021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-08-21_retrokompott_stammtisch_134_20082021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58402176,
+  "duration": "1:00:50",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "3be74d9758934c0c37a84e00abab6f09dea2e1f5ce0d3891b79ccafa5a6ace7d"
+}

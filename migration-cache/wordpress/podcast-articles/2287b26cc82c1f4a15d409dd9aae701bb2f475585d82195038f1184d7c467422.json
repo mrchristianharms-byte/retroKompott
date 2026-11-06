@@ -1,0 +1,19 @@
+{
+  "id": "2287b26cc82c1f4a15d409dd9aae701bb2f475585d82195038f1184d7c467422",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-12-25_retrokompott_stammtisch_152_24122021_preview.mp3",
+  "slug": "retrokompott-stammtisch-152-preview-vom-24-12-2021-2287b26cc8",
+  "title": "Retrokompott Stammtisch 152 (Preview) vom 24.12.2021",
+  "summary": "Themen u.a: Weihnachten, Zoll, CE-Zeichen, Videostammtisch, CDI, Vectrex, Spectrum, Joysticks, Warenbetrug, Essen zu Weihnachten, Schöne Weihnachtsgeschenke, Dungeon Crawler, Couch Coop, Mass Effect, Science-Fiction Serien, Star Trek ",
+  "published_at": "2021-12-25T00:01:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-12-25_retrokompott_stammtisch_152_24122021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-12-25_retrokompott_stammtisch_152_24122021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58233216,
+  "duration": "1:00:40",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "86eec27200fb5be7e138e045f19699a5f0ca0774626be69c91d4ad08bafa9f17"
+}

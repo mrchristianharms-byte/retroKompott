@@ -1,0 +1,19 @@
+{
+  "id": "027c44313d0386aba88eeeeb9460091d6fa064020b979e9623ac4e12f8427da2",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-01-16_retrokompott_stammtisch_103_15012021_preview.mp3",
+  "slug": "retrokompott-stammtisch-103-15-01-2021-preview-027c44313d",
+  "title": "Retrokompott Stammtisch 103 - 15.01.2021 (Preview)",
+  "summary": "Themen:  - Videostammtisch  - NES  - Mister  - SD-Karten  - Wer hat was gespielt?  - Lenkräder und Joysticks  - Arcade Sticks  - Krankheiten  - Barrierefreiheit  - Cutscenes in Spielen  - Bullethell Shooer  - Olivers Spiele Historie  - exotische Konsolen",
+  "published_at": "2021-01-16T12:55:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-01-16_retrokompott_stammtisch_103_15012021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-01-16_retrokompott_stammtisch_103_15012021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 59623548,
+  "duration": "1:02:06",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "694db41d318a38637ee5c6f671cc59fa8af7aa84087f7017a4960047b46c2b51"
+}

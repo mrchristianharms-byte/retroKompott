@@ -1,0 +1,19 @@
+{
+  "id": "77c413672ab381af329e36848e17ff83252d067ca16e85a17f643de7e83d1f0a",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-11-27_retrokompott_stammtisch_148_26112021_preview.mp3",
+  "slug": "retrokompott-stammtisch-148-preview-vom-26-11-2021-77c413672a",
+  "title": "Retrokompott Stammtisch 148 (Preview) vom 26.11.2021",
+  "summary": "Themen u.a.:  Themen:   • Mister • Hubs • Black Friday • Kickstarter • Paketzusteller • Wer hat was gespielt? • Tomb Raider",
+  "published_at": "2021-11-27T09:31:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-11-27_retrokompott_stammtisch_148_26112021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-11-27_retrokompott_stammtisch_148_26112021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58106496,
+  "duration": "1:00:32",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "0a0b3f16534596298a5f2759af366033b7b01a677adc56ae34dcd49cde86e3d1"
+}

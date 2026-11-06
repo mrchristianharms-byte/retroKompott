@@ -1,0 +1,19 @@
+{
+  "id": "83a4bd1f6c4e13660796d9dae833c5f02085a8ffdb43221b88db5577488c9a4b",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-09-28_retrokompott_stammtisch_034_28092019_1h.mp3",
+  "slug": "retrokompott-stammtisch-034-27-09-2019-preview-83a4bd1f6c",
+  "title": "RETROKOMPOTT STAMMTISCH - 034 - 27.09.2019 PREVIEW",
+  "summary": "Eine neue Woche, ein neuer Stammtisch. Patrick hat wieder verschlafen, Robin ist wohl auch verschollen, aber die Hörer schaffen es auch alleine! 3 Stunden Content, davon 2 exclusiv für alle unsere Unterstützer!",
+  "published_at": "2019-09-27T23:21:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-09-28_retrokompott_stammtisch_034_28092019_1h.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2019-09-28_retrokompott_stammtisch_034_28092019_1h.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57119232,
+  "duration": "59:30",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "645c4607b98dcc99be093a2599a188655e9ed11b84695f646a74d0efeeb1dca5"
+}

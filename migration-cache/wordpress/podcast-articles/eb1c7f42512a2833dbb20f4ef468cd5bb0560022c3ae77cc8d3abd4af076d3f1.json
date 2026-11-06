@@ -1,0 +1,19 @@
+{
+  "id": "eb1c7f42512a2833dbb20f4ef468cd5bb0560022c3ae77cc8d3abd4af076d3f1",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-05-15_retrokompott_stammtisch_120_14052021_preview.mp3",
+  "slug": "retrokompott-stammtisch-120-14-05-2021-preview-eb1c7f4251",
+  "title": "Retrokompott Stammtisch 120 - 14.05.2021 (Preview)",
+  "summary": "Themen u.a.:  - Wer hat was gespielt?  - DC  - Polarisationsbrillen  - Filmkompott  - Wer hat was gespielt?  - Vibrationsweste  - Cyberdildos  - Klang Raytracing  - OLED Monitore  - Fritzbox ",
+  "published_at": "2021-05-14T23:34:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-05-15_retrokompott_stammtisch_120_14052021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-05-15_retrokompott_stammtisch_120_14052021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57737472,
+  "duration": "1:00:09",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "b7152f785bdcfcaa4a151e20e741ef6c17c3858e4c093958bc7559be6bfc3cc9"
+}

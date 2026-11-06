@@ -1,0 +1,32 @@
+{
+  "id": 4085,
+  "resource_type": "page",
+  "slug": "weitere-formate",
+  "status": "publish",
+  "link": "https://blog.retrokompott.de/weitere-formate/",
+  "date": "2019-09-16T13:45:06",
+  "date_gmt": "2019-09-16T13:45:06",
+  "modified": "2019-09-16T13:45:06",
+  "modified_gmt": "2019-09-16T13:45:06",
+  "title": {
+    "rendered": "weitere Formate"
+  },
+  "content": {
+    "rendered": "",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "",
+    "protected": false
+  },
+  "categories": [],
+  "tags": [],
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "sticky": false,
+  "guid": {
+    "rendered": "http://blog.retrokompott.de/?page_id=4085"
+  },
+  "source_hash": "3d9a2a47d0fdfdba9f1b28fc5df6a9b2da91b294611f37c5c995251683db50c2"
+}

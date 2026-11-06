@@ -1,0 +1,19 @@
+{
+  "id": "fed30fbe10d5478763ca03eb3d5a5de5e68ce444cc17d7d39baf1d2e566ccccc",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-05-14_retrokompott_stammtisch_172_13052022_preview.mp3",
+  "slug": "retrokompott-stammtisch-172-preview-vom-13-05-2022-fed30fbe10",
+  "title": "Retrokompott Stammtisch 172 (Preview) vom 13.05.2022",
+  "summary": "Themen u.a.: Mister Steamdeck Spiele werden immer größer Wer hat was gespielt? Rechnerpools an der Uni Informatik in der Schule Hunde und Katzenscheiße",
+  "published_at": "2022-05-14T08:47:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-05-14_retrokompott_stammtisch_172_13052022_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2022-05-14_retrokompott_stammtisch_172_13052022_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58581504,
+  "duration": "1:01:01",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "5e6500698f4fa35921c94b4885833317bdda3fd509e7606efb5bde7cea65a305"
+}

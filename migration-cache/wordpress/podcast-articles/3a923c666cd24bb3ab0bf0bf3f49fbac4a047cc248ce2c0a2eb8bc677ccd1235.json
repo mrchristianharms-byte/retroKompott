@@ -1,0 +1,19 @@
+{
+  "id": "3a923c666cd24bb3ab0bf0bf3f49fbac4a047cc248ce2c0a2eb8bc677ccd1235",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-01-15_retrokompott_stammtisch_155_14012022_preview.mp3",
+  "slug": "retrokompott-stammtisch-155-preview-14-01-2022-3a923c666c",
+  "title": "Retrokompott Stammtisch 155 (Preview) 14.01.2022",
+  "summary": "Themen u.a: Audioprobleme Handhelds Retrokonsolen Falco Mister PSX-Core Emulation vs. Mister Analoges TV Signal vs. HDMI Wer hat was gespielt? Was habt ihr gespielt Die Siedler 7 Tropico Spielelauncher Windows Updates Arbeitsaccounts und private Accounts ",
+  "published_at": "2022-01-15T11:17:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-01-15_retrokompott_stammtisch_155_14012022_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2022-01-15_retrokompott_stammtisch_155_14012022_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58381824,
+  "duration": "1:00:49",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "e591cf1cf54f05832ea0942d7d64e55313e7ab288f4abba147b1012db2244da0"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "4ae118da8854b6fd124ad47e1402aa8a6cdcdcf46c07c8cb6e5a74f78ecff534",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2023-07-29_retrokompott_stammtisch_235_28072023_preview.mp3",
+  "slug": "retrokompott-stammtisch-235-vom-28-07-2023-preview-4ae118da88",
+  "title": "Retrokompott Stammtisch 235 vom 28.07.2023 (Preview)",
+  "summary": " Die komplette Folge gibt fuer alle Unterstuetzer bei Steady und Patreon ab 1 Euro / Monat.  https://www.patreon.com/retrokompott oder https://steadyhq.com/retrokompott",
+  "published_at": "2023-07-29T09:29:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2023-07-29_retrokompott_stammtisch_235_28072023_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2023-07-29_retrokompott_stammtisch_235_28072023_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57344256,
+  "duration": "59:44",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "f52d0b1cdb5fabf1efd6cb43a5072954d6218e89bdbaf6c999afe4249ecf208d"
+}

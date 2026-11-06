@@ -1,0 +1,19 @@
+{
+  "id": "77350982844bca70f1ff4660c6ad0b88e66aaecebe4de83bc263bb3ae725d043",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-06-04_retrokompott_stammtisch_175_04062022_preview.mp3",
+  "slug": "retrokompott-stammtisch-175-vom-03-06-2022-7735098284",
+  "title": "Retrokompott Stammtisch 175 vom 03.06.2022",
+  "summary": "Themen u.a. Themen:  - C64- und Amiga-Musik - DefleMask - 10€-Retro-Tracker - Legendäre Chiptune-Musiker - SIDStation in der Popmusik - Plagiate von Retro-Musik - Störer bei Audio-Aufnahmen - Autobahnraser - MotorStorm, nail´d, TrackMania",
+  "published_at": "2022-06-03T23:00:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-06-04_retrokompott_stammtisch_175_04062022_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2022-06-04_retrokompott_stammtisch_175_04062022_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58301961,
+  "duration": "1:00:44",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "4466d68e35e15ca69580741eff2de463b189cb9384f91e2533ea83ebab73db26"
+}

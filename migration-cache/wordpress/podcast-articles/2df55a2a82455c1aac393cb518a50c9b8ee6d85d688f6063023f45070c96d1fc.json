@@ -1,0 +1,19 @@
+{
+  "id": "2df55a2a82455c1aac393cb518a50c9b8ee6d85d688f6063023f45070c96d1fc",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-09-25_retrokompott_stammtisch_139_17092021_preview.mp3",
+  "slug": "retrokompott-stammtisch-139-24-09-2021-preview-2df55a2a82",
+  "title": "Retrokompott Stammtisch 139 - 24.09.2021 (Preview)",
+  "summary": "Themen u.a.:  - Wer hat was gespielt?  - Bücher  - USB-Anschlüsse  - Sid Meier Spiele  - Mega 65  - Moviekompott  - Final Fantasy 7  - Gameboy Color ",
+  "published_at": "2021-09-25T05:39:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-09-25_retrokompott_stammtisch_139_17092021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-09-25_retrokompott_stammtisch_139_17092021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57499392,
+  "duration": "59:54",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "558ad7e4e404d569c3e8d8843b2792ffa40f2f62e03146cea6470ec7203ef25f"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "f4cc0ab13f728ccdd4244f2ab75eaa255a70a1a16d59df41d5f15bd35cefbd2d",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-07-20_retrokompott_stammtisch_025_19072019_1h.mp3",
+  "slug": "retrokompott-stammtisch-025-19-07-2019-preview-f4cc0ab13f",
+  "title": "RETROKOMPOTT STAMMTISCH - 025 - 19.07.2019 PREVIEW",
+  "summary": "Der 25te Stammtisch bietet wieder ein Themensammelsurium das keiner erwarten konnte.  Von Retrospiele zu alten Erotikbildern, vom Zauberwürfel zu Themenwünschen..... eigentlich dürfte jeder etwas spannendes finden!   ",
+  "published_at": "2019-07-19T23:45:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-07-20_retrokompott_stammtisch_025_19072019_1h.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2019-07-20_retrokompott_stammtisch_025_19072019_1h.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58455552,
+  "duration": "1:00:53",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "c6d5b4b19a0b1b12cec65e81b8d14a46dd60fc5fe9f3e187d8574c926beb430d"
+}

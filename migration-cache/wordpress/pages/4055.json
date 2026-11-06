@@ -1,0 +1,32 @@
+{
+  "id": 4055,
+  "resource_type": "page",
+  "slug": "cachekompott-2",
+  "status": "publish",
+  "link": "https://blog.retrokompott.de/cachekompott-2/",
+  "date": "2019-09-15T23:04:27",
+  "date_gmt": "2019-09-15T23:04:27",
+  "modified": "2019-09-15T23:04:27",
+  "modified_gmt": "2019-09-15T23:04:27",
+  "title": {
+    "rendered": "Cachekompott"
+  },
+  "content": {
+    "rendered": "",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "",
+    "protected": false
+  },
+  "categories": [],
+  "tags": [],
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "sticky": false,
+  "guid": {
+    "rendered": "http://blog.retrokompott.de/?page_id=4055"
+  },
+  "source_hash": "de3d691153419f8d5f1f0e57f9937e785658a6e525d4097e8c43a4298a49aaf7"
+}

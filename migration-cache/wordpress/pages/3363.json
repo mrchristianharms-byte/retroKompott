@@ -1,0 +1,32 @@
+{
+  "id": 3363,
+  "resource_type": "page",
+  "slug": "schlagwoerter",
+  "status": "publish",
+  "link": "https://blog.retrokompott.de/schlagwoerter/",
+  "date": "2019-05-09T22:09:08",
+  "date_gmt": "2019-05-09T22:09:08",
+  "modified": "2019-05-09T22:09:08",
+  "modified_gmt": "2019-05-09T22:09:08",
+  "title": {
+    "rendered": "Schlagwörter"
+  },
+  "content": {
+    "rendered": "<p>CONTENTS</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>CONTENTS</p>\n",
+    "protected": false
+  },
+  "categories": [],
+  "tags": [],
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "sticky": false,
+  "guid": {
+    "rendered": "http://blog.retrokompott.de/veranstaltungen/schlagwoerter/"
+  },
+  "source_hash": "6b86e93ad265592a577d6d2ece22c4e261a9061f6f17aa4acfe4b67147a07e59"
+}

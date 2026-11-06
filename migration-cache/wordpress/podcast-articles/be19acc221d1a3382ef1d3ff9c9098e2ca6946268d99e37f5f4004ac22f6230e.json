@@ -1,0 +1,19 @@
+{
+  "id": "be19acc221d1a3382ef1d3ff9c9098e2ca6946268d99e37f5f4004ac22f6230e",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-11-06_retrokompott_stammtisch_145_05112021_preview.mp3",
+  "slug": "retrokompott-stammtisch-145-preview-be19acc221",
+  "title": "Retrokompott Stammtisch 145 (Preview)",
+  "summary": "Themen u.a.:  Reisekompott Wer hat was gespielt XBox Shoppingkompott",
+  "published_at": "2021-11-06T11:30:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-11-06_retrokompott_stammtisch_145_05112021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-11-06_retrokompott_stammtisch_145_05112021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58242048,
+  "duration": "1:00:40",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "654d37fc2d74afccf3ff9051323ad79a61c0478775b4f6b7dfc0311aa7206a95"
+}

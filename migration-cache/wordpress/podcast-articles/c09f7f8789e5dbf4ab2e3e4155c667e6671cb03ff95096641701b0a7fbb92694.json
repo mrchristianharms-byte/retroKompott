@@ -1,0 +1,19 @@
+{
+  "id": "c09f7f8789e5dbf4ab2e3e4155c667e6671cb03ff95096641701b0a7fbb92694",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-01-29_retrokompott_stammtisch_157_28012022_preview.mp3",
+  "slug": "retrokompott-stammtisch-157-preview-vom-28-01-2022-c09f7f8789",
+  "title": "Retrokompott Stammtisch 157 (Preview) vom 28.01.2022",
+  "summary": "Themen u.a.:  Internetausbau Disco Elysium Sega See Diverse westliche Rollenspiele und AD&D Ego-Shooter Apple M1 Pro / Mac ",
+  "published_at": "2022-01-29T12:24:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-01-29_retrokompott_stammtisch_157_28012022_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2022-01-29_retrokompott_stammtisch_157_28012022_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58308480,
+  "duration": "1:00:44",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "b8e1b4c1fb436305718e9e642326817d79f0e9db47954a2dc4c2c345f69e1a50"
+}

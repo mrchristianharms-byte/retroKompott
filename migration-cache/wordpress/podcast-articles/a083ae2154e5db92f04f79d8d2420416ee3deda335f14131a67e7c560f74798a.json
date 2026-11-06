@@ -1,0 +1,19 @@
+{
+  "id": "a083ae2154e5db92f04f79d8d2420416ee3deda335f14131a67e7c560f74798a",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-06-26_retrokompott_stammtisch_126_25062021_preview.mp3",
+  "slug": "retrokompott-stammtisch-126-25-06-2021-preview-a083ae2154",
+  "title": "Retrokompott Stammtisch 126 - 25.06.2021 (Preview)",
+  "summary": "Themen:  - Neuvorstellung Carter17_red  - Warm up: Platte Witze  - Transkriptionen mit YouTube  - Aussprache Computerspiele  - Grafiken bei Point and Click Adventures  - Scheiß Themen  - Strictly Limited  - Mario  - Gamepad vs. Joystick  u.a.",
+  "published_at": "2021-06-26T10:22:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-06-26_retrokompott_stammtisch_126_25062021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-06-26_retrokompott_stammtisch_126_25062021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57989760,
+  "duration": "1:00:24",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "89151a3ad5b44b1e66a7c6e70629ba80fee28585ed58257f01375b27f58bcc95"
+}

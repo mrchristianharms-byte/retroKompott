@@ -1,0 +1,19 @@
+{
+  "id": "0c49f1fd264c75c8e11e195020237adfbafe24a4141f289f870cc14c4dcb8866",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-12-19_retrokompott_stammtisch_099_18122020_preview.mp3",
+  "slug": "retrokompott-stammtisch-99-18-12-2020-preview-erste-stunde-0c49f1fd26",
+  "title": "Retrokompott Stammtisch 99 - 18.12.2020 (Preview erste Stunde)",
+  "summary": "Themen u.a.: - Videostammtisch - Glückszahl - Berichte vom Flughafen - DAT-Recorder - Plattenspieler - Hifi Anlage - Stammtisch - Super Nintendo World - Filmeffekte und CGI - Lautstärke und db - Wer hat was gespielt? - Uhren - Luxusgüter - Leveldesign ",
+  "published_at": "2020-12-19T11:36:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-12-19_retrokompott_stammtisch_099_18122020_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-12-19_retrokompott_stammtisch_099_18122020_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58034049,
+  "duration": "1:00:27",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "4afad4daca457bd3ee02fc43305389a79f1bd2fd1f8023745a31b0a58adaab0e"
+}

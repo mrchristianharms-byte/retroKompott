@@ -1,0 +1,19 @@
+{
+  "id": "4e9f3acca249896135f5c34ba880fd2edc9173aa5e2606255517514693dbbb07",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-07-11_retrokompott_stammtisch_075_10072020_1h_128kb.mp3",
+  "slug": "retrokompott-stammtisch-75-10-07-2020-preview-erste-stunde-4e9f3acca2",
+  "title": "Retrokompott Stammtisch 75 - 10.07.2020 (Preview erste Stunde)",
+  "summary": "Themen: Videostammtisch - Apple Zubehör - Combuter Bild und ct - Amiga Tools - \"Lecken\" - Tastaturen - Wer hat was gespielt? - AAA-Spieleproduktionen - Single Player Games - Service Games - Löten - Amiga Classic WB",
+  "published_at": "2020-07-11T11:29:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-07-11_retrokompott_stammtisch_075_10072020_1h_128kb.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-07-11_retrokompott_stammtisch_075_10072020_1h_128kb.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57587712,
+  "duration": "59:59",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "b89071fd8d87b84d9b2efb1e2d4a8a876b2416bc3a6243b6f3ebddec64b6de2b"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "0b520c2653f1b98f28bac61bff7d3bb098ec0b831a7969e3957c554df2e4d8e3",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-05-09_retrokompott_stammtisch_066_08052020_128kb.mp3",
+  "slug": "retrokompott-stammtisch-066-08-05-2020-komplett-0b520c2653",
+  "title": "RETROKOMPOTT STAMMTISCH - 066- 08.05.2020 (Komplett)",
+  "summary": "Episode 66 - Themen: - Podcast-Software - Video-Stammtisch - Themen Retrokompott - Assembler - C64 Demos - Wer hat was gespielt? - Skurrile Spiele - Die Rollen fürs Mac Pro - Radio Shack - Gaming PC und Kühlung - Open GL / Glide - ARM Prozessoren",
+  "published_at": "2020-05-09T11:43:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-05-09_retrokompott_stammtisch_066_08052020_128kb.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-05-09_retrokompott_stammtisch_066_08052020_128kb.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 326967552,
+  "duration": "5:40:35",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "f62f1136b236f3bcb65c6bc78f9d48153c8a1dc472976695142c241e3dd2e6c0"
+}

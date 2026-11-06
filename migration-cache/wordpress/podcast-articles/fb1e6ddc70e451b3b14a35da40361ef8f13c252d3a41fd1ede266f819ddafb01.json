@@ -1,0 +1,19 @@
+{
+  "id": "fb1e6ddc70e451b3b14a35da40361ef8f13c252d3a41fd1ede266f819ddafb01",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-12-11_retrokompott_stammtisch_150_10122021_preview.mp3",
+  "slug": "retrokompott-stammtisch-150-preview-vom-10-12-2021-fb1e6ddc70",
+  "title": "Retrokompott Stammtisch 150 (Preview) vom 10.12.2021",
+  "summary": "Themen u.a. Matrix Demo, Sauforgien, Robin Williams Kriegsgeschichten Wer hat was gespielt?   2D und 3D Animationen Game Awards",
+  "published_at": "2021-12-11T08:45:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-12-11_retrokompott_stammtisch_150_10122021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-12-11_retrokompott_stammtisch_150_10122021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58326144,
+  "duration": "1:00:45",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "b278fdc853984896570ab35120db97a888e2427f07d265af4477e8c113aff56d"
+}

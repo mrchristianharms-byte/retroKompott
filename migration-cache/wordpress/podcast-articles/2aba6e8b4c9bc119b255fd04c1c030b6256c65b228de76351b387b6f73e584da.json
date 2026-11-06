@@ -1,0 +1,19 @@
+{
+  "id": "2aba6e8b4c9bc119b255fd04c1c030b6256c65b228de76351b387b6f73e584da",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-09-14_retrokompott_stammtisch_032_14092019_preview.mp3",
+  "slug": "retrokompott-stammtisch-032-13-09-2019-preview-2aba6e8b4c",
+  "title": "RETROKOMPOTT STAMMTISCH - 032 - 13.09.2019 PREVIEW",
+  "summary": "Heut mal fast ohne Stammbesetzug. Aber er läuft und läuft und dauert trotzdem über 3 Stunden :) Viel Spaß! Und immer dran denken: Jeder kann mitmachen!  Für alle Unterstützer gibt es hier natürlich wieder die komplette Version!",
+  "published_at": "2019-09-13T23:18:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-09-14_retrokompott_stammtisch_032_14092019_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2019-09-14_retrokompott_stammtisch_032_14092019_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57236352,
+  "duration": "59:37",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "6be09e1b926ba5e9f427bb9801613cf412fd228a4d10167a55ab6a2d5f1853da"
+}

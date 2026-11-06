@@ -1,0 +1,19 @@
+{
+  "id": "614d51811316261003c0e8b539dd40a28041647a53ee8aa16c71d0b27ef08ef3",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-03-28_retrokompott_stammtisch_060_28032020_128kb.mp3",
+  "slug": "retrokompott-stammtisch-060-27-03-2020-komplett-614d518113",
+  "title": "RETROKOMPOTT STAMMTISCH - 060- 27.03.2020 (Komplett)",
+  "summary": "Podcast Episode",
+  "published_at": "2020-03-28T13:34:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-03-28_retrokompott_stammtisch_060_28032020_128kb.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-03-28_retrokompott_stammtisch_060_28032020_128kb.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 256088064,
+  "duration": "4:26:45",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "dd55aca2ec6a40326db522190056e0d8f61fe2ede83bb31af5851bed2e5e6f2e"
+}

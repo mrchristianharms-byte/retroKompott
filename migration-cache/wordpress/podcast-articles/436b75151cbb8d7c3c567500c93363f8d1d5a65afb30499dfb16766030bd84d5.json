@@ -1,0 +1,19 @@
+{
+  "id": "436b75151cbb8d7c3c567500c93363f8d1d5a65afb30499dfb16766030bd84d5",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-09-18_retrokompott_stammtisch_138_17092021_preview.mp3",
+  "slug": "retrokompott-stammtisch-138-17-09-2021-preview-436b75151c",
+  "title": "Retrokompott Stammtisch 138 - 17.09.2021 (Preview)",
+  "summary": "Themen u.a Blödeltalk - Wer hat was gespielt? - Rüttelspiele - Erotische Spiele - Adult TV - Cold Waters - Atomkrieg - Bunker - Chernobyl - Videoserver - Windows Startmenü - Elite like Spiele - Online Spiel - Ultima: Escape from Mt. Drash - Rollenspiele",
+  "published_at": "2021-09-18T16:05:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-09-18_retrokompott_stammtisch_138_17092021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-09-18_retrokompott_stammtisch_138_17092021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58203264,
+  "duration": "1:00:38",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "3b9f9c86df55e7b8a5e2ecb4bec5dc9d437df13d6f9743927d182318fb96f740"
+}

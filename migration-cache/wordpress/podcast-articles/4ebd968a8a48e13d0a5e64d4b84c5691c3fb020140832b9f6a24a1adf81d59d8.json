@@ -1,0 +1,19 @@
+{
+  "id": "4ebd968a8a48e13d0a5e64d4b84c5691c3fb020140832b9f6a24a1adf81d59d8",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-03-19_retrokompott_stammtisch_164_18032022_preview.mp3",
+  "slug": "retrokompott-audio-stammtisch-164-preview-vom-18-03-2022-4ebd968a8a",
+  "title": "Retrokompott Audio Stammtisch 164 (Preview) vom 18.03.2022",
+  "summary": "Teilnehmer u.a.: Patrick, Ingo, Robin, RSN8887, Jörg, Miri, Stefan (Grecco76), Manfred, derhass",
+  "published_at": "2022-03-19T08:34:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-03-19_retrokompott_stammtisch_164_18032022_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2022-03-19_retrokompott_stammtisch_164_18032022_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58344576,
+  "duration": "1:00:47",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "e393550c7585049ae3f7d8d174e1e94cb46a096792c20354ac258f984b31a5a5"
+}

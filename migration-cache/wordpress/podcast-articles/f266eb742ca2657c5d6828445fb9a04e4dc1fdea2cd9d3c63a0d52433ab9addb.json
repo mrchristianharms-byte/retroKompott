@@ -1,0 +1,19 @@
+{
+  "id": "f266eb742ca2657c5d6828445fb9a04e4dc1fdea2cd9d3c63a0d52433ab9addb",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-07-31_retrokompott_stammtisch_131_30072021.mp3",
+  "slug": "retrokompott-stammtisch-131-30-07-2021-vollversion-f266eb742c",
+  "title": "Retrokompott Stammtisch 131 - 30.07.2021 (Vollversion)",
+  "summary": "Themen u.a. - Wer hat was gespielt - Namenskunde - Berlin - Urlaub - Wald und Meer - Drogen - Mister - Mass Effect und Story Telling - Amazon - CD32",
+  "published_at": "2021-07-31T08:10:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-07-31_retrokompott_stammtisch_131_30072021.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-07-31_retrokompott_stammtisch_131_30072021.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 227875968,
+  "duration": "3:57:22",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "35c749cd6b6a83feae2310d77f6888a436d407626cf75e318cf3341cffdeed58"
+}

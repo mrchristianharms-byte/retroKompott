@@ -1,0 +1,19 @@
+{
+  "id": "e1b94e7df3f4c6340cc033684e8daf0b4a40b53114c8dd0fb1f7474ebd06afe2",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2026-10-17_retrokompott_stammtisch_403_16102026_preview.mp3",
+  "slug": "retrokompott-stammtisch-403-vom-16-10-2026-preview-e1b94e7df3",
+  "title": "Retrokompott Stammtisch 403 vom 16.10.2026 (Preview)",
+  "summary": " Dies ist die erste Stunde des Stammtisches für alle Hörer unseres Kanals, die komplette Folge gibt es für alle Unterstützer bei Steady und Patreon ab 1 Euro / Monat.  https://www.patreon.com/retrokompott oder https://steadyhq.com/retrokompott",
+  "published_at": "2026-10-17T07:47:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2026-10-17_retrokompott_stammtisch_403_16102026_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2026-10-17_retrokompott_stammtisch_403_16102026_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 59511221,
+  "duration": "1:01:59",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "029a5c3f4fae21a284936fde480e767974977f509c177c3ccc2b3f13fec551d6"
+}

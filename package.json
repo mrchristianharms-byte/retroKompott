@@ -5,11 +5,16 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "check": "astro check"
+    "check": "astro check",
+    "storyblok:check": "node scripts/storyblok/deploy.mjs --check",
+    "storyblok:deploy": "node scripts/storyblok/deploy.mjs",
+    "wordpress:export": "node scripts/wordpress/export.mjs"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
     "astro": "^5.14.1",
+    "fast-xml-parser": "^5.2.5",
+    "fast-xml-validator": "^1.4.2",
     "typescript": "^5.9.2"
   },
   "devDependencies": {

@@ -1,0 +1,19 @@
+{
+  "id": "ae06cdac583dd98be8ebeb9945986dbdc65ce12164ac19107df95426ecf49855",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-05-16_retrokompott_stammtisch_067_15052020_128kb.mp3",
+  "slug": "retrokompott-stammtisch-067-15-05-2020-komplett-ae06cdac58",
+  "title": "RETROKOMPOTT STAMMTISCH - 067- 15.05.2020 (Komplett)",
+  "summary": "Themen:  - Videostammtisch - Arcade-Spiele - Wer spielt was? - Lotus - Rennspiele - VC20 - Lustige Simulatoren - PS5",
+  "published_at": "2020-05-16T11:01:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-05-16_retrokompott_stammtisch_067_15052020_128kb.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-05-16_retrokompott_stammtisch_067_15052020_128kb.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 278648448,
+  "duration": "4:50:16",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "6753e423dfbfd76d13280c8f86dc06b99ad9fad7c3eacb255526613ed6e73209"
+}

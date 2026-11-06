@@ -1,0 +1,19 @@
+{
+  "id": "3c4e5ffd5c52a9b75883e913b42a8cf4ff285f02b93052546500ff0a5cec240a",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-09-05_retrokompott_stammtisch_084_04092020_preview_128kb.mp3",
+  "slug": "retrokompott-stammtisch-84-04-09-2020-preview-erste-stunde-3c4e5ffd5c",
+  "title": "Retrokompott Stammtisch 84 - 04.09.2020 (Preview erste Stunde)",
+  "summary": "Themen:  - Top 3 Talk - Neuvorstellung \"Grecco 76\" - Gamescom Event - Spiele zum Gruseln - Gamecube / Nintendo - Rayman - Egoshooter - Wer hat was gespielt? - Video Stammtisch - Factor 5 - Playstation - Epic vs. Apple ",
+  "published_at": "2020-09-05T09:43:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-09-05_retrokompott_stammtisch_084_04092020_preview_128kb.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-09-05_retrokompott_stammtisch_084_04092020_preview_128kb.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58086912,
+  "duration": "1:00:30",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "ebf30309c6cae3891dd5f9e292c514547ca6dce77d70b17c77e9f38bcce2318d"
+}

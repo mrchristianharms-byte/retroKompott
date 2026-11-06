@@ -1,0 +1,19 @@
+{
+  "id": "0e203cccadd344e8aae9060c69344092d2111045f82ba5525812c12b059fa348",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-06-13_retrokompott_stammtisch_071_12062020_1h.mp3",
+  "slug": "retrokompott-stammtisch-71-12-06-2020-preview-erste-stunde-0e203cccad",
+  "title": "Retrokompott Stammtisch 71 - 12.06.2020 (Preview erste Stunde)",
+  "summary": "Themen:  - Axel packt aus - Atari Falco - Usenet - Trump - PS5 - Videostammtisch - Horizon Zero Dawn 2 - Uservorstellung Juxx - Playstation 1 - 3dfx - Red Dead Redemption 1 - Wer hat was gespielt? - Minderheiten - Hotspot - Tomb Raider - itch.io u.a.",
+  "published_at": "2020-06-13T13:04:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-06-13_retrokompott_stammtisch_071_12062020_1h.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-06-13_retrokompott_stammtisch_071_12062020_1h.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57859200,
+  "duration": "1:00:16",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "3f3a05b04bd776868b91cc540e98532773dcbe3c93da79e332ffa2ab629f8439"
+}

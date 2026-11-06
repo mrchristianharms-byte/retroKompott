@@ -1,0 +1,32 @@
+{
+  "id": 3590,
+  "resource_type": "page",
+  "slug": "90-pixelkompott",
+  "status": "publish",
+  "link": "https://blog.retrokompott.de/90-pixelkompott/",
+  "date": "2019-06-21T13:09:43",
+  "date_gmt": "2019-06-21T13:09:43",
+  "modified": "2021-05-23T16:05:03",
+  "modified_gmt": "2021-05-23T16:05:03",
+  "title": {
+    "rendered": "12 &#8211; Pixelkompott"
+  },
+  "content": {
+    "rendered": "<hr />\n<h4 id=\"retrokompott-classics--themen-\" style=\"text-align: center;\"><strong>Pixelkompott<br />\n</strong>Eine Produktion der Kollegen von Pretty old Pixel &#8211;<br />\nAbschlussgespraeche und Talks aus ihrem Video-Kanal</h4>\n<hr />\n<pre style=\"padding-left: 40px;\"><strong>Aktuelle Folgen findet man ab OKTOBER 2019 wieder in unserem Hauptpodcast.\r\n</strong></pre>\n<hr />\n<pre style=\"padding-left: 40px;\"><strong>Wenn Euch das Projekt gefaellt unterstuetzt uns bitte <a href=\"https://blog.retrokompott.de/helft-uns/\">hier</a>, \r\ndenn nur so koennen wir viele der neuen Ideen verwirklichen!</strong></pre>\n<hr />\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Pixelkompott Eine Produktion der Kollegen von Pretty old Pixel &#8211; Abschlussgespraeche und Talks aus ihrem Video-Kanal Aktuelle Folgen findet man ab OKTOBER 2019 wieder in unserem Hauptpodcast. Wenn Euch das Projekt gefaellt unterstuetzt uns bitte hier, denn nur so koennen wir viele der neuen Ideen verwirklichen!</p>\n",
+    "protected": false
+  },
+  "categories": [],
+  "tags": [],
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "sticky": false,
+  "guid": {
+    "rendered": "http://blog.retrokompott.de/?page_id=3590"
+  },
+  "source_hash": "c506ec31b4ae3b54e6bee5c85ec186b20c2dd38e84d74cfb9bbda130a66c886f"
+}

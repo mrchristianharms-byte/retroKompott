@@ -1,0 +1,32 @@
+{
+  "id": 2932,
+  "resource_type": "page",
+  "slug": "04-exclusive-formate",
+  "status": "publish",
+  "link": "https://blog.retrokompott.de/04-exclusive-formate/",
+  "date": "2019-02-21T23:16:39",
+  "date_gmt": "2019-02-21T23:16:39",
+  "modified": "2025-01-30T14:38:34",
+  "modified_gmt": "2025-01-30T14:38:34",
+  "title": {
+    "rendered": "06 &#8211; Exklusiv"
+  },
+  "content": {
+    "rendered": "<hr />\n<p><span style=\"color: #ffffff;\">Wenn Euch das Projekt gefaellt unterstuetzt uns bitte <strong><span style=\"color: #ffffff;\"><a style=\"color: #ffffff;\" href=\"https://blog.retrokompott.de/helft-uns/\">hier</a></span></strong>, denn nur so koennen wir viele der neuen Ideen verwirklichen! </span></p>\n<hr />\n<h3 style=\"text-align: left;\"></h3>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Wenn Euch das Projekt gefaellt unterstuetzt uns bitte hier, denn nur so koennen wir viele der neuen Ideen verwirklichen!</p>\n",
+    "protected": false
+  },
+  "categories": [],
+  "tags": [],
+  "featured_media": 4773,
+  "parent": 0,
+  "menu_order": 0,
+  "sticky": false,
+  "guid": {
+    "rendered": "http://blog.retrokompott.de/?page_id=2932"
+  },
+  "source_hash": "076e8777b4aedc01b51b414f2c1a6dc823f1ecf074a54bb26e91480d3d596d9f"
+}

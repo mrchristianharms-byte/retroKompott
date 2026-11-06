@@ -1,0 +1,32 @@
+{
+  "id": 4053,
+  "resource_type": "page",
+  "slug": "retrokompott",
+  "status": "publish",
+  "link": "https://blog.retrokompott.de/retrokompott/",
+  "date": "2019-09-15T23:04:27",
+  "date_gmt": "2019-09-15T23:04:27",
+  "modified": "2019-09-15T23:04:27",
+  "modified_gmt": "2019-09-15T23:04:27",
+  "title": {
+    "rendered": "Retrokompott"
+  },
+  "content": {
+    "rendered": "",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "",
+    "protected": false
+  },
+  "categories": [],
+  "tags": [],
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "sticky": false,
+  "guid": {
+    "rendered": "http://blog.retrokompott.de/?page_id=4053"
+  },
+  "source_hash": "413219987271fa3eed83b9394a02bdc4ad29bf71c8f63ab622948e45d52b579e"
+}

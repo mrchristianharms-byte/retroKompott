@@ -1,0 +1,19 @@
+{
+  "id": "d7edf77ef615f6701e36287b61c20dd6cfab31f0ed6eea99a50c55a6fe88728e",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-07-18_retrokompott_stammtisch_076_170720201h_128kb.mp3",
+  "slug": "retrokompott-stammtisch-76-17-07-2020-preview-erste-stunde-d7edf77ef6",
+  "title": "Retrokompott Stammtisch 76 - 17.07.2020 (Preview erste Stunde)",
+  "summary": "Themen:   - Videostammtisch  - Wer hat was gespielt?  - Sony Playstation 5  - Dialogbäume in Adventures  - Labyrinthe in Spielen  - Arnes \"Liste\"  - Adventures  ",
+  "published_at": "2020-07-18T07:28:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-07-18_retrokompott_stammtisch_076_170720201h_128kb.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-07-18_retrokompott_stammtisch_076_170720201h_128kb.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57694848,
+  "duration": "1:00:06",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "c2e2bb76e19d0f19cd749d84f59e8619134eb7f7a97a692f67ef23d434d72f98"
+}

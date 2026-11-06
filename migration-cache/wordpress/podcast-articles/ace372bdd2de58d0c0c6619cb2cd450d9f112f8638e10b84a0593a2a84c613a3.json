@@ -1,0 +1,19 @@
+{
+  "id": "ace372bdd2de58d0c0c6619cb2cd450d9f112f8638e10b84a0593a2a84c613a3",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-05-30_retrokompott_stammtisch_069_29052020_128kb.mp3",
+  "slug": "retrokompott-stammtisch-069-29-05-2020-komplett-ace372bdd2",
+  "title": "RETROKOMPOTT STAMMTISCH - 069- 29.05.2020 (Komplett)",
+  "summary": "Themen: - Videostammtisch - \"Selbstzerstörung\", - PSP - Nachlass von Retrosammlungen - Web-Hosting - Die Retrokompott Whatsapp Gruppe hilft! - Amiga Kondensatoren austauschen und Hardwarebasteleien - CPUs kühlen - Haushaltshilfe - Wer hat was gespielt",
+  "published_at": "2020-05-30T12:31:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-05-30_retrokompott_stammtisch_069_29052020_128kb.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-05-30_retrokompott_stammtisch_069_29052020_128kb.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 279330432,
+  "duration": "4:50:58",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "7ed8ceff7b068c5dfc7226208e6fee72091be193927d811afb5cb2a6e01382e3"
+}

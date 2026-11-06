@@ -1,0 +1,19 @@
+{
+  "id": "6ebacde4108edbb16291141d9a66f89c25452c47ad1e1f127b680fbe70f6c4be",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-09-12_retrokompott_stammtisch_085_120920201h_128kb.mp3",
+  "slug": "retrokompott-stammtisch-85-11-09-2020-preview-erste-stunde-6ebacde410",
+  "title": "Retrokompott Stammtisch 85 - 11.09.2020 (Preview erste Stunde)",
+  "summary": "Themen:  - Videostammtisch - Wer hat was gespielt - Konsolen hacken - Mister - FM Towns - Handheld Retro Konsolen - Softwareentwicklung früher und heute - Commodore Handbücher und Mauspfeile - Amiga Tools - Emulation und Homebrew auf der PS Vita",
+  "published_at": "2020-09-12T11:22:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-09-12_retrokompott_stammtisch_085_120920201h_128kb.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-09-12_retrokompott_stammtisch_085_120920201h_128kb.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 56372736,
+  "duration": "58:43",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "a475d11e0dbbbe3aaaa49e050f1b34e34c52050e27eac70fb376cf9ec257e58e"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "71d040e88b795bcc782b8236f687b8fc65212c0e6f6c75882cb6f39ee2d4d1e0",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-01-11_retrokompott_stammtisch_049_10012020_preview.mp3",
+  "slug": "retrokompott-stammtisch-049-10-01-2020-preview-71d040e88b",
+  "title": "RETROKOMPOTT STAMMTISCH - 049 - 10.01.2020 PREVIEW",
+  "summary": "Preview - 1h Preview des neusten Stammtisches. Die komplette Version gibt es für alle Unterstützer bei Patreon und Steady!isode",
+  "published_at": "2020-01-10T13:51:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-01-11_retrokompott_stammtisch_049_10012020_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-01-11_retrokompott_stammtisch_049_10012020_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58211328,
+  "duration": "1:00:38",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "a4011273e530433b1d3674ab74ba3943dc07bd1aae561644060db97f854c5ad5"
+}

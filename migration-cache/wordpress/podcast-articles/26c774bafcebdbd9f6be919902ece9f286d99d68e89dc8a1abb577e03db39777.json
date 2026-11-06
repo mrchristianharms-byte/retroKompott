@@ -1,0 +1,19 @@
+{
+  "id": "26c774bafcebdbd9f6be919902ece9f286d99d68e89dc8a1abb577e03db39777",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-11-01_retrokompott_stammtisch_092_30102020_preview_128kb.mp3",
+  "slug": "retrokompott-stammtisch-92-30-10-2020-preview-erste-stunde-26c774bafc",
+  "title": "Retrokompott Stammtisch 92 - 30.10.2020 (Preview erste Stunde)",
+  "summary": "Themen: - Among Us - Fall Guys - Grafikkarten - AMD - Borat 2 - Videostammtisch / Lionheart - Corona - Drucker - Musikindustrie - DAC und Hires Audio - CGI - Filme - Wer hat was gespielt? - Cheaten - USB",
+  "published_at": "2020-11-01T00:12:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-11-01_retrokompott_stammtisch_092_30102020_preview_128kb.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-11-01_retrokompott_stammtisch_092_30102020_preview_128kb.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57672192,
+  "duration": "1:00:04",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "5ca96f2610db2093714a955e8bfa0bcf35c97478af8d5d8072f29906430fd0b1"
+}

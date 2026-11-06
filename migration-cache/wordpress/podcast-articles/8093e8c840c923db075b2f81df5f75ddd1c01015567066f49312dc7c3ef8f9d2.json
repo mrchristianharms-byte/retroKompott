@@ -1,0 +1,19 @@
+{
+  "id": "8093e8c840c923db075b2f81df5f75ddd1c01015567066f49312dc7c3ef8f9d2",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-08-10_retrokompott_stammtisch_028_09082019_1h.mp3",
+  "slug": "retrokompott-stammtisch-028-09-08-2019-preview-8093e8c840",
+  "title": "RETROKOMPOTT STAMMTISCH - 028 - 09.08.2019 PREVIEW",
+  "summary": "Die neue Folge des Retrokompott Stammtisches",
+  "published_at": "2019-08-10T06:38:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-08-10_retrokompott_stammtisch_028_09082019_1h.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2019-08-10_retrokompott_stammtisch_028_09082019_1h.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57659520,
+  "duration": "1:00:04",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "ae4d288f47f334fd38a8d546acf6e5dc0e49810d4386e45076d4f3c8a764661b"
+}

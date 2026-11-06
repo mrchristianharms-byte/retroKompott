@@ -1,0 +1,19 @@
+{
+  "id": "14851b83af84332e2ebab433a65bdf78796c91a9205e296d205a230155622e85",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2023-05-06_retrokompott_stammtisch_223_06052023_preview.mp3",
+  "slug": "retrokompott-stammtisch-223-vom-05-05-2023-preview-14851b83af",
+  "title": "Retrokompott Stammtisch 223 vom 05.05.2023 (Preview)",
+  "summary": "Die erste Stunde unseres Retrokompott Stammtisches.  Die komplette Folge (brutto über 8 Stunden) gibt es fuer alle Unterstuetzer bei Steady und Patreon ab 1 Euro / Monat.  https://steadyhq.com/retrokompott oder https://www.patreon.com/retrokompott",
+  "published_at": "2023-05-06T07:06:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2023-05-06_retrokompott_stammtisch_223_06052023_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2023-05-06_retrokompott_stammtisch_223_06052023_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58432128,
+  "duration": "1:00:52",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "3415844b3a2127b2230006c15b36bb46491c7ff5640ef589fd044c2c4f9842f2"
+}

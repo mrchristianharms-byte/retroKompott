@@ -1,0 +1,19 @@
+{
+  "id": "92a0da4dba90e14defd51c7a71abe17d0a453095e9306e582ac6edaa7b4b5d97",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-04-13_retrokompott_stammtisch_016_12042019.mp3",
+  "slug": "retrokompott-stammtisch-016-12-04-2019-92a0da4dba",
+  "title": "RETROKOMPOTT STAMMTISCH - 016 - 12.04.2019",
+  "summary": "Retrokompott-Stammtisch 016",
+  "published_at": "2019-04-12T23:31:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-04-13_retrokompott_stammtisch_016_12042019.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2019-04-13_retrokompott_stammtisch_016_12042019.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 131386752,
+  "duration": "2:16:52",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "11c3f59faa8f749aba52b593b096ec8e8e600aff47cc7170afa1705110258b7d"
+}

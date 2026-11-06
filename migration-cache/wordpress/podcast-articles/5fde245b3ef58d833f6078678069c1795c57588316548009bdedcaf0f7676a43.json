@@ -1,0 +1,19 @@
+{
+  "id": "5fde245b3ef58d833f6078678069c1795c57588316548009bdedcaf0f7676a43",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-06-19_retrokompott_stammtisch_125_18062021_preview.mp3",
+  "slug": "retrokompott-stammtisch-125-18-06-2021-preview-5fde245b3e",
+  "title": "Retrokompott Stammtisch 125 - 18.06.2021 (Preview)",
+  "summary": "Themen: - höhenverstellbarer Tisch - DHL - Monitore - Verordnung von Prostituierten in Hamburg - Trash Spiele - Amiga OS 3.2 - Adventures - Rollenspiele - Scheiben und Handwerker - Lach- und Kackgeschichten - Mein erstes Mal - Kotzen u.a.",
+  "published_at": "2021-06-19T17:38:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-06-19_retrokompott_stammtisch_125_18062021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-06-19_retrokompott_stammtisch_125_18062021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58473984,
+  "duration": "1:00:55",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "5b99d5489214bf575526ac74c8f491bef4f0ff5974e3b79220f0bb3bdb205238"
+}

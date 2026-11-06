@@ -1,0 +1,19 @@
+{
+  "id": "46da298dd4f920ca7a3ce14a531a7a554deede9be317d2a0859fd8a6cd0c0406",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-11-07_retrokompott_stammtisch_093_06112020_1h.mp3",
+  "slug": "retrokompott-stammtisch-93-06-11-2020-preview-erste-stunde-46da298dd4",
+  "title": "Retrokompott Stammtisch 93 - 06.11.2020 (Preview erste Stunde)",
+  "summary": "Themen:  - Videostammtisch - Switch Reparatur - Civilization - Crazy Taxi - Weltraumspiele - Wer hat was gespielt - \"Freunde\" - Stromausfall - Rasenmäher - Staubsauger - Lustige Spiele - Datenschutz - Browser - Wer hat was gespielt - Worms - u.v.a.",
+  "published_at": "2020-11-07T12:47:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-11-07_retrokompott_stammtisch_093_06112020_1h.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-11-07_retrokompott_stammtisch_093_06112020_1h.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58040064,
+  "duration": "1:00:27",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "70ec00adb022d2775a012adebed7eb33ff7b388739380d8de8b1ba7598b3925c"
+}

@@ -4,15 +4,23 @@ Stand: 2026-11-06
 
 ## Aktuelle Phase
 
-**Phase 1 – WordPress-Export und lokaler Cache: Offen.**
+**Phase 2 – Website aus lokalem Cache erstellen und testen: Offen.**
 
 Die Reihenfolge ist bewusst: erst WordPress-Daten lokal sichern, dann die Website ausschließlich mit diesem Cache lokal testen, erst danach Storyblok als Content-Quelle und Migrationsziel einschalten. Die vorhandenen ADRs und das Storyblok-Schema-Deploy-Skript sind Planungs-/Grundlagenarbeit; sie bedeuten nicht, dass die Content-Migration bereits läuft.
 
+## Abgeschlossene Phase 1 – WordPress-Export und lokaler Cache
+
+**Vollständig für den öffentlichen, veröffentlichten Bestand am 2026-11-06.** Der vollständige Export paginierte alle 293 veröffentlichten Posts und 38 veröffentlichten Pages, las alle 716 Podcast-RSS-Einträge ein und inventarisierte referenzierte Assets als Metadaten (949 Einträge, keine Binärdateien). Die Cache-Zählungen und RSS-Klassifikation sind im Manifest und Snapshot festgehalten. Nicht öffentliche Entwürfe/Seiten sind nicht Teil dieses öffentlichen Exports.
+
+Die Feed-Einträge sind vollständig klassifiziert: 269 Zuordnungen zu WordPress-Posts, 403 RSS-only Stammtisch-Artikel (`podcast=true`, `homepage=false`, `stammtisch=false`), 18 Cachekompott-Ausschlüsse, 18 explizit ausgeschlossene älteste RSS-Einträge und 8 weitere explizite Ausschlüsse. Die Roh-Metadaten aller 716 Einträge bleiben in `podcast-feed.json`; die insgesamt 44 ausgeschlossenen Einträge werden nicht als Podcast-Artikel importiert. Die Kategorien ergeben zusammen alle 716 Feed-Einträge.
+
+Der Export-/Delta-Prozess, die Checkpoints und die vollständige Cache-Abnahme für Schritt 1 sind abgeschlossen. Nicht öffentliche Entwürfe/Seiten sind nicht Teil dieses öffentlichen Exports.
+
 ## Aktueller Stand der lokalen Website
 
-Der technische Check und Build laufen erfolgreich (`pnpm check`, `pnpm build`), aber der Build erzeugt derzeit nur `/index.html` aus der Platzhalter-Startseite. Das ist kein Nachweis für eine vollständige lokale Website. Es gibt noch keinen WordPress-Cache (`migration-cache/wordpress/`), keinen Cache-only Content-Loader und keine dynamischen Artikel-/Seitenrouten.
+Der technische Check und Build laufen erfolgreich (`pnpm check`, `pnpm build`), aber der Build erzeugt derzeit nur `/index.html` aus der Platzhalter-Startseite. Das ist kein Nachweis für eine vollständige lokale Website. Der WordPress-Cache ist jetzt vorhanden; Cache-only Content-Loader und dynamische Artikel-/Seitenrouten fehlen weiterhin.
 
-Die in ADR-0002 genannten Mengen (ca. 293 Posts, 38 Pages und 141 Media, Stand 2026-11-05) sind eine bisherige Bestandsaufnahme, kein verifiziertes vollständiges Exportinventar. Vor der Abnahme sind tatsächliche Exportzahlen und Ausnahmen zu erfassen.
+Die bisherige Bestandsaufnahme von ca. 293 Posts und 38 Pages wurde beim öffentlichen Export bestätigt. Der Export erfasst veröffentlichte Inhalte; nicht öffentliche Entwürfe/Seiten sind nicht Teil dieses Website-Caches. Das Asset-Inventar enthält 949 eindeutige Metadateneinträge, darunter 40 erfolgreich aufgelöste WordPress-Attachments. Es wurden keine Medien-Binärdateien heruntergeladen.
 
 ## Plan bis zur Cache-only Website-Abnahme
 
@@ -29,8 +37,8 @@ Storyblok-Integration, Storyblok-Import und R2-Transfer bleiben bis nach dieser 
 
 | # | Phase | Status | Abnahmekriterium / nächster Schritt |
 |---|---|---|---|
-| 1 | WordPress-Posts/Pages exportieren; Podcast-RSS zuordnen; Asset-Metadaten inventarisieren | **Offen** | Wiederholbarer Export mit Checkpoints und `migration-cache/wordpress/`-Inhalt inklusive `assets/manifest.json`; keine Medien-Binärdateien im Cache. |
-| 2 | Website aus lokalem Cache erstellen und testen | **Blockiert durch 1** | Vorhandener Build baut nur `/index.html` (Platzhalter), daher noch keine Cache-Website-Abnahme. Nach Phase 1: Loader, Artikel-/Seitenrouten, Renderer, Übersichten und RSS im `cache_only`-Modus ohne Storyblok-Zugriff prüfen; Routenbestand, Links und Seitentypen abnehmen. |
+| 1 | WordPress-Posts/Pages exportieren; Podcast-RSS zuordnen; Asset-Metadaten inventarisieren | **Abgeschlossen** | Öffentliche Posts/Pages, Podcast-RSS und referenzierte Asset-Metadaten sind vollständig gecacht; alle 716 RSS-Einträge sind zugeordnet, als RSS-only Artikel geführt oder mit einer expliziten Ausschlussregel versehen. |
+| 2 | Website aus lokalem Cache erstellen und testen | **Offen** | Vorhandener Build baut nur `/index.html` (Platzhalter). Cache-only Loader, Artikel-/Seitenrouten, Renderer, Übersichten und RSS fehlen; danach Routenbestand, Links und Seitentypen ohne Storyblok-Zugriff abnehmen. |
 | 3 | Storyblok-Schemas vorbereiten und Test-Space deployen | **Gesperrt bis Abnahme von 2** | Lokalen Cache-Website-Stand freigeben, danach Schemas validieren und Test-Space-Dry-Run/Pilot abnehmen. Das vorhandene Schema-Deploy-Skript ist nur Grundlage. |
 | 4 | WordPress-Inhalte inkrementell nach Storyblok migrieren | **Gesperrt bis 3** | Wiederholbare Deltas, Hashes/Checkpoints, Mapping, Slug-Konflikte und WP-Ownership geprüft. |
 | 5 | Mischbetrieb und laufende lokale/öffentliche Builds | **Gesperrt bis 4** | `CONTENT_MIGRATION_STATUS=in_progress`: Cache für WP-Inhalte, Storyblok für native Inhalte; beide Publish-Pfade getestet. |
@@ -41,12 +49,13 @@ Storyblok-Integration, Storyblok-Import und R2-Transfer bleiben bis nach dieser 
 ## Bereits vorhanden
 
 - ADRs 0001–0007 beschreiben Build, Migration, Storyblok-Schemas, Audio-/RSS-Ausgaben und R2-Transfer.
+- `pnpm wordpress:export` erstellt und aktualisiert den lokalen Cache inkl. Checkpoints, RSS-Snapshot und Asset-Inventar; `--full` führt eine vollständige Reconciliation aus.
+- Vollständiger öffentlicher Export: 293 Posts, 38 Pages, 716 RSS-Einträge (269 zugeordnet, 403 RSS-only Stammtisch-Artikel, 44 explizite Ausschlüsse: 18 Cachekompott, 18 älteste Feed-Einträge, 8 weitere vom Nutzer festgelegt), 949 Asset-Metadateneinträge; keine Medien-Binärdateien.
 - `pnpm storyblok:check` und ein inkrementelles Storyblok-Struktur-Deploy-Skript sind angelegt.
 - `.env` ist in `.gitignore` ausgeschlossen. Sie ist lokal mit den Zugangsdaten zu befüllen, wenn ein entsprechender Import-/Deploy-/Transfer-Prozess umgesetzt und benötigt wird.
 
 ## Noch nicht implementiert
 
-- WordPress-Export/Delta-Importer und lokaler Migrationscache samt Asset-Inventar.
 - Cache-only Content-Loader, Permalink-Mapping, dynamische Astro-Routen und Renderer für migrierte Artikel/Seiten.
 - Klassifikation und Abnahme der WordPress-Seitentypen, einschließlich Shortcodes und plugin-/extern-abhängiger Funktionen.
 - Generierte Startseite/Übersichten und Podcast-RSS samt Routen-, Link- und Inhaltsabnahme.

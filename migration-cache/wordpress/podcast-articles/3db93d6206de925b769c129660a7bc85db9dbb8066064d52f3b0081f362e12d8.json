@@ -1,0 +1,19 @@
+{
+  "id": "3db93d6206de925b769c129660a7bc85db9dbb8066064d52f3b0081f362e12d8",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-08-24_retrokompott_stammtisch_030_23082019_1h.mp3",
+  "slug": "retrokompott-stammtisch-030-23-08-2019-preview-3db93d6206",
+  "title": "RETROKOMPOTT STAMMTISCH - 030 - 23.08.2019 PREVIEW",
+  "summary": "Hier die aktuellste Stammtisch Folge, mit neuen Gästen, alten Bekannten und vielen Themen. Hier die 1h Preview. Für unsere Unterstützer gibt es natürlich die komplette \"Vollversion\"",
+  "published_at": "2019-08-24T06:05:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-08-24_retrokompott_stammtisch_030_23082019_1h.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2019-08-24_retrokompott_stammtisch_030_23082019_1h.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 59135616,
+  "duration": "1:01:36",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "7f3be86406682dbabdf403ada03281b07868c222895e2820a8d3dbd1258726fc"
+}

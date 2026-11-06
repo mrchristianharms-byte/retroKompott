@@ -1,0 +1,19 @@
+{
+  "id": "303b8a7c1782502fdb2d96873fbc40a06ece94d12f8d3d3264cbe062689c8267",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-07-04_retrokompott_stammtisch_074_03072020_preview.mp3",
+  "slug": "retrokompott-stammtisch-74-03-07-2020-preview-erste-stunde-303b8a7c17",
+  "title": "Retrokompott Stammtisch 74 - 03.07.2020 (Preview erste Stunde)",
+  "summary": "Themen: Videostammtisch, Audio bei Teamspeak, Kopfhörer, Audio Mastering, Schallplatten, Evercade, SNES Soundchip, Wer hat was gespielt?, Computer Bild Spiele, Mister, Olivers Grafik-Archiv, Amiga Hardware und Raytracing Programme, Linux und Derivate ",
+  "published_at": "2020-07-04T09:30:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-07-04_retrokompott_stammtisch_074_03072020_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-07-04_retrokompott_stammtisch_074_03072020_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57700992,
+  "duration": "1:00:06",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "d34c4cbea71f32b594c4a35ed794bdb2765864e3be4dd367fb0e5f635844a0df"
+}

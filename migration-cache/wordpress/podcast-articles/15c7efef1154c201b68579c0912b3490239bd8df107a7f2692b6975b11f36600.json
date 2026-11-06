@@ -1,0 +1,19 @@
+{
+  "id": "15c7efef1154c201b68579c0912b3490239bd8df107a7f2692b6975b11f36600",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-05-22_retrokompott_stammtisch_121_21052021_preview.mp3",
+  "slug": "retrokompott-stammtisch-121-21-05-2021-preview-15c7efef11",
+  "title": "Retrokompott Stammtisch 121 - 21.05.2021 (Preview)",
+  "summary": "Themen u.a. : - Nüsse & Bälle - Chipkrise - Wer hat was gespielt - Fußpedale - Technische Affinität in der Famlie - Disc Jockey - Ruhestörung - Dannys Tourgeschichte - Pinball - Metahuman - Biologie",
+  "published_at": "2021-05-22T12:58:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-05-22_retrokompott_stammtisch_121_21052021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-05-22_retrokompott_stammtisch_121_21052021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58776576,
+  "duration": "1:01:14",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "4e6ab29acdd0277a1ac32385b51e34198700720e7fe64db214b444cb7257df5c"
+}

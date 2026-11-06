@@ -1,0 +1,32 @@
+{
+  "id": 1336,
+  "resource_type": "page",
+  "slug": "unsere-projekte",
+  "status": "publish",
+  "link": "https://blog.retrokompott.de/unsere-projekte/",
+  "date": "2017-07-28T14:13:52",
+  "date_gmt": "2017-07-28T14:13:52",
+  "modified": "2019-09-17T13:24:06",
+  "modified_gmt": "2019-09-17T13:24:06",
+  "title": {
+    "rendered": "18 &#8211; RSS FEED"
+  },
+  "content": {
+    "rendered": "<hr />\n<h3 id=\"unser--rss--feed\" style=\"text-align: center;\"><strong>Unser<br />\nRSS<br />\nFeed</strong></h3>\n<hr />\n<pre style=\"text-align: left; padding-left: 40px;\">RETROKOMPOTT  <a href=\"http://www.retrokompott.de\">Homepage</a> / <a href=\"http://www.medienpublikation.de/retrocompod/podcastgen/feed.xml\">RSS - FEED</a> (beinhaltet auch alle alten OFF TOPIC &amp; CLASSIC Folgen)\r\n\r\nalte Podcache Folgen: <a href=\"http://medienpublikation.de/podcastgen/feed.xml\">RSS - FEED</a>\r\n(aktuelle Folgen laufen als CACHEKOMPOTT im Hauptfeed)</pre>\n<hr />\n<pre style=\"padding-left: 40px;\"><strong>Wenn Euch das Projekt gefaellt unterstuetzt uns bitte <a href=\"https://blog.retrokompott.de/helft-uns/\">hier</a>, </strong>\r\n<strong>denn nur so koennen wir viele der neuen Ideen verwirklichen!</strong></pre>\n<hr />\n<p>&nbsp;</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Unser RSS Feed RETROKOMPOTT  Homepage / RSS &#8211; FEED (beinhaltet auch alle alten OFF TOPIC &amp; CLASSIC Folgen) alte Podcache Folgen: RSS &#8211; FEED (aktuelle Folgen laufen als CACHEKOMPOTT im Hauptfeed) Wenn Euch das Projekt gefaellt unterstuetzt uns bitte hier, denn nur so koennen wir viele der neuen Ideen verwirklichen! &nbsp;</p>\n",
+    "protected": false
+  },
+  "categories": [],
+  "tags": [],
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "sticky": false,
+  "guid": {
+    "rendered": "http://blog.retrokompott.de/?page_id=1336"
+  },
+  "source_hash": "cd17850ada43596e433b65e4fdf35add29b5d57d665d6358f842c150d6ec0396"
+}

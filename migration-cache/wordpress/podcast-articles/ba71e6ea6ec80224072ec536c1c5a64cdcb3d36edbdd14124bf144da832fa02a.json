@@ -1,0 +1,19 @@
+{
+  "id": "ba71e6ea6ec80224072ec536c1c5a64cdcb3d36edbdd14124bf144da832fa02a",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-12-24_retrokompott_stammtisch_100_25122020.mp3",
+  "slug": "retrokompott-stammtisch-100-25-12-2020-komplette-folge-ba71e6ea6e",
+  "title": "Retrokompott Stammtisch 100 - 25.12.2020 (komplette Folge)",
+  "summary": "Michael (Maniac242), Marcel (AmigaMaster), Danny (SIDKidd), Manfred (mhb75), Ingo (Pagefault2000), Patrick (Retrokompott) & Robin (Retrokompott) noch einmal einen \"kleinen\" Rückblick auf 100 Folgen Stammtisch und das Retrokompott Jahr 2020.",
+  "published_at": "2020-12-24T22:00:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-12-24_retrokompott_stammtisch_100_25122020.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-12-24_retrokompott_stammtisch_100_25122020.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 395927300,
+  "duration": "6:52:25",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "4833a8f485a50201ec9c7b2194cb6210298d561e6699088e8fc411bfdfbc50d1"
+}

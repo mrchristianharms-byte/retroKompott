@@ -1,0 +1,19 @@
+{
+  "id": "cce8cd512f6b8bb1bd419a11d02d28cb871394362274ff90307a427335f15a93",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-11-28_retrokompott_stammtisch_096_27112020_preview.mp3",
+  "slug": "retrokompott-stammtisch-96-27-11-2020-preview-erste-stunde-cce8cd512f",
+  "title": "Retrokompott Stammtisch 96 - 27.11.2020 (Preview erste Stunde)",
+  "summary": "Themen:   - Videostammtisch - Mikrofone - \"Spendengala\" am 5.12. - Furzgeräusche auf dem SID - Playstation 5 - Black Friday - Küchenstudio - Mister - Wer hat was gespielt - Rollenspiele - Final Fantasy - Developer Mode bei der Xbox u.a.",
+  "published_at": "2020-11-28T13:55:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-11-28_retrokompott_stammtisch_096_27112020_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-11-28_retrokompott_stammtisch_096_27112020_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58021928,
+  "duration": "1:00:26",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "76e53508e051e47ec44952f28c9d8d67a2989797af30af67435929aa158268b0"
+}

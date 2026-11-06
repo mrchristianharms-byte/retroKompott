@@ -1,0 +1,19 @@
+{
+  "id": "a6d9ebc0deb2dde167ecdaced5bb28d6c75f60c866c72e42a20852ceb85cbd55",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2026-10-31_retrokompott_stammtisch_405_30102026_preview.mp3",
+  "slug": "retrokompott-stammtisch-405-vom-30-10-2026-a6d9ebc0de",
+  "title": "Retrokompott Stammtisch 405 vom 30.10.2026",
+  "summary": "Die erste Stunde unseres Stammtisches für alle Hörer! Die komplette Folge gibt es für Unterstützer ab 1 € im Monat bei Patreon oder Steady.",
+  "published_at": "2026-10-31T06:14:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2026-10-31_retrokompott_stammtisch_405_30102026_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2026-10-31_retrokompott_stammtisch_405_30102026_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 59511212,
+  "duration": "1:01:59",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "802f74cc38f41ceb699465faeaadf0c4c826408fd9394155f17eb1103902cefc"
+}

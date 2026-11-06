@@ -1,0 +1,19 @@
+{
+  "id": "ed268a3440793671b63ef54e70241491814837790af906875786c8ecb1a914ff",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-07-10_retrokompott_stammtisch_128_09072021_preview.mp3",
+  "slug": "retrokompott-stammtisch-128-09-07-2021-preview-ed268a3440",
+  "title": "Retrokompott Stammtisch 128 - 09.07.2021 (Preview)",
+  "summary": "Themen:  - OLED - TVs - Rauchen - Videostammtisch - Alte Ipads - Ipod - Elektronikhändler - Wer hat was gespielt. - XBox - Dumme Leute bei Facebook - Flugsimulator 2020 - Und wieder XBox - Controller",
+  "published_at": "2021-07-10T10:01:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-07-10_retrokompott_stammtisch_128_09072021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-07-10_retrokompott_stammtisch_128_09072021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58869888,
+  "duration": "1:01:19",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "088bce7b02de095eda4f43a9e35ec50cdf1f7ddc57eccd6031df0a237c4cab45"
+}

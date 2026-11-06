@@ -1,0 +1,19 @@
+{
+  "id": "9e2dbe02dd03e8a3e61850375565b3d16bd5e28225ffb7e37d95ac9f68ffe033",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-03-05_retrokompott_stammtisch_162_04032022_preview.mp3",
+  "slug": "retrokompott-stammtisch-162-preview-vom-04-03-2022-9e2dbe02dd",
+  "title": "Retrokompott Stammtisch 162 (Preview) vom 04.03.2022",
+  "summary": "Themen u.a.:  Horizon: Forbidden West\" - Elden Ring und Dark Souls - Ökologisch verschickt - Tolle Patreon-Überraschungen - Evolution der Videomatsche - Röhre vs. Shader - YouTube-Download - Die ersten eigenen digitalen Fotos ",
+  "published_at": "2022-03-05T11:36:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-03-05_retrokompott_stammtisch_162_04032022_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2022-03-05_retrokompott_stammtisch_162_04032022_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58351104,
+  "duration": "1:00:47",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "4fe6dd4ea4182c178b6e60911506e11df7efc263db9bdb666eb2f88074f2d422"
+}

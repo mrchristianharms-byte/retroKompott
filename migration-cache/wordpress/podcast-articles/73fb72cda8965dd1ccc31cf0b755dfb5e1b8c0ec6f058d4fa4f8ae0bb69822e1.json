@@ -1,0 +1,19 @@
+{
+  "id": "73fb72cda8965dd1ccc31cf0b755dfb5e1b8c0ec6f058d4fa4f8ae0bb69822e1",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-05-29_retrokompott_stammtisch_122_28052021.mp3",
+  "slug": "retrokompott-stammtisch-122-28-05-2021-gala-special-73fb72cda8",
+  "title": "Retrokompott Stammtisch 122 - 28.05.2021 (Gala Special)",
+  "summary": "Gala Speical",
+  "published_at": "2021-05-29T10:09:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-05-29_retrokompott_stammtisch_122_28052021.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-05-29_retrokompott_stammtisch_122_28052021.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 287755701,
+  "duration": "4:59:45",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "4d21fa03e03eb72f4c2b5bef97d9bfeaa351aebd32f73e299742d804dcf50bb4"
+}

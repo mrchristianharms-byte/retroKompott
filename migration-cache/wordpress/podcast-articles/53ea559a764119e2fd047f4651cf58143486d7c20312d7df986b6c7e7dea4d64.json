@@ -1,0 +1,19 @@
+{
+  "id": "53ea559a764119e2fd047f4651cf58143486d7c20312d7df986b6c7e7dea4d64",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-10-12_retrokompott_stammtisch_036_11102019_1h.mp3",
+  "slug": "retrokompott-stammtisch-036-11-10-2019-preview-53ea559a76",
+  "title": "RETROKOMPOTT STAMMTISCH - 036 - 11.10.2019 PREVIEW",
+  "summary": "Hier die aktuellste Version des Stammtisches. Die Aufzeichnung vom 11.10.2019. Robin, Patrick und Andreas sind in Neuss und sammeln für den nächsten Retrokompott auf der Amiga 34 neuen Input, der Stammtisch war aber trotzdem gut besetzt. ",
+  "published_at": "2019-10-12T17:04:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-10-12_retrokompott_stammtisch_036_11102019_1h.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2019-10-12_retrokompott_stammtisch_036_11102019_1h.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 56256768,
+  "duration": "58:36",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "26b98efb4e96593342a5931c9f6f3a867261530e7e70744cc507a4aa2f335e1e"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ac3fff96772af81ed76d6cf996e3cc9d2c60addae5f5213eb4761fac36caf9e2",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-06-18_retrokompott_stammtisch_177_18062022_preview.mp3",
+  "slug": "retrokompott-stammtisch-177-vom-17-06-2022-ac3fff9677",
+  "title": "Retrokompott Stammtisch 177 vom 17.06.2022",
+  "summary": " Themen u.a.:  Steamdeck Wer hat gespielt? Open World Spiele Mac und die 3. Maustaste Automarkt 9 Euro Ticket Solaranlage Linux",
+  "published_at": "2022-06-18T07:48:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-06-18_retrokompott_stammtisch_177_18062022_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2022-06-18_retrokompott_stammtisch_177_18062022_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58252800,
+  "duration": "1:00:41",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "604c96e731cf9511186d236fe4671a7a67051bb080068c5ef2508521915da928"
+}

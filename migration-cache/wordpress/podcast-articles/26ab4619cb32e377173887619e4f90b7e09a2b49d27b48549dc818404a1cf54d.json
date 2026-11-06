@@ -1,0 +1,19 @@
+{
+  "id": "26ab4619cb32e377173887619e4f90b7e09a2b49d27b48549dc818404a1cf54d",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-05-08_retrokompott_stammtisch_119_07052021_preview.mp3",
+  "slug": "retrokompott-stammtisch-119-07-05-2021-preview-26ab4619cb",
+  "title": "Retrokompott Stammtisch 119 - 07.05.2021 (Preview)",
+  "summary": "Themen u.a.: - Wer hat was gespielt? - Kickstarter - Marvel und DC - Final Cartridge und Spiele cracken - Micro Kernel - Windows - LaTeX - Diplomarbeiten - Buzzwords in Papers - Versicherung - Doppeldeutige Darstellung in Spielen - Ekelhafteste Szenen",
+  "published_at": "2021-05-08T12:04:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-05-08_retrokompott_stammtisch_119_07052021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-05-08_retrokompott_stammtisch_119_07052021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58031232,
+  "duration": "1:00:27",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "ba8516a73bc5dcd27526030347e85e9c5411ead3b61b3242fd69d4e924a014cb"
+}

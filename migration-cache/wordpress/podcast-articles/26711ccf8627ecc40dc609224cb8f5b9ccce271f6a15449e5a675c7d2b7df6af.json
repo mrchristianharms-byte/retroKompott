@@ -1,0 +1,19 @@
+{
+  "id": "26711ccf8627ecc40dc609224cb8f5b9ccce271f6a15449e5a675c7d2b7df6af",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-03-27_retrokompott_stammtisch_113_26032021_preview.mp3",
+  "slug": "retrokompott-stammtisch-113-26-03-2021-preview-26711ccf86",
+  "title": "Retrokompott Stammtisch 113 - 26.03.2021 (Preview)",
+  "summary": "Themen u.a.:   - Gala - Midi - USB-Hubs - Joystick - Stecker - Iphone Akku Tausch - GOG - Monitore - Grading",
+  "published_at": "2021-03-27T10:41:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-03-27_retrokompott_stammtisch_113_26032021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-03-27_retrokompott_stammtisch_113_26032021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58515456,
+  "duration": "1:00:57",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "0fe446738e33cd8c479c3cdd5c8aea1964806f68ac67d9dba725a50037f887b9"
+}

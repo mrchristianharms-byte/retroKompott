@@ -1,0 +1,19 @@
+{
+  "id": "4938ed0101cf1f88c6520c3ab078831e79a0ee59e6dadcec5413d6d35753dd80",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2024-09-21_retrokompott_stammtisch_295_20092024_preview.mp3",
+  "slug": "retrokompott-stammtisch-295-vom-20-09-2024-preview-4938ed0101",
+  "title": "Retrokompott Stammtisch 295 vom 20.09.2024 (Preview)",
+  "summary": "Retrokompott Stammtisch 295 vom 20.09.2024 (Preview)",
+  "published_at": "2024-09-21T08:01:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2024-09-21_retrokompott_stammtisch_295_20092024_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2024-09-21_retrokompott_stammtisch_295_20092024_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58095360,
+  "duration": "1:00:31",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "682b556e44c1f721c88778e2f597b634f025c5fd4896a689ccd4d0b421b0c5d6"
+}

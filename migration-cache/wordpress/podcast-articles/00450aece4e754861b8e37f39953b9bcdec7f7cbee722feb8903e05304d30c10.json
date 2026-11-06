@@ -1,0 +1,19 @@
+{
+  "id": "00450aece4e754861b8e37f39953b9bcdec7f7cbee722feb8903e05304d30c10",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-05-01_retrokompott_stammtisch_118_30042021_preview.mp3",
+  "slug": "retrokompott-stammtisch-118-30-04-2021-preview-00450aece4",
+  "title": "Retrokompott Stammtisch 118 - 30.04.2021 (Preview)",
+  "summary": "Themen u.a.:  - Wer hat was gespielt? - Furzen und Rülpsen bei Tieren - Arcade Tankstick - Mister - Stammtisch ist teuer - Gamepads - Augenkompott - Saufkompott - Moviekompott - Stadtplanung - Putzkompott",
+  "published_at": "2021-05-01T10:38:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-05-01_retrokompott_stammtisch_118_30042021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-05-01_retrokompott_stammtisch_118_30042021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58093440,
+  "duration": "1:00:31",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "a62fe2289ccf99af56713a88cbaa8813a36862102fd4d453b4105b25ef23a61c"
+}

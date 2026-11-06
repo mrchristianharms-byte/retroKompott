@@ -1,0 +1,32 @@
+{
+  "id": 4554,
+  "resource_type": "page",
+  "slug": "twitter",
+  "status": "publish",
+  "link": "https://blog.retrokompott.de/twitter/",
+  "date": "2020-06-20T16:54:23",
+  "date_gmt": "2020-06-20T16:54:23",
+  "modified": "2020-06-20T16:54:23",
+  "modified_gmt": "2020-06-20T16:54:23",
+  "title": {
+    "rendered": "Twitter"
+  },
+  "content": {
+    "rendered": "[fts_twitter twitter_name=retrokompott tweets_count=6 cover_photo=no stats_bar=no show_retweets=no show_replies=no]\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>[fts_twitter twitter_name=retrokompott tweets_count=6 cover_photo=no stats_bar=no show_retweets=no show_replies=no]</p>\n",
+    "protected": false
+  },
+  "categories": [],
+  "tags": [],
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "sticky": false,
+  "guid": {
+    "rendered": "http://blog.retrokompott.de/?page_id=4554"
+  },
+  "source_hash": "e231a42f4e5b1ea2b2cc6c3e9c2ef60fc833e4188a090faea70bb4031a167594"
+}

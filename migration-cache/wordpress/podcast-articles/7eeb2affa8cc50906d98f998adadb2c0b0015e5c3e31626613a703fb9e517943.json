@@ -1,0 +1,19 @@
+{
+  "id": "7eeb2affa8cc50906d98f998adadb2c0b0015e5c3e31626613a703fb9e517943",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-02-13_retrokompott_stammtisch_107_12022021_preview.mp3",
+  "slug": "retrokompott-stammtisch-107-12-02-2021-preview-7eeb2affa8",
+  "title": "Retrokompott Stammtisch 107 - 12.02.2021 (Preview)",
+  "summary": "Themen: - Trolle  - Wer hat was gespielt?  - Amgia vs. C64  - Soundchips  - Spielerechner  - Mäuse  - Mauspad  - Logitech T-BB13 (Trackman Marble Wheel)  - Neuvorstellung \"Wingi\"  - Veröffentlichte Spiele  - Lenkräder vs. Stuerhorn  u.a.",
+  "published_at": "2021-02-13T11:26:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-02-13_retrokompott_stammtisch_107_12022021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-02-13_retrokompott_stammtisch_107_12022021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58214784,
+  "duration": "1:00:38",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "025defa58c960e44b79b0fedb85401b5a9faafe025829e84971d98b3d237b035"
+}

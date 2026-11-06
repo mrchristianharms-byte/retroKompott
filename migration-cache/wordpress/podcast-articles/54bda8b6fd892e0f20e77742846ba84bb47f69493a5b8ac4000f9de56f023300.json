@@ -1,0 +1,19 @@
+{
+  "id": "54bda8b6fd892e0f20e77742846ba84bb47f69493a5b8ac4000f9de56f023300",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-11-09_retrokompott_stammtisch_040_09112019_1h.mp3",
+  "slug": "retrokompott-stammtisch-040-08-11-2019-preview-54bda8b6fd",
+  "title": "RETROKOMPOTT STAMMTISCH - 040 - 08.11.2019 PREVIEW",
+  "summary": "Retrokompott Stammtisch 40",
+  "published_at": "2019-11-09T07:28:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-11-09_retrokompott_stammtisch_040_09112019_1h.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2019-11-09_retrokompott_stammtisch_040_09112019_1h.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57691392,
+  "duration": "1:00:06",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "09c3c54e088c54ed0c507a85ba98bef643423ad47c54bdee2413f11860c20e78"
+}

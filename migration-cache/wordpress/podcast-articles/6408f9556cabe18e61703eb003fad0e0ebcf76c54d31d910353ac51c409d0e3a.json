@@ -1,0 +1,19 @@
+{
+  "id": "6408f9556cabe18e61703eb003fad0e0ebcf76c54d31d910353ac51c409d0e3a",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-08-15_retrokompott_stammtisch_080_140820201h.mp3",
+  "slug": "retrokompott-stammtisch-80-14-08-2020-preview-erste-stunde-6408f9556c",
+  "title": "Retrokompott Stammtisch 80 - 14.08.2020 (Preview erste Stunde)",
+  "summary": "Themen:  - Videostammtisch - Spiele - Sommer Event - MISTer Probleme - Soundkarten - Shadow PC - \"geil\" - Controller - Egoshooter - Atom - Wer hat was gespielt? - VR - Motion Sickness",
+  "published_at": "2020-08-15T10:04:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-08-15_retrokompott_stammtisch_080_140820201h.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-08-15_retrokompott_stammtisch_080_140820201h.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57763584,
+  "duration": "1:00:10",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "00224b73187eb2a68908a5c5a3618a2c8a6260b4e45ddee76bcc06b97729367d"
+}

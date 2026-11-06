@@ -1,0 +1,19 @@
+{
+  "id": "be0545f8d7dd61989238f071529cd6434c8bde2288934afde6fc53522bed02b2",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-03-20_retrokompott_stammtisch_112_19032021_preview.mp3",
+  "slug": "retrokompott-stammtisch-112-19-03-2021-preview-be0545f8d7",
+  "title": "Retrokompott Stammtisch 112 - 19.03.2021 (Preview)",
+  "summary": "Themen: u.a. - Retro Card - Wer hat was gespielt - Mister - Bildwiederholfrequenzen - Screen Tearing - Handhelds - Tastaturen - Bluetooth - Mäuse - Lieferdienste - C64 Mini vs. The C64 - Codes bei Reshoot-R und Caren - C64 Mäuse und Mausadapter ",
+  "published_at": "2021-03-20T12:47:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-03-20_retrokompott_stammtisch_112_19032021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-03-20_retrokompott_stammtisch_112_19032021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58225920,
+  "duration": "1:00:39",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "ab8f9cfde5941c3c9c867878f97e93d7f9fb50fff8d6c6e0d004d471f9b76253"
+}

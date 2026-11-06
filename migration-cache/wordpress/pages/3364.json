@@ -1,0 +1,32 @@
+{
+  "id": 3364,
+  "resource_type": "page",
+  "slug": "meine-buchungen",
+  "status": "publish",
+  "link": "https://blog.retrokompott.de/meine-buchungen/",
+  "date": "2019-05-09T22:09:08",
+  "date_gmt": "2019-05-09T22:09:08",
+  "modified": "2019-05-09T22:09:08",
+  "modified_gmt": "2019-05-09T22:09:08",
+  "title": {
+    "rendered": "Meine Buchungen"
+  },
+  "content": {
+    "rendered": "<p>CONTENTS</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>CONTENTS</p>\n",
+    "protected": false
+  },
+  "categories": [],
+  "tags": [],
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "sticky": false,
+  "guid": {
+    "rendered": "http://blog.retrokompott.de/veranstaltungen/meine-buchungen/"
+  },
+  "source_hash": "66206c0dda2d9126a04f4a161c9b5720bb38ecb314a7abe22ec760e15bfb7ff9"
+}

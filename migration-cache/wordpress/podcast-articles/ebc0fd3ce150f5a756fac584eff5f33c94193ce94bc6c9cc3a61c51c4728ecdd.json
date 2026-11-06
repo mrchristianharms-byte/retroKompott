@@ -1,0 +1,19 @@
+{
+  "id": "ebc0fd3ce150f5a756fac584eff5f33c94193ce94bc6c9cc3a61c51c4728ecdd",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-09-04_retrokompott_stammtisch_136_03092021_preview.mp3",
+  "slug": "retrokompott-stammtisch-136-03-09-2021-preview-ebc0fd3ce1",
+  "title": "Retrokompott Stammtisch 136 - 03.09.2021 (Preview)",
+  "summary": "Themen u.a.: Thema:  - Uservorstellung Sierra76  - Amiga Preise  - Amiga Hardware  - Podcasten und Zoom  - Monitore  - Schwarz  - OLED  - Holzdecken lackieren  - Rauchen  - MT32  - Midi  - Orgel  - Musikproduzenten  - Rapper  - Gamescom  - Burger  ",
+  "published_at": "2021-09-04T08:30:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-09-04_retrokompott_stammtisch_136_03092021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-09-04_retrokompott_stammtisch_136_03092021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58387584,
+  "duration": "1:00:49",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "234eb67702f3a7e1fc5f047b96df559d3820cbede56c7e5eca49b504a1292923"
+}

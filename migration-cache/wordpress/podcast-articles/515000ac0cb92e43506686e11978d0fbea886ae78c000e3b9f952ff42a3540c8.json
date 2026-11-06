@@ -1,0 +1,19 @@
+{
+  "id": "515000ac0cb92e43506686e11978d0fbea886ae78c000e3b9f952ff42a3540c8",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-10-16_retrokompott_stammtisch_142_15102021_preview.mp3",
+  "slug": "retrokompott-stammtisch-142-preview-515000ac0c",
+  "title": "Retrokompott Stammtisch 142 (Preview)",
+  "summary": "Themen u.a.: - Raspi - Wildpinkler - USB / Joystick Adapter - Diktatoren Quartett - XBox 360 - Amico - Battlefield vs. Call of Duty - Bundeswehr - Koreanische Filme - Peinlicher Möbeltalk - Wer hat was gespielt?",
+  "published_at": "2021-10-16T11:27:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-10-16_retrokompott_stammtisch_142_15102021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-10-16_retrokompott_stammtisch_142_15102021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58034885,
+  "duration": "1:00:27",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "6dfacf3d3c22aa6c19d1423914dea7bfd4367c81111b83001384506b5e4de575"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "1216f9f4b2d28dacf58c138f08a4987ec184b35c946ffee45d5fe4fb6db76480",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-12-14_retrokompott_stammtisch_045_13122019_1h.mp3",
+  "slug": "retrokompott-stammtisch-045-13-12-2019-preview-1216f9f4b2",
+  "title": "RETROKOMPOTT STAMMTISCH - 045 - 13.12.2019 PREVIEW",
+  "summary": "1h Preivew des neusten Stammtisches. Die komplette Version (knapp 4 Stunden) gibt es für alle Unterstützer bei Patreon und Steady.",
+  "published_at": "2019-12-14T10:02:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-12-14_retrokompott_stammtisch_045_13122019_1h.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2019-12-14_retrokompott_stammtisch_045_13122019_1h.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57562368,
+  "duration": "59:58",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "c5e49eb0415b323f88ad126da8d97496fe5fb1c9b8b545ac482ead195aedbceb"
+}

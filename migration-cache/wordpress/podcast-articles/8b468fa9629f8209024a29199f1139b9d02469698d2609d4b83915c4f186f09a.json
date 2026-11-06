@@ -1,0 +1,19 @@
+{
+  "id": "8b468fa9629f8209024a29199f1139b9d02469698d2609d4b83915c4f186f09a",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-01-23_retrokompott_stammtisch_104_22012021_preview.mp3",
+  "slug": "retrokompott-stammtisch-104-22-01-2021-preview-8b468fa962",
+  "title": "Retrokompott Stammtisch 104 - 22.01.2021 (Preview)",
+  "summary": "Themen:  - Wer hat was gespielt?  - Indiana Jones  - Earth 2, Seaquest  - Star Trek, Star Wars  - Flash Gordon  - Filmfehler  - Sliders, Highlander & Evil Dead  - und viele weitere Serien",
+  "published_at": "2021-01-23T13:11:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-01-23_retrokompott_stammtisch_104_22012021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-01-23_retrokompott_stammtisch_104_22012021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58035303,
+  "duration": "1:00:27",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "31f1d1ed1600b8d04a211089c920e22074e55d81f260a957951c06c2c32756e8"
+}

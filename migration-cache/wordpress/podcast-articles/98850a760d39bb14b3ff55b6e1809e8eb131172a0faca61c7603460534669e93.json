@@ -1,0 +1,19 @@
+{
+  "id": "98850a760d39bb14b3ff55b6e1809e8eb131172a0faca61c7603460534669e93",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-08-03_retrokompott_stammtisch_027_02082019_1h.mp3",
+  "slug": "retrokompott-stammtisch-027-02-08-2019-preview-98850a760d",
+  "title": "RETROKOMPOTT STAMMTISCH - 027 - 02.08.2019 PREVIEW",
+  "summary": "Die neue Folge des Retrokompott Stammtisches, wieder wurde die 3 Stunden Brutto-Marke locker geknackt!",
+  "published_at": "2019-08-03T00:39:16.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-08-03_retrokompott_stammtisch_027_02082019_1h.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2019-08-03_retrokompott_stammtisch_027_02082019_1h.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58071552,
+  "duration": "1:00:29",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "d17a28158961b60f09f2190fb385fa3a2e2bb248295cf9ff578549e0c50cc714"
+}

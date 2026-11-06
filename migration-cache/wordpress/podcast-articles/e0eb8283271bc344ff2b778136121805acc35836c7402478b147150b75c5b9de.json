@@ -1,0 +1,19 @@
+{
+  "id": "e0eb8283271bc344ff2b778136121805acc35836c7402478b147150b75c5b9de",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-07-23_retrokompott_stammtisch_182_22072022_preview.mp3",
+  "slug": "retrokompott-stammtisch-182-vom-22-07-2022-e0eb828327",
+  "title": "Retrokompott Stammtisch 182 vom 22.07.2022",
+  "summary": "Themen:  Controller, Wer hat was gespielt? Atari Mega STE, Amiga, Reisen, TV, Handy-Sicherheit u.v.m.",
+  "published_at": "2022-07-23T11:12:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-07-23_retrokompott_stammtisch_182_22072022_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2022-07-23_retrokompott_stammtisch_182_22072022_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58159104,
+  "duration": "1:00:35",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "cec40f0d2553ef921b23a2cd0ff94c7a1f6b341e40ad5ff073761f5663ac18cb"
+}

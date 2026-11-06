@@ -1,0 +1,19 @@
+{
+  "id": "a33b33fea210e36c510f7e15a8bf1f769773a06e6cd12009d9e58396f6787f7e",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2018-12-01_retrokompott_stammtisch_007_30112018.mp3",
+  "slug": "retrokompott-stammtisch-007-30-11-2018-a33b33fea2",
+  "title": "RETROKOMPOTT STAMMTISCH - 007 - 30.11.2018",
+  "summary": "Retrokompott-Stammtisch 007",
+  "published_at": "2018-12-01T00:07:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2018-12-01_retrokompott_stammtisch_007_30112018.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2018-12-01_retrokompott_stammtisch_007_30112018.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 111804005,
+  "duration": "1:56:28",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "72e302f225f26f959a075038a905803b0240e40734897537c6f2dca1e06a687b"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cddaedf7caef91a896c7186ff94d82a091f01f2374d14bd765c3675cf06cb6ec",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2026-07-04_retrokompott_stammtisch_388_04072026_preview.mp3",
+  "slug": "retrokompott-stammtisch-388-vom-03-07-2026-preview-cddaedf7ca",
+  "title": "Retrokompott Stammtisch 388 vom 03.07.2026 (Preview)",
+  "summary": "Dies ist die erste Stunde des Stammtisches für alle Hörer unseres Kanals, die komplette Folge gibt es fuer alle Unterstuetzer bei Steady und Patreon ab 1 Euro / Monat.  https://www.patreon.com/retrokompott oder https://steadyhq.com/retrokompott",
+  "published_at": "2026-07-04T16:11:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2026-07-04_retrokompott_stammtisch_388_04072026_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2026-07-04_retrokompott_stammtisch_388_04072026_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58712832,
+  "duration": "1:01:10",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "8f76747eb34658b7ea9e796fd897bc17efee2f39236f77b6ab77b67e65b8b844"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "0eb1b9af49588a748dc68cad13e02c7c187d0a62cb9ef00c0ceee29e4c6b1afb",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-09-19_retrokompott_stammtisch_086_19092020_1hpreview_128kb.mp3",
+  "slug": "retrokompott-stammtisch-86-18-09-2020-preview-erste-stunde-0eb1b9af49",
+  "title": "Retrokompott Stammtisch 86 - 18.09.2020 (Preview erste Stunde)",
+  "summary": " Themen:  - Videostammtisch - PS5 Event - Vectrex - Portable Playstation Konsolen - Atari Jaguar - \"Gamecontroller\" - Spielautomaten / Arcade - ebay Auktionen - Preise Spiele - Ultima & Zelda ",
+  "published_at": "2020-09-19T11:25:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-09-19_retrokompott_stammtisch_086_19092020_1hpreview_128kb.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-09-19_retrokompott_stammtisch_086_19092020_1hpreview_128kb.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57634560,
+  "duration": "1:00:02",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "e82523f3dc78bfea96b92186e004704493fdd910864b355e308350b514131eaa"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "56670085bee80e1b4ee855f0a1870a3056e477e01405ec19713a56ffbf73a9b3",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-01-01_retrokompott_stammtisch_153_31122021.mp3",
+  "slug": "retrokompott-stammtisch-153-sylvester-spezial-31-12-2021-56670085be",
+  "title": "Retrokompott Stammtisch 153: Sylvester Spezial 31.12.2021",
+  "summary": "Themen u.a.:  Scramble (C64) Griechisch für Anfänger Gothic-Musik Körpergewicht Boulder Dash Spiele mit Chutulu VVVVVV Poom Sonic (C64) Skyrim REU am C128/C64 It Takes Two Happy New Year Retro-Automatenspiele Ingos neue Augen Ingos Gamingwoche",
+  "published_at": "2022-01-01T11:09:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-01-01_retrokompott_stammtisch_153_31122021.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2022-01-01_retrokompott_stammtisch_153_31122021.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 234362252,
+  "duration": "4:04:08",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "0d6fa9a4a6b3faeba89eefd42c4e11a8ecbb0e1ccf5e0aef9f6fb65f716346ca"
+}

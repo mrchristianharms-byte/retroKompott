@@ -1,0 +1,19 @@
+{
+  "id": "4b62343e54d43401e41cf57406e53ff98f98bd8b739412ba3973ef4c46cb8e10",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-02-12_retrokompott_stammtisch_159_11022022_preview.mp3",
+  "slug": "retrokompott-stammtisch-159-preview-vom-11-02-2022-4b62343e54",
+  "title": "Retrokompott Stammtisch 159 (Preview) vom 11.02.2022",
+  "summary": "Themen u.a.:   - Nicknames (und ihre Tücken) - Haariges - mit und ohne Snapchat - Abschied von Dörle - und eine neuen Fellnase: Joyce - Hunde in unserer Gesellschaft - Verrückte Hundegeschichten - Geheime Retro-Waffenlieferung - und eine Vectrex ",
+  "published_at": "2022-02-12T03:35:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-02-12_retrokompott_stammtisch_159_11022022_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2022-02-12_retrokompott_stammtisch_159_11022022_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58284288,
+  "duration": "1:00:43",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "63c13605831c00a5668153d03cb65ba710416c698653c37afd44d5ccf3c42cdc"
+}

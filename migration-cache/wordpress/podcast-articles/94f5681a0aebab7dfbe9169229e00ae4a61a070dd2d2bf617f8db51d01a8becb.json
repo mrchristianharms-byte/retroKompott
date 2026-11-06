@@ -1,0 +1,19 @@
+{
+  "id": "94f5681a0aebab7dfbe9169229e00ae4a61a070dd2d2bf617f8db51d01a8becb",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-08-22_retrokompott_stammtisch_081_21082020_preview_128kb.mp3",
+  "slug": "retrokompott-stammtisch-81-21-08-2020-preview-erste-stunde-94f5681a0a",
+  "title": "Retrokompott Stammtisch 81 - 21.08.2020 (Preview erste Stunde)",
+  "summary": "Themen: - Videostammtisch - Wer hat was gespielt - CRT Monitore - AirPods - Flight Simulator 2020 - Wer hat was gespielt - Abos - Beat'em'up vs. Brawler - Was ist Sport? - AOL und Internet - Musik auf YouTube",
+  "published_at": "2020-08-22T11:07:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-08-22_retrokompott_stammtisch_081_21082020_preview_128kb.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-08-22_retrokompott_stammtisch_081_21082020_preview_128kb.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58007808,
+  "duration": "1:00:25",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "f80545eed1ea1d9ba1b3cd83a27be30f96f4253e2f2d3bac447f6f55331b7b52"
+}

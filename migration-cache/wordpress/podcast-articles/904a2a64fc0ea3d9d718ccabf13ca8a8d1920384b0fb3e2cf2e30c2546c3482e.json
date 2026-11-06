@@ -1,0 +1,19 @@
+{
+  "id": "904a2a64fc0ea3d9d718ccabf13ca8a8d1920384b0fb3e2cf2e30c2546c3482e",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-01-22_retrokompott_stammtisch_156_21012022_preview.mp3",
+  "slug": "retrokompott-stammtisch-156-preview-vom-21-01-2022-904a2a64fc",
+  "title": "Retrokompott Stammtisch 156 (Preview) vom 21.01.2022",
+  "summary": "Themen u.a.:  Snap Camera Wer hat was gespielt? Microsoft / Activision Schimmel im Bett Schimmel an Außenwand Schimmel überall Baukompott Poser und Stau „Scheiß Thema“ Vegane Ernährung So ein Käse Hundegeschichten",
+  "published_at": "2022-01-22T12:15:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-01-22_retrokompott_stammtisch_156_21012022_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2022-01-22_retrokompott_stammtisch_156_21012022_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58093824,
+  "duration": "1:00:31",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "573da03b8f8f3f71888d52fcf8c9608db67718df326ed2350d361b574d88bddd"
+}

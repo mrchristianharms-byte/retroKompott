@@ -1,0 +1,19 @@
+{
+  "id": "ddc0c7c3fd569090153b825471ed058d9a657c252412e81cef37330e991b3684",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-09-21_retrokompott_stammtisch_033_21092019_1h.mp3",
+  "slug": "retrokompott-stammtisch-033-20-09-2019-preview-ddc0c7c3fd",
+  "title": "RETROKOMPOTT STAMMTISCH - 033 - 20.09.2019 PREVIEW",
+  "summary": "Trotz der kurzen Pause des Hauptpodcastes (am 06.10 geht es weiter) läuft der Stammtisch jeden Freitag wieder auf Hochtouren. ",
+  "published_at": "2019-09-21T08:35:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-09-21_retrokompott_stammtisch_033_21092019_1h.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2019-09-21_retrokompott_stammtisch_033_21092019_1h.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 57399168,
+  "duration": "59:47",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "f1e22a085de6eb343489d1816b0f7d056bfcdaf3184ab4addc505664137685e5"
+}

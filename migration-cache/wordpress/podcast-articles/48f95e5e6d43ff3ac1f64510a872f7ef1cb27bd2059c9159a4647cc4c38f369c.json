@@ -1,0 +1,19 @@
+{
+  "id": "48f95e5e6d43ff3ac1f64510a872f7ef1cb27bd2059c9159a4647cc4c38f369c",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-10-30_retrokompott_stammtisch_144_29102021_preview.mp3",
+  "slug": "retrokompott-stammtisch-144-preview-48f95e5e6d",
+  "title": "Retrokompott Stammtisch 144 (Preview)",
+  "summary": "Themen werden voraussichtlich nachgereicht :)",
+  "published_at": "2021-10-30T01:25:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-10-30_retrokompott_stammtisch_144_29102021_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-10-30_retrokompott_stammtisch_144_29102021_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58151808,
+  "duration": "1:00:34",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "415c9894fe39199214b604db9d8b60cbd67ca42c232e40c626eb38830715b857"
+}

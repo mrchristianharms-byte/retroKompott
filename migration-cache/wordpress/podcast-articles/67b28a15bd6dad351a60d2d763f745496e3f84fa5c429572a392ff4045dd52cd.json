@@ -1,0 +1,19 @@
+{
+  "id": "67b28a15bd6dad351a60d2d763f745496e3f84fa5c429572a392ff4045dd52cd",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2024-06-01_retrokompott_stammtisch_279_31052024_preview.mp3",
+  "slug": "retrokompott-stammtisch-279-vom-31-05-2024-preview-67b28a15bd",
+  "title": "Retrokompott Stammtisch 279 vom 31.05.2024 (Preview)",
+  "summary": "Die komplette Folge gibt es fuer alle Unterstuetzer bei Steady und Patreon ab 1 Euro / Monat.  https://www.patreon.com/retrokompott oder https://steadyhq.com/retrokompott",
+  "published_at": "2024-06-01T07:53:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2024-06-01_retrokompott_stammtisch_279_31052024_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2024-06-01_retrokompott_stammtisch_279_31052024_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58571520,
+  "duration": "1:01:01",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "1c4073c5885ced0aec8df356a03bba2eea739d15f80c6a7b59a6b0a66294190e"
+}

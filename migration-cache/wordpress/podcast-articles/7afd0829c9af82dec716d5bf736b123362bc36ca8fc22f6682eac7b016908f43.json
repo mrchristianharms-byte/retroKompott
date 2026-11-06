@@ -1,0 +1,19 @@
+{
+  "id": "7afd0829c9af82dec716d5bf736b123362bc36ca8fc22f6682eac7b016908f43",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-10-10_retrokompott_stammtisch_089_091020201h_128kb.mp3",
+  "slug": "retrokompott-stammtisch-89-09-10-2020-preview-erste-stunde-7afd0829c9",
+  "title": "Retrokompott Stammtisch 89 - 09.10.2020 (Preview erste Stunde)",
+  "summary": "Themen: - Wer hat was gespielt? - Nadeldrucker - Handscanner - Kriminelle Geschichten - Drogen - Darmprobleme - Apple vs. Epic - Flugsimulator 2020 - Lemminge - Capture Karten - \"Lustkäufe\" - Emulatoren - Star Wars - Musik - Scumm VM & Residual",
+  "published_at": "2020-10-10T10:05:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-10-10_retrokompott_stammtisch_089_091020201h_128kb.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-10-10_retrokompott_stammtisch_089_091020201h_128kb.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58058880,
+  "duration": "1:00:29",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "afa0b8fbddfba4c69e9695b4a4b8d4c4ff03d01865c77c54df45410b95aded98"
+}

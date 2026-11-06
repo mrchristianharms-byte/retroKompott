@@ -1,0 +1,19 @@
+{
+  "id": "b5371723bf8cf8d64c53cde672f79cc1730e395c412cfe1951d21f66f593a41f",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2025-03-08_retrokompott_stammtisch_309_07032025_preview.mp3",
+  "slug": "retrokompott-stammtisch-319-vom-07-03-2025-preview-b5371723bf",
+  "title": "Retrokompott Stammtisch 319 vom 07.03.2025 (Preview)",
+  "summary": " Die komplette Folge gibt es fuer alle Unterstuetzer bei Steady und Patreon ab 1 Euro / Monat.  https://www.patreon.com/retrokompott oder https://steadyhq.com/retrokompott",
+  "published_at": "2025-03-08T06:27:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2025-03-08_retrokompott_stammtisch_309_07032025_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2025-03-08_retrokompott_stammtisch_309_07032025_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58511273,
+  "duration": "1:00:57",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "dcf453780797480c14cef68b601460429fec0e09c2402aba02037d08a7651beb"
+}

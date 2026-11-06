@@ -1,0 +1,19 @@
+{
+  "id": "f79136786539bfdacf58e90ca83b63ba04db398eb9c38a7a802b1ccef22455ec",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-07-27_retrokompott_stammtisch_026_26072019_1h.mp3",
+  "slug": "retrokompott-stammtisch-026-26-07-2019-preview-f791367865",
+  "title": "RETROKOMPOTT STAMMTISCH - 026 - 26.07.2019 PREVIEW",
+  "summary": "Auch der 26te Stammtisch kratzt in unser \"Vollversion\" wieder an den drei Stunden.  Viel Spaß beim Hören der ersten Stunde!  Den Rest gibt es für alle Unterstützer bei Steady oder Patreon",
+  "published_at": "2019-07-26T23:04:34.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2019-07-27_retrokompott_stammtisch_026_26072019_1h.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2019-07-27_retrokompott_stammtisch_026_26072019_1h.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58612608,
+  "duration": "1:01:03",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "35d8b3e694ea267ddfabc928585f6c853e4342022cfa2763447cb89b8d751989"
+}

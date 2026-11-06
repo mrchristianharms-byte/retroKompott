@@ -1,0 +1,19 @@
+{
+  "id": "6ffb32c0c1ebdd1997f41dfbe90e7dea8c4dcd570d0343f9bf6595d73f0a3bc8",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-03-21_retrokompott_stammtisch_059_20032020_128kb.mp3",
+  "slug": "retrokompott-stammtisch-059-20-03-2020-komplett-6ffb32c0c1",
+  "title": "RETROKOMPOTT STAMMTISCH - 059 - 20.03.2020 (Komplett)",
+  "summary": "Der aktuelle Stammtisch (brutto über 6 Stunden) wird auch dieses Mal über den normalen RSS Feed KOMPLETT für alle kostenfrei ausgestrahlt, wir möchten allen unseren Hörern die Möglichkeit geben, auch in schweren Zeiten abschalten zu können. ",
+  "published_at": "2020-03-21T11:41:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2020-03-21_retrokompott_stammtisch_059_20032020_128kb.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2020-03-21_retrokompott_stammtisch_059_20032020_128kb.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 315808512,
+  "duration": "5:28:58",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "ad38446bb9a3644e0a7b7bbb07a5a6e85f86b1c2e7df5e8dcbcaabed5e8089e3"
+}

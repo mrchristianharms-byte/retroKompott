@@ -1,0 +1,32 @@
+{
+  "id": 3604,
+  "resource_type": "page",
+  "slug": "00-off-topic",
+  "status": "publish",
+  "link": "https://blog.retrokompott.de/00-off-topic/",
+  "date": "2019-06-21T22:17:38",
+  "date_gmt": "2019-06-21T22:17:38",
+  "modified": "2021-05-23T16:06:09",
+  "modified_gmt": "2021-05-23T16:06:09",
+  "title": {
+    "rendered": "13 &#8211; Off Topic"
+  },
+  "content": {
+    "rendered": "<hr />\n<h4 id=\"retrokompott-classics--themen-\" style=\"text-align: center;\"><strong>Off Topic<br />\n</strong><strong>Was es s</strong><strong>onst nocht gibt.<br />\n</strong></h4>\n<hr />\n<pre style=\"text-align: center;\">unregelmaessige Ausstrahlung ueber <a href=\"https://blog.retrokompott.de/helft-uns/\">Patreon oder Steady</a></pre>\n<hr />\n<pre style=\"padding-left: 40px;\"><strong>Wenn Euch das Projekt gefaellt unterstuetzt uns bitte <a href=\"https://blog.retrokompott.de/helft-uns/\">hier</a>,\r\ndenn nur so koennen wir viele der neuen Ideen verwirklichen!</strong></pre>\n<hr />\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Off Topic Was es sonst nocht gibt. unregelmaessige Ausstrahlung ueber Patreon oder Steady Wenn Euch das Projekt gefaellt unterstuetzt uns bitte hier, denn nur so koennen wir viele der neuen Ideen verwirklichen!</p>\n",
+    "protected": false
+  },
+  "categories": [],
+  "tags": [],
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "sticky": false,
+  "guid": {
+    "rendered": "http://blog.retrokompott.de/?page_id=3604"
+  },
+  "source_hash": "d95951ba928b16b556adfc3fa9d97837340177a235e3fe67132dd25aecc99e7f"
+}

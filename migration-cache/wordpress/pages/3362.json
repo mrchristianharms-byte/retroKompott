@@ -1,0 +1,32 @@
+{
+  "id": 3362,
+  "resource_type": "page",
+  "slug": "kategorien",
+  "status": "publish",
+  "link": "https://blog.retrokompott.de/kategorien/",
+  "date": "2019-05-09T22:09:08",
+  "date_gmt": "2019-05-09T22:09:08",
+  "modified": "2019-05-09T22:09:08",
+  "modified_gmt": "2019-05-09T22:09:08",
+  "title": {
+    "rendered": "Kategorien"
+  },
+  "content": {
+    "rendered": "<p>CONTENTS</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>CONTENTS</p>\n",
+    "protected": false
+  },
+  "categories": [],
+  "tags": [],
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "sticky": false,
+  "guid": {
+    "rendered": "http://blog.retrokompott.de/veranstaltungen/kategorien/"
+  },
+  "source_hash": "174072d194560c7782fdb1bb2c21b3bc06a3f665f4b53b916aa646b1aa4a3fe5"
+}

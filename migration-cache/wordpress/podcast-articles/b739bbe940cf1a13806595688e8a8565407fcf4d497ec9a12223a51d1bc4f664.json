@@ -1,0 +1,19 @@
+{
+  "id": "b739bbe940cf1a13806595688e8a8565407fcf4d497ec9a12223a51d1bc4f664",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-04-03_retrokompott_stammtisch_114_02042021.mp3",
+  "slug": "retrokompott-stammtisch-114-02-04-2021-komplett-b739bbe940",
+  "title": "Retrokompott Stammtisch 114 - 02.04.2021 (komplett)",
+  "summary": "Themen u.a.: - Videostammtisch - Mister - Streaming TV - Ransomware - Shadow PC - Amiga Reparatur - Wer hat was gespielt? - Nintendo Spiele und Hardware",
+  "published_at": "2021-04-03T14:33:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2021-04-03_retrokompott_stammtisch_114_02042021.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2021-04-03_retrokompott_stammtisch_114_02042021.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 451663104,
+  "duration": "7:50:29",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "8b3326ffd52b7a44e0a82d404f68242765e5d1c7493df1d1010bcc20874a7fc5"
+}

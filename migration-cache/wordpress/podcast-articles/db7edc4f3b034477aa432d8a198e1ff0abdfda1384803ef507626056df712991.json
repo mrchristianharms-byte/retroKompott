@@ -1,0 +1,19 @@
+{
+  "id": "db7edc4f3b034477aa432d8a198e1ff0abdfda1384803ef507626056df712991",
+  "resource_type": "article",
+  "source_type": "podcast_rss",
+  "source_id": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-04-09_retrokompott_stammtisch_167_08042022_preview.mp3",
+  "slug": "retrokompott-stammtisch-167-preview-vom-08-04-2022-db7edc4f3b",
+  "title": "Retrokompott Stammtisch 167 (Preview) vom 08.04.2022",
+  "summary": "Themen u.a.: Amiga Mini, C64 Maxi / Mini, DTV, FPGA, Stream Deck, Klorolllen, PS Plus Premium, Windows, Musik Programme",
+  "published_at": "2022-04-09T10:29:00.000Z",
+  "audio_guid": "http://www.medienpublikation.de/retrocompod/podcastgen/?name=2022-04-09_retrokompott_stammtisch_167_08042022_preview.mp3",
+  "audio_url": "http://www.medienpublikation.de/retrocompod/podcastgen/media/2022-04-09_retrokompott_stammtisch_167_08042022_preview.mp3",
+  "audio_mime_type": "audio/mpeg",
+  "audio_length_bytes": 58568832,
+  "duration": "1:01:01",
+  "podcast": true,
+  "homepage": false,
+  "stammtisch": false,
+  "source_hash": "ae06e50de74c66e43d882ddca6863558a076d20c9a3af74f892a0d953194c7ca"
+}
